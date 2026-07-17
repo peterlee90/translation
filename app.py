@@ -247,6 +247,11 @@ def retrieve_hybrid(user_input, top_k=4):
             else:
                 best_match = max(items, key=lambda x: x['score'])
                 print(f"📌 [일반 벡터 선택]: '{term}' -> {best_match['domain']} (Score: {best_match['score']:.4f})")
+
+        # 💡 [추가할 코드] 유사도 커트라인 적용 (점수가 낮으면 버림)
+        if best_match["score"] < 0.7:
+            print(f"⚠️ [유사도 미달]: '{term}' 무시 (Score: {best_match['score']:.4f})")
+            continue
         
         resolved_matches.append({
             "term": term, "domain": best_match["domain"], "pos": best_match["pos"],
