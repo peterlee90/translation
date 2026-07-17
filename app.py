@@ -31,7 +31,7 @@ class TranslationRequest(BaseModel):
     draft_text: str = ""  # 💡 구글 초벌 번역 수신용
 
 @app.post("/translate/stream")
-async def translate_stream(payload: TextRequest):
+async def translate_stream(payload: TranslationRequest):  # 💡 수정됨
     # 텍스트 교정 및 매칭된 사전 데이터(Dict) 추출
     corrected_text, matched_dict = correct_text(payload.text)
     
