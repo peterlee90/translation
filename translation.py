@@ -6,13 +6,11 @@ import textwrap
 from collections import defaultdict, deque
 from transformers import AutoTokenizer
 from openai import AsyncOpenAI
-from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, PointStruct, Filter, FieldCondition, MatchAny
-from sentence_transformers import SentenceTransformer
 
-# ---------------------------------------------------------
-# 1. 전역 상태 및 문맥 추적기
-# ---------------------------------------------------------
+# shared.py에서 공통 객체만 임포트
+from shared import embed_model, qdrant
+
 CONVO_HISTORY = deque(maxlen=3)
 LAST_ACTIVE_DOMAIN = "league"
 
@@ -28,10 +26,7 @@ LLM_CLIENT = AsyncOpenAI(
 
 MODEL_NAME = "Qwen/Qwen3-8B-FP8"
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-embed_model = SentenceTransformer(EMBED_MODEL_NAME, device="cuda")
 
-qdrant = QdrantClient(":memory:")
 COLLECTION_NAME = "hybrid_dictionary"
 
 SYSTEM_PROMPT = textwrap.dedent("""\
