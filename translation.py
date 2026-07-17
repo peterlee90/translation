@@ -255,7 +255,7 @@ async def generate_translation_stream(user_input: str):
         yield "data: [DONE]\n\n"
         return
 
-    resolved_matches = retrieve_hybrid(user_input)
+    resolved_matches = matched_dict
     
     messages = [{"role": "system", "content": SYSTEM_PROMPT}]
     for turn in CONVO_HISTORY:
