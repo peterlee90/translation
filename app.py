@@ -65,7 +65,8 @@ EXACT_MATCH_DICT = {}
 
 def init_exact_matches():
     global EXACT_MATCH_DICT
-    json_path = "/sgl-workspace/sglang/data/quick.json" # 경로 확인 필요
+    # 수정됨: 현재 스크립트 위치 기준 data 폴더 하위 탐색
+    json_path = os.path.join(os.path.dirname(__file__), "data", "quick.json")
     if os.path.exists(json_path):
         with open(json_path, "r", encoding="utf-8") as f:
             EXACT_MATCH_DICT = json.load(f)
@@ -117,19 +118,27 @@ def init_vector_db():
             distance=Distance.COSINE
         ),
     )
-    if os.path.exists("verbs.txt"):
-        with open("verbs.txt", "r", encoding="utf-8") as f:
+    
+    # 동적 경로 설정 (app.py 위치 기준)
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    DATA_DIR = os.path.join(BASE_DIR, "data")
+    verbs_path = os.path.join(DATA_DIR, "verbs.txt")
+
+    if os.path.exists(verbs_path):
+        with open(verbs_path, "r", encoding="utf-8") as f:
             for line in f:
                 parts = [p.strip() for p in line.split("|")]
                 if len(parts) >= 2: 
                     IRREGULAR_VERBS[parts[0].lower()] = "|".join(parts) 
 
-    DATA_DIR = "/sgl-workspace/sglang/data"
     if not os.path.exists(DATA_DIR):
         print(f"❌ 에러: {DATA_DIR} 폴더가 존재하지 않습니다.")
         return
+        
     files_to_load = glob.glob(os.path.join(DATA_DIR, "*.txt"))
-    files_to_load = [f for f in files_to_load if "verbs.txt" not in f]
+    # 안전한 필터링을 위해 파일명만 추출하여 비교
+    files_to_load = [f for f in files_to_load if os.path.basename(f) != "verbs.txt"]
+    
     points = []
     point_id = 0
     loaded_data = []
