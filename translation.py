@@ -9,7 +9,7 @@ from openai import AsyncOpenAI
 from qdrant_client.models import Distance, VectorParams, PointStruct, Filter, FieldCondition, MatchAny
 
 # shared.py에서 공통 객체만 임포트
-from shared import embed_model, qdrant
+import shared
 
 CONVO_HISTORY = deque(maxlen=3)
 LAST_ACTIVE_DOMAIN = "league"
