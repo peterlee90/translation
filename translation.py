@@ -239,6 +239,7 @@ def get_user_prompt(sentence, resolved_matches):
 
 async def generate_translation_stream(user_input: str):
     print(f"\n🗣️ [번역기 입력]: {user_input}")
+    yield f"data: [CORRECTED]{user_input}\n\n"
 
     normalized_input = user_input.lower().strip()
     normalized_input = normalized_input.replace("you're", "you are")
