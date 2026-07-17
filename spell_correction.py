@@ -5,7 +5,7 @@ import jellyfish
 import phonetics
 import nltk
 from symspellpy import SymSpell, Verbosity
-
+import shared
 # NLTK 표준 영단어 사전 및 가벼운 품사 태거 로드
 nltk.download('words', quiet=True)
 nltk.download('punkt', quiet=True)
