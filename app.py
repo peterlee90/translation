@@ -26,8 +26,9 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(lifespan=lifespan)
 
-class TextRequest(BaseModel):
+class TranslationRequest(BaseModel):
     text: str
+    draft_text: str = ""  # 💡 구글 초벌 번역 수신용
 
 @app.post("/translate/stream")
 async def translate_stream(payload: TextRequest):
@@ -36,7 +37,7 @@ async def translate_stream(payload: TextRequest):
     
     # 교정된 텍스트와 사전을 번역기로 전달
     return StreamingResponse(
-        generate_translation_stream(corrected_text, matched_dict), 
+        generate_translation_stream(corrected_text, payload.draft_text, matched_dict), 
         media_type="text/event-stream"
     )
 
