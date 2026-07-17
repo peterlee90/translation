@@ -258,9 +258,11 @@ async def generate_translation_stream(user_input: str, draft_text: str, matched_
     normalized_input = normalized_input.replace("don't", "do not")
     normalized_input = re.sub(r'[^a-z0-9\s]', '', normalized_input).strip()
     
-    if normalized_input in EXACT_MATCH_DICT:
-        print(f"⚡ [1단계 하드매칭 성공]: LLM 우회 -> {EXACT_MATCH_DICT[normalized_input]}")
-        yield f"data: {EXACT_MATCH_DICT[normalized_input]}\n\n"
+    # 💡 shared.EXACT_MATCH_DICT로 수정
+    if normalized_input in shared.EXACT_MATCH_DICT:
+        match_val = shared.EXACT_MATCH_DICT[normalized_input]
+        print(f"⚡ [1단계 하드매칭 성공]: LLM 우회 -> {match_val}")
+        yield f"data: {match_val}\n\n"
         yield "data: [DONE]\n\n"
         return
 
