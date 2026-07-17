@@ -237,7 +237,7 @@ def get_user_prompt(sentence, resolved_matches):
         {dict_str}
         {base_prompt}""")
 
-async def generate_translation_stream(user_input: str):
+async def generate_translation_stream(user_input: str, matched_dict: list):
     print(f"\n🗣️ [번역기 입력]: {user_input}")
     yield f"data: [CORRECTED]{user_input}\n\n"
 
