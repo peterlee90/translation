@@ -4,15 +4,18 @@ import spacy
 import difflib
 import jellyfish
 import phonetics
+import nltk
 from qdrant_client.models import Distance, VectorParams, PointStruct, Filter, FieldCondition, MatchAny
 from symspellpy import SymSpell, Verbosity
-# 💡 공통 객체 임포트 (중복 생성 방지)
-from shared import embed_model, qdrant
-# 최상단 import 영역 추가
-import nltk
+
+# NLTK 표준 영단어 사전 로드
 nltk.download('words', quiet=True)
 from nltk.corpus import words
 ENGLISH_DICT = set(words.words())
+
+# 💡 공통 객체 임포트 (중복 생성 방지)
+from shared import embed_model, qdrant
+
 nlp = spacy.load("en_core_web_sm") 
 COLLECTION_NAME = "league_stt_logical" 
 
@@ -120,7 +123,10 @@ def correct_text(stt_text):
     for chunk in chunks:
         text = chunk['text'] 
         clean_chunk = re.sub(r'[^\w\s]', '', text).strip().lower()
-        if not clean_chunk or clean_chunk in IGNORE_TOKENS or clean_chunk in ENGLISH_DICT: continue
+        
+        # 💡 영어 사전에 있거나 무시 단어면 스킵 (속도 최적화)
+        if not clean_chunk or clean_chunk in IGNORE_TOKENS or clean_chunk in ENGLISH_DICT: 
+            continue
         
         merged_chunk = clean_chunk.replace(" ", "")
         chunk_len = len(merged_chunk)
@@ -140,7 +146,7 @@ def correct_text(stt_text):
                     for m in matches: search_terms.add(m)
         print(f"   ▶ SymSpell 후보: {list(set(sym_candidates)) if sym_candidates else '없음'}")
         
-        # 💡 [추가] SymSpell 후보가 아예 없으면 연산 스킵
+        # 💡 조기 종료
         if not sym_candidates:
             print("   ❌ [기각]: SymSpell 후보 없음 ➔ 조기 종료")
             continue
@@ -149,12 +155,13 @@ def correct_text(stt_text):
         pho_candidates = []
         for term in ALL_TERMS:
             term_words = term.split()
-            if len(chunk_words) != len(term_words):
-                continue
+            
+            # 💡 단어 개수 체크 삭제 (cho'gath vs cho gath 방어 해제)
             if not any(t.pos_ in ["NOUN", "PROPN"] for t in nlp(term)):
                 continue
 
-            t_clean = term.replace(" ", "")
+            # 💡 특수기호 제거 후 공백 제거
+            t_clean = re.sub(r'[^\w\s]', '', term).lower().replace(" ", "")
             if abs(count_syllables(merged_chunk) - count_syllables(t_clean)) > 1:
                 continue
 
@@ -163,7 +170,7 @@ def correct_text(stt_text):
                 continue
 
             is_pho_match = False
-            if len(chunk_words) > 1:
+            if len(chunk_words) > 1 and len(chunk_words) == len(term_words):
                 word_sims = []
                 for cw, tw in zip(chunk_words, term_words):
                     cw_h = [h for h in phonetics.dmetaphone(cw) if h]
@@ -201,11 +208,11 @@ def correct_text(stt_text):
         candidate_scores = []
 
         for target in candidate_pool:
-            target_clean = target.replace(" ", "")
+            # 💡 특수기호 제거 후 공백 제거
+            target_clean = re.sub(r'[^\w\s]', '', target).lower().replace(" ", "")
             target_words = target.split()
             
-            if len(chunk_words) != len(target_words):
-                continue
+            # 💡 단어 개수 체크 삭제
             if abs(count_syllables(merged_chunk) - count_syllables(target_clean)) > 1:
                 continue
             if merged_chunk == target_clean:
@@ -226,7 +233,7 @@ def correct_text(stt_text):
                 pho_merged = max(bi_jaro_winkler(c, t) for c in c_hashes_merged for t in t_hashes_merged)
             
             pho_split = 0
-            if len(chunk_words) == len(target_words) and len(chunk_words) > 1:
+            if len(chunk_words) > 1 and len(chunk_words) == len(target_words):
                 w_sims = []
                 for cw, tw in zip(chunk_words, target_words):
                     cw_h = [h for h in phonetics.dmetaphone(cw) if h]
