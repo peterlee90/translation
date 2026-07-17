@@ -107,9 +107,20 @@ def count_syllables(word):
 
 def correct_text(stt_text):
     print(f"\n{'='*50}\n[원본 문장] {stt_text}\n{'-'*50}")
-    chunks = fast_noun_chunker(stt_text)
     modified_text = stt_text
-    matched_dict = [] # 💡 번역기 전달용
+    matched_dict = []
+    
+    # 💡 [추가] 1. STT가 완벽히 인식한 정답 게임 용어(laning phase 등)를 최우선 스캔
+    lower_stt = stt_text.lower()
+    for db_info in TERM_DB.values():
+        term_original = db_info["term"].lower()
+        # 단어 경계(\b)를 포함해 완벽히 일치할 때만 사전에 추가
+        if len(term_original) >= 3 and re.search(rf'\b{re.escape(term_original)}\b', lower_stt):
+            if db_info not in matched_dict:
+                matched_dict.append(db_info)
+
+    # 2. 기존 오타 교정 로직 시작
+    chunks = fast_noun_chunker(stt_text)
     
     def bi_jaro_winkler(s1, s2):
         if not s1 or not s2: return 0.0
