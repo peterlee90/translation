@@ -131,7 +131,7 @@ def correct_text(stt_text):
     for chunk in chunks:
         text = chunk['text'] 
         clean_chunk = re.sub(r'[^\w\s]', '', text).strip().lower()
-        
+        chunk_words_clean = clean_chunk.split()
         # 💡 영어 사전에 있거나 무시 단어면 스킵
         if not clean_chunk or clean_chunk in IGNORE_TOKENS or clean_chunk in ENGLISH_DICT: 
             continue
