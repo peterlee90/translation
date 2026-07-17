@@ -1,0 +1,1715 @@
+basketball | 3-and-D | noun | 3앤D | Thompson is the ultimate 3-and-D. | 탐슨은 최고의 3앤D야.
+basketball | 3-and-D | noun | 3앤D | He's a classic 3-and-D wing. | 전형적인 3앤D 윙이야.
+basketball | 3-and-D | noun | 3앤D | Teams value 3-and-D players. | 3앤D 선수 가치는 높아.
+basketball | 3-and-D | noun | 3앤D | That lineup needs more 3-and-D. | 저 라인업엔 3앤D가 부족해.
+basketball | airball | noun | 에어볼 | George shoots a terrible airball. | 조지가 끔찍한 에어볼을 던졌네.
+basketball | airball | noun | 에어볼 | That was a clean airball. | 깔끔한 에어볼이네.
+basketball | airball | noun | 에어볼 | He missed with an airball. | 에어볼 냈네.
+basketball | airball | noun | 에어볼 | Don't clip that airball. | 그 에어볼은 박제하지 마.
+basketball | airball | noun | 에어볼 | George shoots an airball. | 조지가 에어볼 냈네.
+basketball | airball | noun | 에어볼 | Complete airball. | 완전 에어볼이다.
+basketball | airball | noun | 에어볼 | He missed everything. | 공기가 더 맞았네.
+basketball | airball | noun | 에어볼 | That's going on the highlights. | 에어볼 박제감이네.
+basketball | Allen Iverson | noun | 앨런 아이버슨 | Allen Iverson crossed him up. | 앨런 아이버슨이 수비를 벗겨냈어.
+basketball | Allen Iverson | noun | 앨런 아이버슨 | Allen Iverson got into the lane. | 앨런 아이버슨이 페인트존으로 들어갔어.
+basketball | Allen Iverson | noun | 앨런 아이버슨 | Allen Iverson carried the scoring load. | 앨런 아이버슨이 득점을 책임졌어.
+basketball | Allen Iverson | noun | 앨런 아이버슨 | Allen Iverson played with no fear. | 앨런 아이버슨은 겁 없이 뛰었어.
+basketball | alley-oop | noun | 앨리웁 | Lob City alley-oop to Griffin. | 그리핀 앨리웁 성공.
+basketball | alley-oop | noun | 앨리웁 | What an alley-oop. | 앨리웁 미쳤네.
+basketball | alley-oop | noun | 앨리웁 | They connected on the alley-oop. | 앨리웁 성공했다.
+basketball | alley-oop | noun | 앨리웁 | Easy alley-oop finish. | 앨리웁 마무리 깔끔하네.
+basketball | alley-oop | verb | 앨리웁하다 | He alley-ooped it to Zion. | 자이언에게 앨리웁했어.
+basketball | alley-oop | verb | 앨리웁하다 | Paul alley-ooped it inside. | 폴이 안으로 앨리웁했어.
+basketball | alley-oop | verb | 앨리웁하다 | He alley-ooped it over the top. | 수비 위로 앨리웁했어.
+basketball | alley-oop | verb | 앨리웁하다 | He alley-ooped it to the rim. | 림 근처로 앨리웁했어.
+basketball | Alonzo Mourning | noun | 알론조 모닝 | Alonzo Mourning came up with the block. | 알론조 모닝이 블록을 기록했어.
+basketball | Alonzo Mourning | noun | 알론조 모닝 | Alonzo Mourning controlled the paint. | 알론조 모닝이 골밑을 장악했어.
+basketball | Alonzo Mourning | noun | 알론조 모닝 | Alonzo Mourning played with intensity. | 알론조 모닝이 강하게 뛰었어.
+basketball | Alonzo Mourning | noun | 알론조 모닝 | Alonzo Mourning finished inside. | 알론조 모닝이 골밑에서 마무리했어.
+basketball | Alperen Sengun | noun | 알페렌 셍귄 | Alperen Sengun worked from the post. | 알페렌 셍귄이 포스트에서 플레이했어.
+basketball | Alperen Sengun | noun | 알페렌 셍귄 | Alperen Sengun found the cutter. | 알페렌 셍귄이 컷인 선수를 찾았어.
+basketball | Alperen Sengun | noun | 알페렌 셍귄 | Alperen Sengun controlled the offense. | 알페렌 셍귄이 공격을 조율했어.
+basketball | Alperen Sengun | noun | 알페렌 셍귄 | Alperen Sengun scored over his shoulder. | 알페렌 셍귄이 턴슛을 넣었어.
+basketball | Amar'e Stoudemire | noun | 아마레 스타더마이어 | Amar'e Stoudemire rolled hard to the rim. | 아마레 스타더마이어가 강하게 림으로 들어갔어.
+basketball | Amar'e Stoudemire | noun | 아마레 스타더마이어 | Amar'e Stoudemire finished the lob. | 아마레 스타더마이어가 앨리웁을 마무리했어.
+basketball | Amar'e Stoudemire | noun | 아마레 스타더마이어 | Amar'e Stoudemire threw down the dunk. | 아마레 스타더마이어가 덩크를 꽂았어.
+basketball | Amar'e Stoudemire | noun | 아마레 스타더마이어 | Amar'e Stoudemire lived above the rim. | 아마레 스타더마이어는 림 위에서 놀았어.
+basketball | Amen Thompson | noun | 아멘 탐슨 | Amen Thompson pushed the break. | 아멘 탐슨이 속공을 전개했어.
+basketball | Amen Thompson | noun | 아멘 탐슨 | Amen Thompson attacked the basket. | 아멘 탐슨이 골밑을 공략했어.
+basketball | Amen Thompson | noun | 아멘 탐슨 | Amen Thompson made a hustle play. | 아멘 탐슨이 허슬 플레이를 했어.
+basketball | Amen Thompson | noun | 아멘 탐슨 | Amen Thompson locked up his matchup. | 아멘 탐슨이 상대를 꽁꽁 묶었어.
+basketball | and-one | noun | 앤드원 | LeBron flexes after the and-one. | 르브론 앤드원 후 세리머니한다.
+basketball | and-one | noun | 앤드원 | Count it and-one. | 앤드원이다.
+basketball | and-one | noun | 앤드원 | Tough and-one finish. | 앤드원 마무리 좋았다.
+basketball | and-one | noun | 앤드원 | He wanted the and-one. | 앤드원 노렸네.
+basketball | ankle breaker | noun | 앵클 브레이커 | Curry with the ankle breaker. | 커리의 앵클 브레이커.
+basketball | ankle breaker | noun | 앵클 브레이커 | That was a nasty ankle breaker. | 엄청난 앵클 브레이커였어.
+basketball | ankle breaker | noun | 앵클 브레이커 | He dropped him with an ankle breaker. | 앵클 브레이커로 넘어뜨렸어.
+basketball | ankle breaker | noun | 앵클 브레이커 | The ankle breaker went viral. | 그 앵클 브레이커가 화제였어.
+basketball | Anthony Davis | noun | 앤서니 데이비스 | Anthony Davis protected the rim. | 앤서니 데이비스가 림을 지켰어.
+basketball | Anthony Davis | noun | 앤서니 데이비스 | Anthony Davis cleaned up the glass. | 앤서니 데이비스가 리바운드를 정리했어.
+basketball | Anthony Davis | noun | 앤서니 데이비스 | Anthony Davis finished the lob. | 앤서니 데이비스가 앨리웁을 마무리했어.
+basketball | Anthony Davis | noun | 앤서니 데이비스 | Anthony Davis controlled both ends. | 앤서니 데이비스가 공수를 지배했어.
+basketball | Anthony Edwards | noun | 앤서니 에드워즈 | Anthony Edwards exploded to the rim. | 앤서니 에드워즈가 림까지 폭발적으로 들어갔어.
+basketball | Anthony Edwards | noun | 앤서니 에드워즈 | Anthony Edwards rose for the dunk. | 앤서니 에드워즈가 덩크를 꽂았어.
+basketball | Anthony Edwards | noun | 앤서니 에드워즈 | Anthony Edwards took over the quarter. | 앤서니 에드워즈가 쿼터를 지배했어.
+basketball | Anthony Edwards | noun | 앤서니 에드워즈 | Anthony Edwards got the crowd going. | 앤서니 에드워즈가 분위기를 끌어올렸어.
+basketball | assist | noun | 어시스트 | Magic with another assist. | 매직 또 어시스트 적립.
+basketball | assist | noun | 어시스트 | Great assist. | 어시스트 좋았다.
+basketball | assist | noun | 어시스트 | He finished with 12 assists. | 어시스트 12개 찍었네.
+basketball | assist | noun | 어시스트 | That's an easy assist. | 어시스트 하나 추가네.
+basketball | attack | verb | 공격하다 | He attacked the rim. | 림을 공격했어.
+basketball | attack | verb | 공격하다 | Brunson attacked all game. | 브런슨이 경기 내내 공격했어.
+basketball | attack | verb | 공격하다 | He attacked the closeout. | 클로즈아웃을 공격했어.
+basketball | attack | verb | 공격하다 | Keep attacking the paint. | 계속 페인트존을 공격해.
+basketball | back down | verb | 백다운하다 | He backed down the defender. | 수비수 상대로 백다운했어.
+basketball | back down | verb | 백다운하다 | Jokic backed him down. | 요키치가 백다운했어.
+basketball | back down | verb | 백다운하다 | He backed down into the paint. | 페인트존까지 백다운했어.
+basketball | back down | verb | 백다운하다 | Keep backing him down. | 계속 백다운해.
+basketball | back down | verb | 밀고들어가다 | He backed down his defender near the block. | 블록 근처에서 수비수를 밀고들어갔어.
+basketball | back down | verb | 밀고들어가다 | Jokic backed him down into the paint. | 요키치가 페인트존까지 밀고들어갔어.
+basketball | back down | verb | 밀고들어가다 | He backed down before the turnaround. | 턴어라운드 전에 밀고들어갔어.
+basketball | back down | verb | 밀고들어가다 | Back him down toward the middle. | 중앙 쪽으로 밀고들어가.
+basketball | backboard | noun | 백보드 | Off the backboard to James. | 백보드를 맞고 제임스에게 갔어.
+basketball | backboard | noun | 백보드 | He banked it off the backboard. | 백보드를 맞혀 넣었어.
+basketball | backboard | noun | 백보드 | The ball hit the backboard first. | 공이 먼저 백보드를 맞았어.
+basketball | backboard | noun | 백보드 | Nice touch off the backboard. | 백보드 활용이 좋았어.
+basketball | backcourt | noun | 백코트 | Splash Brothers in the backcourt. | 스플래시 브라더스 백코트 조합.
+basketball | backcourt | noun | 백코트 | They have an elite backcourt. | 최고 수준의 백코트야.
+basketball | backcourt | noun | 백코트 | The backcourt carried the team. | 백코트가 팀을 이끌었어.
+basketball | backcourt | noun | 백코트 | Strong defense from the backcourt. | 백코트 수비가 좋았어.
+basketball | backdoor cut | noun | 백도어 컷 | Wade scores off backdoor cut. | 웨이드 백도어 컷 성공.
+basketball | backdoor cut | noun | 백도어 컷 | Nice backdoor cut. | 백도어 컷 좋았다.
+basketball | backdoor cut | noun | 백도어 컷 | They got burned by a backdoor cut. | 백도어 컷에 당했네.
+basketball | backdoor cut | noun | 백도어 컷 | Watch the backdoor cut. | 백도어 컷 조심해.
+basketball | backdoor cut | noun | 백도어 컷 | Wade scores on backdoor cut. | 웨이드가 백도어 컷으로 득점했어.
+basketball | backdoor cut | noun | 백도어 컷 | Nice backdoor cut there. | 백도어 컷 좋았어.
+basketball | backdoor cut | noun | 백도어 컷 | The backdoor cut was wide open. | 백도어 컷이 완전히 열렸어.
+basketball | backdoor cut | noun | 백도어 컷 | He slipped in on a backdoor cut. | 백도어 컷으로 들어갔어.
+basketball | backdown | noun | 백다운 | Shaq uses a powerful backdown. | 샤크 백다운 들어간다.
+basketball | backdown | noun | 백다운 | He won with a backdown. | 백다운으로 밀어버렸네.
+basketball | backdown | noun | 백다운 | That's too much backdown pressure. | 백다운 압박이 장난 아니네.
+basketball | backdown | noun | 백다운 | Stop that backdown. | 백다운 좀 막아봐.
+basketball | bailout pass | noun | 폭탄 패스 | LeBron throws a bailout pass. | 르브론이 폭탄 패스 던졌네.
+basketball | bailout pass | noun | 폭탄 패스 | That's a bailout pass. | 폭탄 패스네.
+basketball | bailout pass | noun | 폭탄 패스 | He saved the play with a bailout pass. | 폭탄 패스로 살렸네.
+basketball | bailout pass | noun | 폭탄 패스 | Tough catch off that bailout pass. | 폭탄 패스 받아내기 힘들었겠다.
+basketball | ball hog | noun | 볼호그 | Kobe called a ball hog. | 코비는 볼호그라는 말도 들었어.
+basketball | ball hog | noun | 볼호그 | Stop being a ball hog. | 혼자만 하지 마.
+basketball | ball hog | noun | 볼호그 | Nobody likes a ball hog. | 볼호그는 환영 못 받아.
+basketball | ball hog | noun | 볼호그 | He gets labeled a ball hog. | 볼호그 소리를 듣고 있어.
+basketball | Bam Adebayo | noun | 뱀 아데바요 | Bam Adebayo switched onto the guard. | 뱀 아데바요가 가드를 마크했어.
+basketball | Bam Adebayo | noun | 뱀 아데바요 | Bam Adebayo ran the handoff. | 뱀 아데바요가 핸드오프를 했어.
+basketball | Bam Adebayo | noun | 뱀 아데바요 | Bam Adebayo protected the rim. | 뱀 아데바요가 림을 지켰어.
+basketball | Bam Adebayo | noun | 뱀 아데바요 | Bam Adebayo made the extra pass. | 뱀 아데바요가 추가 패스를 했어.
+basketball | bank shot | noun | 뱅크샷 | What a bank shot by Tim Duncan. | 팀 던컨 뱅크샷 미쳤네.
+basketball | bank shot | noun | 뱅크샷 | That's a classic bank shot. | 전형적인 뱅크샷이네.
+basketball | bank shot | noun | 뱅크샷 | He called glass on that bank shot. | 뱅크샷 깔끔하게 넣었네.
+basketball | bank shot | noun | 뱅크샷 | Another bank shot from the baseline. | 또 뱅크샷 들어갔네.
+basketball | bank shot | noun | 뱅크샷 | Duncan's fundamental bank shot. | 던컨의 기본기 좋은 뱅크샷.
+basketball | bank shot | noun | 뱅크샷 | He called bank on that shot. | 뱅크샷으로 넣었어.
+basketball | bank shot | noun | 뱅크샷 | Smooth bank shot off the glass. | 깔끔한 뱅크샷이야.
+basketball | bank shot | noun | 뱅크샷 | The bank shot still works. | 뱅크샷은 여전히 통하지.
+basketball | baseline | noun | 베이스라인 | Curry moves along the baseline. | 커리가 베이스라인을 타고 움직여.
+basketball | baseline | noun | 베이스라인 | Nice baseline cut. | 베이스라인 컷 좋았어.
+basketball | baseline | noun | 베이스라인 | He drove the baseline. | 베이스라인으로 돌파했어.
+basketball | baseline | noun | 베이스라인 | The pass came from the baseline. | 베이스라인에서 패스가 나왔어.
+basketball | Ben Wallace | noun | 벤 월리스 | Ben Wallace protected the rim. | 벤 월리스가 림을 지켰어.
+basketball | Ben Wallace | noun | 벤 월리스 | Ben Wallace grabbed every rebound. | 벤 월리스가 리바운드를 다 잡았어.
+basketball | Ben Wallace | noun | 벤 월리스 | Ben Wallace anchored the defense. | 벤 월리스가 수비를 이끌었어.
+basketball | Ben Wallace | noun | 벤 월리스 | Ben Wallace brought the energy. | 벤 월리스가 에너지를 끌어올렸어.
+basketball | bench | noun | 벤치 | Lou Williams off the bench. | 루 윌리엄스가 벤치에서 나왔어.
+basketball | bench | noun | 벤치 | The bench scored 40 points. | 벤치 득점이 40점이야.
+basketball | bench | noun | 벤치 | Their bench made the difference. | 벤치가 차이를 만들었어.
+basketball | bench | noun | 벤치 | He came off the bench. | 벤치에서 출전했어.
+basketball | big man | noun | 빅맨 | Box out the opposing big man. | 상대 빅맨 박스아웃 해.
+basketball | big man | noun | 빅맨 | Their big man is dominating. | 상대 빅맨이 지배하네.
+basketball | big man | noun | 빅맨 | Feed the big man inside. | 빅맨한테 넣어줘.
+basketball | big man | noun | 빅맨 | We need another big man. | 빅맨 한 명 더 필요해.
+basketball | big man | noun | 빅맨 | Jokic is a unique big man.
+basketball | Bill Russell | noun | 빌 러셀 | Bill Russell won another title. | 빌 러셀이 또 우승했어.
+basketball | Bill Russell | noun | 빌 러셀 | Bill Russell dominated the boards. | 빌 러셀이 리바운드를 지배했어.
+basketball | Bill Russell | noun | 빌 러셀 | Every center studied Bill Russell. | 모든 센터가 빌 러셀을 연구했어.
+basketball | Bill Russell | noun | 빌 러셀 | Bill Russell anchored the defense. | 빌 러셀이 수비를 이끌었어.
+basketball | block | noun | 블록 | LeBron's chase-down block. | 르브론의 체이스다운 블록.
+basketball | block | noun | 블록 | What a block by Wembanyama. | 웸반야마의 엄청난 블록이야.
+basketball | block | noun | 블록 | He recorded three blocks. | 블록 3개를 기록했어.
+basketball | block | noun | 블록 | That block saved the game. | 그 블록이 경기를 살렸어.
+basketball | blocking | noun | 블로킹 파울 | Defensive blocking on Tucker. | 터커에게 블로킹 파울이 선언됐어.
+basketball | blocking | noun | 블로킹 파울 | That's a clear blocking foul. | 명백한 블로킹 파울이야.
+basketball | blocking | noun | 블로킹 파울 | He got caught for blocking. | 블로킹 파울이 불렸어.
+basketball | blocking | noun | 블로킹 파울 | Tough blocking call there. | 아쉬운 블로킹 판정이야.
+basketball | blowout | noun | 가비지 게임 | Celtics win in a blowout. | 셀틱스가 대승을 거뒀어.
+basketball | blowout | noun | 가비지 게임 | This game turned into a blowout. | 가비지 게임이 됐어.
+basketball | blowout | noun | 가비지 게임 | It was a complete blowout. | 완전 일방적인 경기였어.
+basketball | blowout | noun | 가비지 게임 | The starters sat during the blowout. | 가비지 게임이라 주전이 쉬었어.
+basketball | board | noun | 리바운드 | Barkley gets another board. | 바클리가 또 리바운드를 잡았어.
+basketball | board | noun | 리바운드 | He's crashing the boards hard. | 리바운드를 엄청 따내고 있어.
+basketball | board | noun | 리바운드 | Give me one more board. | 리바운드 하나만 더 잡아.
+basketball | board | noun | 리바운드 | He finished with 15 boards. | 리바운드 15개로 마쳤어.
+basketball | boards | noun | 리바운드 | Barkley clears the boards. | 바클리 리바운드 쓸어담네.
+basketball | boards | noun | 리바운드 | He owns the boards. | 리바운드 지배하네.
+basketball | boards | noun | 리바운드 | We need more boards. | 리바운드 더 잡아야 돼.
+basketball | boards | noun | 리바운드 | Great work on the boards. | 리바운드 좋았다.
+basketball | bounce pass | noun | 바운스 패스 | Nash's perfect bounce pass. | 내쉬의 완벽한 바운스 패스.
+basketball | bounce pass | noun | 바운스 패스 | Nice bounce pass. | 바운스 패스 좋았다.
+basketball | bounce pass | noun | 바운스 패스 | He threaded the bounce pass. | 바운스 패스 잘 찔렀네.
+basketball | bounce pass | noun | 바운스 패스 | Perfect bounce pass in traffic. | 수비 사이로 패스 좋았다.
+basketball | box out | noun | 박스아웃 | Fundamental box out by Duncan. | 던컨의 기본기 좋은 박스아웃이야.
+basketball | box out | noun | 박스아웃 | Great box out under the rim. | 림 아래서 박스아웃 좋았어.
+basketball | box out | noun | 박스아웃 | He missed the box out. | 박스아웃을 놓쳤어.
+basketball | box out | noun | 박스아웃 | Box out and secure the rebound. | 박스아웃하고 리바운드 잡아.
+basketball | box out | verb | 박스아웃하다 | He boxed out his man under the rim. | 림 아래에서 박스아웃했어.
+basketball | box out | verb | 박스아웃하다 | Everybody boxed out on the shot. | 슛 올라가자 전부 박스아웃했어.
+basketball | box out | verb | 박스아웃하다 | He boxed out before the rebound. | 리바운드 전에 박스아웃했어.
+basketball | box out | verb | 박스아웃하다 | Box out every time a shot goes up. | 슛 올라갈 때마다 박스아웃해.
+basketball | box score | noun | 박스스코어 | Check the box score later. | 나중에 박스스코어 확인해.
+basketball | box score | noun | 박스스코어 | The box score looks crazy. | 박스스코어가 엄청나네.
+basketball | box score | noun | 박스스코어 | Don't judge by the box score. | 박스스코어만 보고 판단하지 마.
+basketball | box score | noun | 박스스코어 | His impact won't show in the box score. | 영향력은 박스스코어에 안 보여.
+basketball | brick | noun | 벽돌 | Westbrook throws up a brick. | 웨스트브룩 또 벽돌 던졌네.
+basketball | brick | noun | 벽돌 | That's a complete brick. | 완전 벽돌이네.
+basketball | brick | noun | 벽돌 | He bricked the open three. | 오픈 3점도 벽돌 냈네.
+basketball | brick | noun | 벽돌 | Stop forcing bricks. | 벽돌 좀 그만 던져.
+basketball | brick | noun | 벽돌(실패한 슛) | Westbrook shoots another brick. | 웨스트브룩 또 벽돌 던졌네.
+basketball | brick | noun | 벽돌(실패한 슛) | That's a brick. | 벽돌이네.
+basketball | brick | noun | 벽돌(실패한 슛) | He bricked the open shot. | 오픈 찬스도 벽돌 냈네.
+basketball | brick | noun | 벽돌(실패한 슛) | Nothing but backboard. | 백보드만 맞췄네.
+basketball | brick | verb | 슛을 실패하다 | He bricked both free throws. | 자유투 두 개 다 슛을 실패했어.
+basketball | brick | verb | 슛을 실패하다 | Don't brick this one. | 이번 슛은 실패하지 마.
+basketball | brick | verb | 슛을 실패하다 | He bricked an open three. | 오픈 3점을 슛 실패했어.
+basketball | brick | verb | 슛을 실패하다 | We kept bricking shots. | 계속 슛을 실패했어.
+basketball | brick shot | noun | 벽돌 | What a brick shot by Westbrook. | 웨스트브룩 벽돌 제대로 던졌네.
+basketball | brick shot | noun | 벽돌 | That was a complete brick shot. | 완전 벽돌이네.
+basketball | brick shot | noun | 벽돌 | He keeps throwing brick shots. | 계속 벽돌만 던지네.
+basketball | brick shot | noun | 벽돌 | Another brick shot from deep. | 또 장거리 벽돌 나왔다.
+basketball | bust | noun | 먹튀 | Bennett is a draft bust. | 베넷은 드래프트 먹튀로 꼽혀.
+basketball | bust | noun | 먹튀 | He turned out to be a bust. | 결국 먹튀가 됐어.
+basketball | bust | noun | 먹튀 | People called him a bust too early. | 너무 일찍 먹튀라고 했어.
+basketball | bust | noun | 먹튀 | That's one of the biggest busts ever. | 역대급 먹튀 중 하나야.
+basketball | buyout | noun | 바이아웃 | Griffin agrees to a buyout. | 그리핀이 바이아웃에 합의했어.
+basketball | buyout | noun | 바이아웃 | The veteran reached a buyout. | 베테랑이 바이아웃에 합의했어.
+basketball | buyout | noun | 바이아웃 | He's expected to seek a buyout. | 바이아웃을 추진할 것 같아.
+basketball | buyout | noun | 바이아웃 | The buyout market is active. | 바이아웃 시장이 활발해.
+basketball | buzzer beater | noun | 버저비터 | Lillard hits the buzzer beater. | 릴라드 버저비터 성공.
+basketball | buzzer beater | noun | 버저비터 | That's a buzzer beater. | 버저비터다.
+basketball | buzzer beater | noun | 버저비터 | He called game with a buzzer beater. | 버저비터로 끝냈네.
+basketball | buzzer beater | noun | 버저비터 | Unreal buzzer beater. | 말도 안 되는 버저비터다.
+basketball | Cade Cunningham | noun | 케이드 커닝햄 | Cade Cunningham controlled the game. | 케이드 커닝햄이 경기를 지배했어.
+basketball | Cade Cunningham | noun | 케이드 커닝햄 | Cade Cunningham found the open man. | 케이드 커닝햄이 빈 선수를 찾았어.
+basketball | Cade Cunningham | noun | 케이드 커닝햄 | Cade Cunningham got to his spot. | 케이드 커닝햄이 자기 자리로 갔어.
+basketball | Cade Cunningham | noun | 케이드 커닝햄 | Cade Cunningham delivered in crunch time. | 케이드 커닝햄이 승부처에 해줬어.
+basketball | carry | noun | 캐링 | Morant gets called for a carry. | 모란트에게 캐링이 선언됐어.
+basketball | carry | noun | 캐링 | That's a carry every time. | 저건 항상 캐링이야.
+basketball | carry | noun | 캐링 | The ref finally called a carry. | 심판이 드디어 캐링을 불었어.
+basketball | carry | noun | 캐링 | He was whistled for a carry. | 캐링이 선언됐어.
+basketball | catch-and-shoot | noun | 캐치앤슛 | Korver masters the catch-and-shoot. | 코버는 캐치앤슛의 달인이야.
+basketball | catch-and-shoot | noun | 캐치앤슛 | That's an easy catch-and-shoot three. | 쉬운 캐치앤슛 3점이야.
+basketball | catch-and-shoot | noun | 캐치앤슛 | He thrives in catch-and-shoot situations. | 캐치앤슛에 강해.
+basketball | catch-and-shoot | noun | 캐치앤슛 | Create more catch-and-shoot looks. | 캐치앤슛 기회를 더 만들어.
+basketball | center | noun | 센터 | Shaq was a dominant center. | 샤크는 지배적인 센터였어.
+basketball | center | noun | 센터 | They need a rim-protecting center. | 림 프로텍터 센터가 필요해.
+basketball | center | noun | 센터 | The center owned the paint. | 센터가 골밑을 장악했어.
+basketball | center | noun | 센터 | He's one of the top centers. | 최고의 센터 중 한 명이야.
+basketball | challenge | noun | 챌린지 | Coach uses his coach's challenge. | 감독이 챌린지를 사용했어.
+basketball | challenge | noun | 챌린지 | They're out of challenges. | 챌린지를 다 썼어.
+basketball | challenge | noun | 챌린지 | The challenge was successful. | 챌린지가 받아들여졌어.
+basketball | challenge | noun | 챌린지 | Use the challenge here. | 여기서 챌린지 써.
+basketball | charging | noun | 차징 | Lowry takes the charging foul. | 라우리가 차징을 얻어냈어.
+basketball | charging | noun | 차징 | Easy charging call there. | 차징이 명확했어.
+basketball | charging | noun | 차징 | He was called for charging. | 차징이 선언됐어.
+basketball | charging | noun | 차징 | That's a huge charging call. | 엄청 중요한 차징이야.
+basketball | Charles Barkley | noun | 찰스 바클리 | Charles Barkley grabbed another board. | 찰스 바클리가 또 리바운드를 잡았어.
+basketball | Charles Barkley | noun | 찰스 바클리 | Charles Barkley bullied his matchup. | 찰스 바클리가 상대를 밀어붙였어.
+basketball | Charles Barkley | noun | 찰스 바클리 | Charles Barkley pushed the break himself. | 찰스 바클리가 직접 속공을 전개했어.
+basketball | Charles Barkley | noun | 찰스 바클리 | Charles Barkley dominated inside. | 찰스 바클리가 골밑을 지배했어.
+basketball | chase-down | noun | 체이스다운 블록 | LeBron's famous chase-down block. | 르브론의 유명한 체이스다운 블록.
+basketball | chase-down | noun | 체이스다운 블록 | Incredible chase-down by LeBron. | 르브론의 체이스다운이야.
+basketball | chase-down | noun | 체이스다운 블록 | He came flying in for the chase-down. | 체이스다운으로 날아왔어.
+basketball | chase-down | noun | 체이스다운 블록 | The chase-down saved two points. | 체이스다운이 실점을 막았어.
+basketball | Chauncey Billups | noun | 천시 빌럽스 | Chauncey Billups settled the offense. | 천시 빌럽스가 공격을 정리했어.
+basketball | Chauncey Billups | noun | 천시 빌럽스 | Chauncey Billups hit the big shot. | 천시 빌럽스가 중요한 슛을 넣었어.
+basketball | Chauncey Billups | noun | 천시 빌럽스 | Chauncey Billups controlled the tempo. | 천시 빌럽스가 경기 템포를 조절했어.
+basketball | Chauncey Billups | noun | 천시 빌럽스 | Chauncey Billups came through late. | 천시 빌럽스가 막판에 해줬어.
+basketball | chest pass | noun | 체스트 패스 | Fundamental chest pass by Stockton. | 스탁턴의 정석 체스트 패스.
+basketball | chest pass | noun | 체스트 패스 | Quick chest pass. | 체스트 패스 빠르네.
+basketball | chest pass | noun | 체스트 패스 | Keep it simple with a chest pass. | 기본적으로 체스트 패스 가자.
+basketball | chest pass | noun | 체스트 패스 | Crisp chest pass. | 패스 깔끔하다.
+basketball | Chet Holmgren | noun | 쳇 홈그렌 | Chet Holmgren protected the rim. | 쳇 홈그렌이 림을 지켰어.
+basketball | Chet Holmgren | noun | 쳇 홈그렌 | Chet Holmgren stretched the floor. | 쳇 홈그렌이 공간을 넓혔어.
+basketball | Chet Holmgren | noun | 쳇 홈그렌 | Chet Holmgren blocked another shot. | 쳇 홈그렌이 또 블록했어.
+basketball | Chet Holmgren | noun | 쳇 홈그렌 | Chet Holmgren finished the lob. | 쳇 홈그렌이 앨리웁을 마무리했어.
+basketball | Chris Paul | noun | 크리스 폴 | Chris Paul got everyone involved. | 크리스 폴이 팀원들을 살렸어.
+basketball | Chris Paul | noun | 크리스 폴 | Chris Paul walked into the jumper. | 크리스 폴이 편하게 점퍼를 쐈어.
+basketball | Chris Paul | noun | 크리스 폴 | Chris Paul picked his spot. | 크리스 폴이 좋은 위치를 잡았어.
+basketball | Chris Paul | noun | 크리스 폴 | Chris Paul ran the show. | 크리스 폴이 경기를 지휘했어.
+basketball | Chris Webber | noun | 크리스 웨버 | Chris Webber found the cutter. | 크리스 웨버가 컷인 선수를 찾았어.
+basketball | Chris Webber | noun | 크리스 웨버 | Chris Webber worked from the high post. | 크리스 웨버가 하이포스트에서 플레이했어.
+basketball | Chris Webber | noun | 크리스 웨버 | Chris Webber made the extra pass. | 크리스 웨버가 추가 패스를 했어.
+basketball | Chris Webber | noun | 크리스 웨버 | Chris Webber controlled the offense. | 크리스 웨버가 공격을 조율했어.
+basketball | chuck | noun | 난사 | That's a bad chuck. | 무리한 난사였어.
+basketball | chuck | verb | 난사하다 | He started chucking in the fourth. | 4쿼터에 난사하기 시작했어.
+basketball | chuck | verb | 난사하다 | Too much chucking tonight. | 오늘 너무 난사하네.
+basketball | chuck | verb | 난사하다 | He kept chucking from deep. | 계속 먼 거리에서 난사했어.
+basketball | chuck | verb | 난사하다 | Stop chucking and move the ball. | 난사 그만하고 볼 돌려.
+basketball | clear path foul | noun | 클리어 패스 파울 | Intentional clear path foul called. | 클리어 패스 파울이 선언됐어.
+basketball | clear path foul | noun | 클리어 패스 파울 | That's a clear path foul. | 클리어 패스 파울이야.
+basketball | clear path foul | noun | 클리어 패스 파울 | The refs confirmed the clear path foul. | 심판이 클리어 패스 파울을 인정했어.
+basketball | clear path foul | noun | 클리어 패스 파울 | Huge clear path foul there. | 중요한 클리어 패스 파울이 나왔어.
+basketball | close out | verb | 클로즈아웃하다 | He closed out hard on the shooter. | 슈터에게 강하게 클로즈아웃했어.
+basketball | close out | verb | 클로즈아웃하다 | Bridges closed out on every shot. | 브리지스가 모든 슛에 클로즈아웃했어.
+basketball | close out | verb | 클로즈아웃하다 | He closed out from the weak side. | 약한 쪽에서 클로즈아웃했어.
+basketball | close out | verb | 클로즈아웃하다 | Keep closing out on their shooters. | 상대 슈터들에게 계속 클로즈아웃해.
+basketball | closeout | noun | 클로즈아웃 | Green with a hard closeout. | 그린의 강한 클로즈아웃.
+basketball | closeout | noun | 클로즈아웃 | Great closeout on the shooter. | 슈터에게 클로즈아웃 좋았어.
+basketball | closeout | noun | 클로즈아웃 | He blew the closeout. | 클로즈아웃에 실패했어.
+basketball | closeout | noun | 클로즈아웃 | Quick closeout and recover. | 빠르게 클로즈아웃하고 복귀해.
+basketball | clutch | noun | 클러치 | Lillard steps up in the clutch. | 릴라드 클러치다.
+basketball | clutch | noun | 클러치 | He's built for the clutch. | 클러치 체질이네.
+basketball | clutch | noun | 클러치 | Big shot in the clutch. | 클러치 슛이다.
+basketball | clutch | noun | 클러치 | Another clutch bucket. | 또 클러치 득점이네.
+basketball | clutch | noun | 클러치 | Lillard time is pure clutch. | 릴라드 타임은 진짜 클러치야.
+basketball | clutch | noun | 클러치 | He's built for clutch moments. | 클러치에 강한 선수야.
+basketball | clutch | noun | 클러치 | Big clutch bucket there. | 결정적인 클러치 득점이야.
+basketball | clutch | noun | 클러치 | That's a clutch shot. | 완전 클러치 슛이야.
+basketball | clutch time | noun | 승부처 | Fox dominates in clutch time. | 폭스는 승부처에 강해.
+basketball | clutch time | noun | 승부처 | It's clutch time now. | 이제 승부처야.
+basketball | clutch time | noun | 승부처 | He always delivers in clutch time. | 승부처마다 해줘.
+basketball | clutch time | noun | 승부처 | The game entered clutch time. | 경기가 승부처로 들어갔어.
+basketball | Clyde Drexler | noun | 클라이드 드렉슬러 | Clyde Drexler finished the fastbreak. | 클라이드 드렉슬러가 속공을 마무리했어.
+basketball | Clyde Drexler | noun | 클라이드 드렉슬러 | Clyde Drexler attacked the rim. | 클라이드 드렉슬러가 림을 공략했어.
+basketball | Clyde Drexler | noun | 클라이드 드렉슬러 | Clyde Drexler got out in transition. | 클라이드 드렉슬러가 트랜지션으로 뛰어 나갔어.
+basketball | Clyde Drexler | noun | 클라이드 드렉슬러 | Clyde Drexler threw down the dunk. | 클라이드 드렉슬러가 덩크를 꽂았어.
+basketball | contest | noun | 슛 방해 | Great contest by Brook Lopez. | 브룩 로페즈 슛 방해 좋았다.
+basketball | contest | noun | 슛 방해 | That was a strong contest. | 수비 압박 좋았네.
+basketball | contest | noun | 슛 방해 | Good contest, better shot. | 슛 방해는 좋았는데 더 잘 넣었네.
+basketball | contest | noun | 슛 방해 | Get a hand up and contest. | 손 올리고 방해해.
+basketball | contest | noun | 컨테스트 | Good contest by Brook Lopez. | 브룩 로페즈의 좋은 컨테스트.
+basketball | contest | noun | 컨테스트 | That's a strong contest. | 컨테스트가 좋았어.
+basketball | contest | noun | 컨테스트 | He got a hand up for the contest. | 컨테스트를 잘했어.
+basketball | contest | noun | 컨테스트 | The contest forced a miss. | 컨테스트로 슛을 놓치게 했어.
+basketball | contest | verb | 컨테스트하다 | He contested the shot at the rim. | 림 근처 슛을 컨테스트했어.
+basketball | contest | verb | 컨테스트하다 | Gobert contested every shot inside. | 고베어가 골밑 슛을 계속 컨테스트했어.
+basketball | contest | verb | 컨테스트하다 | He contested the corner three. | 코너 3점을 컨테스트했어.
+basketball | contest | verb | 컨테스트하다 | Contest every jumper they take. | 상대 점퍼를 전부 컨테스트해.
+basketball | convert | verb | 득점하다 | He converted at the rim. | 림 근처에서 득점했어.
+basketball | convert | verb | 득점하다 | He converted the and-one. | 앤드원으로 득점했어.
+basketball | convert | verb | 득점하다 | He converted through traffic. | 수비 사이에서 득점했어.
+basketball | convert | verb | 득점하다 | He converted the fastbreak. | 속공에서 득점했어.
+basketball | corner | noun | 코너 | Tucker hits the corner three. | 터커가 코너 3점을 넣었어.
+basketball | corner | noun | 코너 | Stay in the corner. | 코너에 있어.
+basketball | corner | noun | 코너 | He found the corner shooter. | 코너 슈터를 찾았어.
+basketball | corner | noun | 코너 | The pass went to the corner. | 패스가 코너로 갔어.
+basketball | create | verb | 찬스를 만들다 | He created for his teammates. | 팀원 찬스를 만들었어.
+basketball | create | verb | 찬스를 만들다 | Luka created all night. | 루카가 계속 찬스를 만들었어.
+basketball | create | verb | 찬스를 만들다 | He created off the dribble. | 드리블로 찬스를 만들었어.
+basketball | create | verb | 찬스를 만들다 | He created space. | 공간을 만들었어.
+basketball | crossover | noun | 크로스오버 | Iverson's legendary crossover on MJ. | 아이버슨의 전설적인 크로스오버.
+basketball | crossover | noun | 크로스오버 | Nasty crossover by Kyrie. | 카이리의 엄청난 크로스오버야.
+basketball | crossover | noun | 크로스오버 | That crossover broke his ankles. | 크로스오버에 완전히 속았어.
+basketball | crossover | noun | 크로스오버 | He hit him with a quick crossover. | 빠른 크로스오버를 썼어.
+basketball | crunch time | noun | 승부처 | Murray is lethal in crunch time. | 머레이는 승부처에 강해.
+basketball | crunch time | noun | 승부처 | It's crunch time now. | 이제 진짜 승부처야.
+basketball | crunch time | noun | 승부처 | He always delivers in crunch time. | 승부처마다 해줘.
+basketball | crunch time | noun | 승부처 | The stars took over in crunch time. | 승부처에 에이스들이 나섰어.
+basketball | curl | noun | 컬 컷 | Curry scores off a curl. | 커리가 컬 컷으로 득점했어.
+basketball | curl | noun | 컬 컷 | He came off a curl. | 컬 컷으로 나왔어.
+basketball | curl | noun | 컬 컷 | Nice curl into the lane. | 컬 컷으로 골밑까지 들어갔어.
+basketball | curl | noun | 컬 컷 | The curl got him an open shot. | 컬 컷으로 오픈 찬스가 났어.
+basketball | curl | verb | 컬컷하다 | He curled off the screen. | 스크린 받고 컬컷했어.
+basketball | curl | verb | 컬컷하다 | Curry curled into the lane. | 커리가 컬컷했어.
+basketball | curl | verb | 컬컷하다 | He curled for a jumper. | 컬컷 후 슛했어.
+basketball | curl | verb | 컬컷하다 | He curled to the elbow. | 엘보우로 컬컷했어.
+basketball | curl | verb | 컬컷하다 | He curled around the screen for space. | 공간 만들려고 스크린 타고 컬컷했어.
+basketball | curl | verb | 컬컷하다 | Curry curled into the lane for a floater. | 커리가 플로터 위해 페인트존으로 컬컷했어.
+basketball | curl | verb | 컬컷하다 | He curled toward the elbow for a jumper. | 점퍼 위해 엘보 쪽으로 컬컷했어.
+basketball | curl | verb | 컬컷하다 | Curl hard when the defender trails. | 수비가 따라오면 강하게 컬컷해.
+basketball | cut | verb | 컷인하다 | He cut to the rim. | 림으로 컷인했어.
+basketball | cut | verb | 컷인하다 | Brown cut behind the defense. | 브라운이 수비 뒤로 컷인했어.
+basketball | cut | verb | 컷인하다 | He cut from the corner. | 코너에서 컷인했어.
+basketball | cut | verb | 컷인하다 | Keep cutting without the ball. | 계속 컷인해.
+basketball | cut | verb | 컷인하다 | He cut to the basket behind the defense. | 수비 뒤로 골밑까지 컷인했어.
+basketball | cut | verb | 컷인하다 | Brown cut from the corner for a layup. | 브라운이 코너에서 컷인해서 레이업했어.
+basketball | cut | verb | 컷인하다 | He cut into the paint for the pass. | 패스 받으려고 페인트존으로 컷인했어.
+basketball | cut | verb | 컷인하다 | Cut when the defender loses sight. | 수비가 놓치면 바로 컷인해.
+basketball | dagger | noun | 쐐기골 | Kyrie hits the dagger three. | 카이리가 쐐기 3점을 넣었어.
+basketball | dagger | noun | 쐐기골 | That shot was the dagger. | 그 슛이 쐐기였어.
+basketball | dagger | noun | 쐐기골 | He buried the dagger late. | 막판에 쐐기를 박았어.
+basketball | dagger | noun | 쐐기골 | The dagger silenced the crowd. | 쐐기골에 경기장이 조용해졌어.
+basketball | Damian Lillard | noun | 데이미언 릴라드 | Damian Lillard pulled up from deep. | 데이미언 릴라드가 멀리서 바로 쐈어.
+basketball | Damian Lillard | noun | 데이미언 릴라드 | Damian Lillard hit the dagger. | 데이미언 릴라드가 쐐기슛을 넣었어.
+basketball | Damian Lillard | noun | 데이미언 릴라드 | Damian Lillard took over late. | 데이미언 릴라드가 막판을 지배했어.
+basketball | Damian Lillard | noun | 데이미언 릴라드 | Damian Lillard buried another three. | 데이미언 릴라드가 또 3점을 꽂았어.
+basketball | Darius Garland | noun | 다리우스 갈랜드 | Darius Garland broke down the defense. | 다리우스 갈랜드가 수비를 무너뜨렸어.
+basketball | Darius Garland | noun | 다리우스 갈랜드 | Darius Garland got into the lane. | 다리우스 갈랜드가 페인트존으로 들어갔어.
+basketball | Darius Garland | noun | 다리우스 갈랜드 | Darius Garland dropped a dime. | 다리우스 갈랜드가 좋은 어시스트를 했어.
+basketball | Darius Garland | noun | 다리우스 갈랜드 | Darius Garland controlled the offense. | 다리우스 갈랜드가 공격을 조율했어.
+basketball | David Robinson | noun | 데이비드 로빈슨 | David Robinson protected the rim. | 데이비드 로빈슨이 림을 지켰어.
+basketball | David Robinson | noun | 데이비드 로빈슨 | David Robinson ran the floor. | 데이비드 로빈슨이 코트를 잘 뛰었어.
+basketball | David Robinson | noun | 데이비드 로빈슨 | David Robinson finished the lob. | 데이비드 로빈슨이 앨리웁을 마무리했어.
+basketball | David Robinson | noun | 데이비드 로빈슨 | David Robinson dominated both ends. | 데이비드 로빈슨이 공수에서 활약했어.
+basketball | De'Aaron Fox | noun | 디애런 팍스 | De'Aaron Fox blew by his defender. | 디애런 팍스가 수비를 제쳤어.
+basketball | De'Aaron Fox | noun | 디애런 팍스 | De'Aaron Fox got to the rim. | 디애런 팍스가 림까지 들어갔어.
+basketball | De'Aaron Fox | noun | 디애런 팍스 | De'Aaron Fox took over in clutch time. | 디애런 팍스가 승부처를 지배했어.
+basketball | De'Aaron Fox | noun | 디애런 팍스 | De'Aaron Fox pushed the tempo. | 디애런 팍스가 템포를 끌어올렸어.
+basketball | defensive rebound | noun | 수비 리바운드 | Gobert secures the defensive rebound. | 고베어가 수비 리바운드를 잡았어.
+basketball | defensive rebound | noun | 수비 리바운드 | Finish the play with a defensive rebound. | 수비 리바운드로 마무리해야 해.
+basketball | defensive rebound | noun | 수비 리바운드 | He grabbed every defensive rebound. | 수비 리바운드를 싹쓸이했어.
+basketball | defensive rebound | noun | 수비 리바운드 | Strong defensive rebound there. | 수비 리바운드 좋았어.
+basketball | deflection | noun | 디플렉션 | Covington makes a timely deflection. | 코빙턴 디플렉션 좋았다.
+basketball | deflection | noun | 디플렉션 | Nice deflection there. | 디플렉션 좋네.
+basketball | deflection | noun | 디플렉션 | That deflection saved the possession. | 디플렉션으로 살렸네.
+basketball | deflection | noun | 디플렉션 | He leads the team in deflections. | 디플렉션은 팀 최고네.
+basketball | deflection | noun | 디플렉션 | Covington leads in deflection. | 코빙턴은 디플렉션이 많아.
+basketball | deflection | noun | 디플렉션 | Another deflection on defense. | 또 디플렉션이 나왔어.
+basketball | deflection | noun | 디플렉션 | The deflection disrupted the play. | 디플렉션으로 공격이 끊겼어.
+basketball | deflection | noun | 디플렉션 | Active hands create deflections. | 적극적인 손질이 디플렉션을 만들어.
+basketball | Dejounte Murray | noun | 디존테 머레이 | Dejounte Murray picked up the steal. | 디존테 머레이가 스틸을 기록했어.
+basketball | Dejounte Murray | noun | 디존테 머레이 | Dejounte Murray pushed the break. | 디존테 머레이가 속공을 전개했어.
+basketball | Dejounte Murray | noun | 디존테 머레이 | Dejounte Murray filled up the stat sheet. | 디존테 머레이가 스탯을 가득 채웠어.
+basketball | Dejounte Murray | noun | 디존테 머레이 | Dejounte Murray controlled the tempo. | 디존테 머레이가 경기 템포를 조절했어.
+basketball | Dennis Rodman | noun | 데니스 로드맨 | Dennis Rodman grabbed another board. | 데니스 로드맨이 또 리바운드를 잡았어.
+basketball | Dennis Rodman | noun | 데니스 로드맨 | Dennis Rodman fought for every rebound. | 데니스 로드맨이 리바운드에 몸을 던졌어.
+basketball | Dennis Rodman | noun | 데니스 로드맨 | Dennis Rodman hustled all game. | 데니스 로드맨이 경기 내내 뛰어다녔어.
+basketball | Dennis Rodman | noun | 데니스 로드맨 | Dennis Rodman frustrated his matchup. | 데니스 로드맨이 상대를 괴롭혔어.
+basketball | deny | verb | 차단하다 | He denied the entry pass inside. | 인사이드 패스를 차단했어.
+basketball | deny | verb | 차단하다 | Holiday denied him the ball. | 할러데이가 볼 투입을 차단했어.
+basketball | deny | verb | 차단하다 | He denied the pass to the wing. | 윙으로 가는 패스를 차단했어.
+basketball | deny | verb | 차단하다 | Keep denying that passing lane. | 그 패스 길을 계속 차단해.
+basketball | Deron Williams | noun | 데론 윌리엄스 | Deron Williams controlled the offense. | 데론 윌리엄스가 공격을 조율했어.
+basketball | Deron Williams | noun | 데론 윌리엄스 | Deron Williams got into the lane. | 데론 윌리엄스가 페인트존으로 들어갔어.
+basketball | Deron Williams | noun | 데론 윌리엄스 | Deron Williams delivered a perfect pass. | 데론 윌리엄스가 완벽한 패스를 했어.
+basketball | Deron Williams | noun | 데론 윌리엄스 | Deron Williams ran the pick-and-roll. | 데론 윌리엄스가 픽앤롤을 운영했어.
+basketball | Desmond Bane | noun | 데스먼드 베인 | Desmond Bane drilled the open three. | 데스먼드 베인이 오픈 3점을 꽂았어.
+basketball | Desmond Bane | noun | 데스먼드 베인 | Desmond Bane got hot from deep. | 데스먼드 베인이 외곽에서 터졌어.
+basketball | Desmond Bane | noun | 데스먼드 베인 | Desmond Bane attacked the closeout. | 데스먼드 베인이 클로즈아웃을 공략했어.
+basketball | Desmond Bane | noun | 데스먼드 베인 | Desmond Bane filled it up tonight. | 데스먼드 베인이 오늘 득점을 쓸어 담았어.
+basketball | Devin Booker | noun | 데빈 부커 | Devin Booker got to his mid-range spot. | 데빈 부커가 미드레인지 자리로 갔어.
+basketball | Devin Booker | noun | 데빈 부커 | Devin Booker heated up fast. | 데빈 부커가 금방 터졌어.
+basketball | Devin Booker | noun | 데빈 부커 | Devin Booker knocked down the jumper. | 데빈 부커가 점퍼를 넣었어.
+basketball | Devin Booker | noun | 데빈 부커 | Devin Booker carried the scoring load. | 데빈 부커가 득점을 책임졌어.
+basketball | DHO | noun | 핸드오프 | Warriors spam the DHO play. | 워리어스가 핸드오프를 계속 써.
+basketball | DHO | noun | 핸드오프 | They went back to the DHO. | 다시 핸드오프로 갔어.
+basketball | DHO | noun | 핸드오프 | The DHO freed up the shooter. | 핸드오프로 슈터가 열렸어.
+basketball | DHO | noun | 핸드오프 | Run a DHO on this side. | 이쪽에서 핸드오프 가자.
+basketball | Dikembe Mutombo | noun | 디켐베 무톰보 | Dikembe Mutombo sent it back. | 디켐베 무톰보가 블록했어.
+basketball | Dikembe Mutombo | noun | 디켐베 무톰보 | Dikembe Mutombo owned the paint. | 디켐베 무톰보가 골밑을 장악했어.
+basketball | Dikembe Mutombo | noun | 디켐베 무톰보 | Dikembe Mutombo grabbed the rebound. | 디켐베 무톰보가 리바운드를 잡았어.
+basketball | Dikembe Mutombo | noun | 디켐베 무톰보 | Dikembe Mutombo protected the rim all night. | 디켐베 무톰보가 경기 내내 림을 지켰어.
+basketball | dime | noun | 어시스트 | CP3 drops a dime. | CP3가 예술 패스 뿌린다.
+basketball | dime | noun | 어시스트 | What a dime. | 패스 예술이네.
+basketball | dime | noun | 어시스트 | He threw a perfect dime. | 완벽한 어시스트였다.
+basketball | dime | noun | 어시스트 | That's a highlight dime. | 하이라이트감 패스네.
+basketball | dime | verb | 어시스트하다 | He dimed up his teammate. | 팀원에게 어시스트했어.
+basketball | dime | verb | 어시스트하다 | Trae dimed him up. | 트레이가 어시스트했어.
+basketball | dime | verb | 어시스트하다 | He dimed up the cutter. | 컷인 선수에게 어시스트했어.
+basketball | dime | verb | 어시스트하다 | Brunson keeps diming guys up. | 브런슨이 계속 어시스트하네.
+basketball | Dirk Nowitzki | noun | 덕 노비츠키 | Dirk Nowitzki knocked down the fadeaway. | 덕 노비츠키가 페이더웨이를 넣었어.
+basketball | Dirk Nowitzki | noun | 덕 노비츠키 | Dirk Nowitzki stretched the floor. | 덕 노비츠키가 공간을 넓혔어.
+basketball | Dirk Nowitzki | noun | 덕 노비츠키 | Dirk Nowitzki got hot early. | 덕 노비츠키가 초반부터 터졌어.
+basketball | Dirk Nowitzki | noun | 덕 노비츠키 | Dirk Nowitzki carried the offense. | 덕 노비츠키가 공격을 이끌었어.
+basketball | dish | verb | 어시스트하다 | He dished it to the corner. | 코너로 어시스트했어.
+basketball | dish | verb | 어시스트하다 | Luka dished it inside. | 루카가 안으로 어시스트했어.
+basketball | dish | verb | 어시스트하다 | He drove and dished. | 돌파 후 어시스트했어.
+basketball | dish | verb | 어시스트하다 | He dished it to the roller. | 롤맨에게 어시스트했어.
+basketball | Donovan Mitchell | noun | 도노반 미첼 | Donovan Mitchell attacked downhill. | 도노반 미첼이 돌파해 들어갔어.
+basketball | Donovan Mitchell | noun | 도노반 미첼 | Donovan Mitchell exploded for the dunk. | 도노반 미첼이 덩크를 꽂았어.
+basketball | Donovan Mitchell | noun | 도노반 미첼 | Donovan Mitchell got hot from deep. | 도노반 미첼이 외곽에서 터졌어.
+basketball | Donovan Mitchell | noun | 도노반 미첼 | Donovan Mitchell scored in bunches. | 도노반 미첼이 연속 득점했어.
+basketball | double | verb | 더블팀하다 | They doubled Jokic in the post. | 요키치를 포스트에서 더블팀했어.
+basketball | double | verb | 더블팀하다 | Boston doubled him on the catch. | 보스턴이 받자마자 더블팀했어.
+basketball | double | verb | 더블팀하다 | He doubled from the baseline side. | 베이스라인 쪽에서 더블팀했어.
+basketball | double | verb | 더블팀하다 | Double him every time he posts. | 포스트업할 때마다 더블팀해.
+basketball | double dribble | noun | 더블 드리블 | Rare double dribble on Kyrie. | 카이리에게 보기 드문 더블 드리블이 나왔어.
+basketball | double dribble | noun | 더블 드리블 | That's an easy double dribble call. | 더블 드리블이 확실해.
+basketball | double dribble | noun | 더블 드리블 | He lost focus and double dribbled. | 집중력을 잃고 더블 드리블했어.
+basketball | double dribble | noun | 더블 드리블 | Costly double dribble there. | 치명적인 더블 드리블이야.
+basketball | double team | noun | 더블팀 | Booker faces the double team. | 부커 더블팀 당한다.
+basketball | double team | noun | 더블팀 | Send a double team. | 더블팀 가자.
+basketball | double team | noun | 더블팀 | He beat the double team. | 더블팀 뚫었네.
+basketball | double team | noun | 더블팀 | The double team came late. | 더블팀이 늦었어.
+basketball | double team | noun | 더블팀 | Kobe faces the double team. | 코비에게 더블팀이 들어왔어.
+basketball | double team | noun | 더블팀 | Send a double team. | 더블팀 가자.
+basketball | double team | noun | 더블팀 | He beat the double team. | 더블팀을 뚫어냈어.
+basketball | double team | noun | 더블팀 | The double team came late. | 더블팀이 늦었어.
+basketball | double-double | noun | 더블더블 | Sabonis secures another double-double. | 사보니스가 또 더블더블을 기록했어.
+basketball | double-double | noun | 더블더블 | That's his 20th double-double. | 벌써 20번째 더블더블이야.
+basketball | double-double | noun | 더블더블 | He posted a double-double tonight. | 오늘 더블더블 했어.
+basketball | double-double | noun | 더블더블 | Another easy double-double. | 또 가볍게 더블더블이야.
+basketball | draft | noun | 드래프트 | Wemby goes first in draft. | 웸비가 드래프트 1순위로 뽑혔어.
+basketball | draft | noun | 드래프트 | He declared for the draft. | 드래프트 참가를 선언했어.
+basketball | draft | noun | 드래프트 | They nailed the draft. | 드래프트를 잘했어.
+basketball | draft | noun | 드래프트 | Draft night was wild. | 드래프트 밤이 엄청났어.
+basketball | draw | verb | 유도하다 | He drew a foul on the drive. | 돌파하면서 파울을 유도했어.
+basketball | draw | verb | 유도하다 | Brunson drew contact in the paint. | 브런슨이 페인트존에서 파울을 유도했어.
+basketball | draw | verb | 유도하다 | He drew the charge perfectly. | 차징을 깔끔하게 유도했어.
+basketball | draw | verb | 유도하다 | Draw the foul before the shot. | 슛 전에 파울을 유도해.
+basketball | Draymond Green | noun | 드레이먼드 그린 | Draymond Green made the extra pass. | 드레이먼드 그린이 추가 패스를 했어.
+basketball | Draymond Green | noun | 드레이먼드 그린 | Draymond Green anchored the defense. | 드레이먼드 그린이 수비를 이끌었어.
+basketball | Draymond Green | noun | 드레이먼드 그린 | Draymond Green called out the coverage. | 드레이먼드 그린이 수비를 지시했어.
+basketball | Draymond Green | noun | 드레이먼드 그린 | Draymond Green pushed the ball himself. | 드레이먼드 그린이 직접 볼을 몰고 갔어.
+basketball | dribble handoff | noun | 핸드오프 | Bam executes the dribble handoff. | 뱀이 핸드오프를 실행해.
+basketball | dribble handoff | noun | 핸드오프 | They run a dribble handoff for Curry. | 커리를 위해 핸드오프를 써.
+basketball | dribble handoff | noun | 핸드오프 | The dribble handoff created space. | 핸드오프로 공간이 났어.
+basketball | dribble handoff | noun | 핸드오프 | Nice dribble handoff action. | 핸드오프 플레이 좋았어.
+basketball | drive | verb | 돌파하다 | He drove right past him. | 바로 제치고 돌파했어.
+basketball | drive | verb | 돌파하다 | Attack and drive. | 과감하게 돌파해.
+basketball | drive | verb | 돌파하다 | He drove baseline. | 베이스라인으로 돌파했어.
+basketball | drive | verb | 돌파하다 | Sheppard loves to drive. | 셰퍼드는 돌파를 좋아해.
+basketball | drop coverage | noun | 드롭 수비 | Lopez plays deep drop coverage. | 로페즈 드롭 수비 선다.
+basketball | drop coverage | noun | 드롭 수비 | They stay in drop coverage. | 계속 드롭 수비하네.
+basketball | drop coverage | noun | 드롭 수비 | Attack the drop coverage. | 드롭 수비 공략해.
+basketball | drop coverage | noun | 드롭 수비 | The drop coverage got exposed. | 드롭 수비 털렸네.
+basketball | dump off | verb | 덤프패스하다 | He dumped it off under the rim. | 림 아래로 덤프패스했어.
+basketball | dump off | verb | 덤프패스하다 | Luka dumped it off to the center. | 루카가 센터에게 덤프패스했어.
+basketball | dump off | verb | 덤프패스하다 | He dumped it off after drawing help. | 헬프 수비 끌고 덤프패스했어.
+basketball | dump off | verb | 덤프패스하다 | Dump it off to the cutter. | 컷인 선수에게 덤프패스해.
+basketball | dunk | noun | 덩크 | Carter's legendary dunk. | 카터의 전설적인 덩크.
+basketball | dunk | noun | 덩크 | What a dunk. | 덩크 미쳤네.
+basketball | dunk | noun | 덩크 | He threw it down hard. | 강하게 꽂아버렸네.
+basketball | dunk | noun | 덩크 | That's a poster dunk. | 인유어페이스 덩크다.
+basketball | Dwight Howard | noun | 드와이트 하워드 | Dwight Howard controlled the paint. | 드와이트 하워드가 골밑을 장악했어.
+basketball | Dwight Howard | noun | 드와이트 하워드 | Dwight Howard finished the lob. | 드와이트 하워드가 앨리웁을 마무리했어.
+basketball | Dwight Howard | noun | 드와이트 하워드 | Dwight Howard swatted the shot. | 드와이트 하워드가 슛을 블록했어.
+basketball | Dwight Howard | noun | 드와이트 하워드 | Dwight Howard owned the boards. | 드와이트 하워드가 리바운드를 지배했어.
+basketball | Dwyane Wade | noun | 드웨인 웨이드 | Dwyane Wade sliced through the defense. | 드웨인 웨이드가 수비를 갈랐어.
+basketball | Dwyane Wade | noun | 드웨인 웨이드 | Dwyane Wade got to the rim. | 드웨인 웨이드가 림까지 들어갔어.
+basketball | Dwyane Wade | noun | 드웨인 웨이드 | Dwyane Wade came up with a steal. | 드웨인 웨이드가 스틸을 했어.
+basketball | Dwyane Wade | noun | 드웨인 웨이드 | Dwyane Wade finished the fastbreak. | 드웨인 웨이드가 속공을 마무리했어.
+basketball | ejection | noun | 퇴장 | Draymond gets an early ejection. | 드레이먼드가 일찍 퇴장당했어.
+basketball | ejection | noun | 퇴장 | That's an automatic ejection. | 자동 퇴장이야.
+basketball | ejection | noun | 퇴장 | The crowd hated the ejection. | 관중들이 퇴장 판정에 반발했어.
+basketball | ejection | noun | 퇴장 | His ejection changed the game. | 퇴장이 경기 흐름을 바꿨어.
+basketball | elbow | noun | 엘보우 | Booker shoots from the elbow. | 부커가 엘보우에서 슛을 쐈어.
+basketball | elbow | noun | 엘보우 | Catch it at the elbow. | 엘보우에서 받아.
+basketball | elbow | noun | 엘보우 | Jokic operates from the elbow. | 요키치가 엘보우에서 플레이해.
+basketball | elbow | noun | 엘보우 | He knocked down a jumper from the elbow. | 엘보우에서 점퍼를 넣었어.
+basketball | Elgin Baylor | noun | 엘진 베일러 | Elgin Baylor attacked the basket. | 엘진 베일러가 골밑을 공략했어.
+basketball | Elgin Baylor | noun | 엘진 베일러 | Elgin Baylor finished in traffic. | 엘진 베일러가 밀집 수비 속에서 넣었어.
+basketball | Elgin Baylor | noun | 엘진 베일러 | Elgin Baylor got off the floor quickly. | 엘진 베일러가 높이 뛰어올랐어.
+basketball | Elgin Baylor | noun | 엘진 베일러 | Elgin Baylor made a tough finish. | 엘진 베일러가 어려운 슛을 넣었어.
+basketball | euro | verb | 유로스텝하다 | He euroed around the rim protector. | 림 프로텍터 옆으로 유로스텝했어.
+basketball | euro | verb | 유로스텝하다 | Giannis euroed through two defenders. | 야니스가 수비 둘 사이로 유로스텝했어.
+basketball | euro | verb | 유로스텝하다 | He euroed into the paint for space. | 공간 만들려고 페인트존에서 유로스텝했어.
+basketball | euro | verb | 유로스텝하다 | Euro when the help rotates over. | 헬프 수비 오면 유로스텝해.
+basketball | euro step | noun | 유로스텝 | Ginobili masters the euro step. | 지노빌리가 유로스텝의 달인이야.
+basketball | euro step | noun | 유로스텝 | Smooth euro step to the rim. | 부드러운 유로스텝으로 마무리했어.
+basketball | euro step | noun | 유로스텝 | He beat the defender with a euro step. | 유로스텝으로 수비를 벗겼어.
+basketball | euro step | noun | 유로스텝 | Nice euro step in traffic. | 수비 사이에서 유로스텝 좋았어.
+basketball | Evan Mobley | noun | 에반 모블리 | Evan Mobley protected the rim. | 에반 모블리가 림을 지켰어.
+basketball | Evan Mobley | noun | 에반 모블리 | Evan Mobley switched onto the guard. | 에반 모블리가 가드를 마크했어.
+basketball | Evan Mobley | noun | 에반 모블리 | Evan Mobley cleaned up the glass. | 에반 모블리가 리바운드를 정리했어.
+basketball | Evan Mobley | noun | 에반 모블리 | Evan Mobley controlled the paint. | 에반 모블리가 골밑을 장악했어.
+basketball | face-up | noun | 페이스업 | Melo in the face-up game. | 멜로 페이스업 간다.
+basketball | face-up | noun | 페이스업 | His face-up is smooth. | 페이스업 진짜 부드럽네.
+basketball | face-up | noun | 페이스업 | He attacked from the face-up. | 페이스업으로 공략했네.
+basketball | face-up | noun | 페이스업 | Great face-up move. | 페이스업 좋았다.
+basketball | facilitate | verb | 어시스트하다 | He facilitated the offense. | 공격 전개하며 어시스트했어.
+basketball | facilitate | verb | 어시스트하다 | Jokic facilitated all night. | 요키치가 계속 어시스트했어.
+basketball | facilitate | verb | 어시스트하다 | He facilitated from the high post. | 하이포스트에서 어시스트했어.
+basketball | facilitate | verb | 어시스트하다 | He facilitated for his teammates. | 팀원들에게 어시스트했어.
+basketball | fadeaway | noun | 페이드어웨이 | Kobe's signature fadeaway. | 코비의 시그니처 페이드어웨이.
+basketball | fadeaway | noun | 페이드어웨이 | Tough fadeaway. | 어려운 페이드어웨이다.
+basketball | fadeaway | noun | 페이드어웨이 | He nailed the fadeaway. | 페이드어웨이 꽂았네.
+basketball | fadeaway | noun | 페이드어웨이 | That's vintage Kobe. | 코비 냄새 나네.
+basketball | fastbreak | noun | 속공 | Fox leads the fastbreak. | 폭스가 속공 전개한다.
+basketball | fastbreak | noun | 속공 | Push the fastbreak. | 속공 달려.
+basketball | fastbreak | noun | 속공 | Easy points off the fastbreak. | 속공으로 쉽게 득점했네.
+basketball | fastbreak | noun | 속공 | They killed us in fastbreaks. | 속공에 완전 털렸네.
+basketball | fastbreak | noun | 속공 | Showtime Lakers on the fastbreak. | 쇼타임 레이커스의 속공.
+basketball | fastbreak | noun | 속공 | Easy points on the fastbreak. | 속공으로 쉽게 득점했어.
+basketball | fastbreak | noun | 속공 | They push every fastbreak. | 속공 기회마다 달려.
+basketball | fastbreak | noun | 속공 | Great finish on the fastbreak. | 속공 마무리가 좋았어.
+basketball | fastbreak lane | noun | 속공 라인 | James fills the fastbreak lane. | 제임스 속공 라인 탄다.
+basketball | fastbreak lane | noun | 속공 라인 | Run the fastbreak lane. | 속공 라인 타.
+basketball | fastbreak lane | noun | 속공 라인 | He sprinted into the fastbreak lane. | 속공 라인으로 뛰어들었네.
+basketball | fastbreak lane | noun | 속공 라인 | Great lane fill in transition. | 속공 라인 잘 탔네.
+basketball | fastbreak points | noun | 속공 득점 | Lakers lead in fastbreak points. | 레이커스가 속공 득점 1위야.
+basketball | fastbreak points | noun | 속공 득점 | They scored easy fastbreak points. | 속공으로 쉽게 득점했어.
+basketball | fastbreak points | noun | 속공 득점 | Fastbreak points made the difference. | 속공 득점이 승부를 갈랐어.
+basketball | fastbreak points | noun | 속공 득점 | The team thrives on fastbreak points. | 속공 득점이 강점이야.
+basketball | feed | verb | 패스하다 | He fed the post from the wing. | 윙에서 포스트로 패스했어.
+basketball | feed | verb | 패스하다 | The guard fed the rolling big. | 가드가 롤하는 빅맨에게 패스했어.
+basketball | feed | verb | 패스하다 | He fed Jokic deep in the paint. | 요키치에게 깊게 패스했어.
+basketball | feed | verb | 패스하다 | Feed the big when he seals. | 빅맨이 자리잡으면 패스해.
+basketball | finals | noun | 파이널 | Jordan undefeated in the finals. | 조던은 파이널 무패야.
+basketball | finals | noun | 파이널 | The finals start next week. | 파이널이 다음 주에 시작돼.
+basketball | finals | noun | 파이널 | He shines in the finals. | 파이널에서 강해.
+basketball | finals | noun | 파이널 | Finals basketball hits different. | 파이널 농구는 느낌이 달라.
+basketball | fine | noun | 벌금 | Cuban receives a hefty fine. | 큐반이 큰 벌금을 받았어.
+basketball | fine | noun | 벌금 | The league issued a fine. | 리그가 벌금을 부과했어.
+basketball | fine | noun | 벌금 | He got fined for his comments. | 발언 때문에 벌금을 받았어.
+basketball | fine | noun | 벌금 | The fine won't stop him. | 벌금 정도론 못 막아.
+basketball | finger roll | noun | 핑거롤 | Gervin's smooth finger roll. | 거빈 핑거롤 예술이다.
+basketball | finger roll | noun | 핑거롤 | Nice finger roll finish. | 핑거롤 마무리 좋네.
+basketball | finger roll | noun | 핑거롤 | He went with a finger roll. | 핑거롤로 마무리했네.
+basketball | finger roll | noun | 핑거롤 | That finger roll had touch. | 핑거롤 감각 좋았다.
+basketball | finger roll | noun | 핑거롤 | Gervin's beautiful finger roll. | 거빈의 아름다운 핑거롤.
+basketball | finger roll | noun | 핑거롤 | Smooth finger roll at the rim. | 림 근처 핑거롤 좋았어.
+basketball | finger roll | noun | 핑거롤 | He finished with a finger roll. | 핑거롤로 마무리했어.
+basketball | finger roll | noun | 핑거롤 | Classic finger roll there. | 전형적인 핑거롤이야.
+basketball | finish | verb | 마무리하다 | He finished at the rim. | 림 근처에서 마무리했어.
+basketball | finish | verb | 마무리하다 | Giannis finished through contact. | 야니스가 컨택 속에서 마무리했어.
+basketball | finish | verb | 마무리하다 | He finished the fastbreak. | 속공을 마무리했어.
+basketball | finish | verb | 마무리하다 | He finished with his left hand. | 왼손으로 마무리했어.
+basketball | finish | verb | 마무리하다 | He finished through contact at the rim. | 림 근처에서 컨택을 이겨내고 마무리했어.
+basketball | finish | verb | 마무리하다 | He finished the fastbreak with a layup. | 속공을 레이업으로 마무리했어.
+basketball | finish | verb | 마무리하다 | He finished over the help defender. | 헬프 수비 위로 마무리했어.
+basketball | finish | verb | 마무리하다 | Finish strong around the basket. | 골밑에서 강하게 마무리해.
+basketball | flagrant foul | noun | 플래그런트 파울 | Draymond gets a flagrant foul. | 드레이먼드가 플래그런트 파울을 받았어.
+basketball | flagrant foul | noun | 플래그런트 파울 | The refs upgraded it to a flagrant foul. | 심판이 플래그런트 파울로 올렸어.
+basketball | flagrant foul | noun | 플래그런트 파울 | That's clearly a flagrant foul. | 명백한 플래그런트 파울이야.
+basketball | flagrant foul | noun | 플래그런트 파울 | A flagrant foul changed the game. | 플래그런트 파울이 흐름을 바꿨어.
+basketball | flare | noun | 플레어 스크린 | Ray Allen uses a flare. | 레이 앨런이 플레어 스크린을 활용했어.
+basketball | flare | noun | 플레어 스크린 | They ran a flare for the shooter. | 슈터를 위해 플레어를 썼어.
+basketball | flare | noun | 플레어 스크린 | Nice flare action there. | 플레어 플레이 좋았어.
+basketball | flare | noun | 플레어 스크린 | The flare freed him for three. | 플레어로 3점 찬스를 만들었어.
+basketball | flare | verb | 플레어컷하다 | He flared to the corner. | 코너로 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | Klay flared out for three. | 클레이가 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | He flared to the wing. | 윙으로 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | He flared after the handoff. | 핸드오프 후 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | He flared to the corner for three. | 3점 위해 코너로 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | Klay flared to create shooting space. | 클레이가 슈팅 공간 만들려고 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | He flared out to the weak side. | 약한 쪽으로 플레어컷했어.
+basketball | flare | verb | 플레어컷하다 | Flare when the defense packs the paint. | 수비가 페인트존을 막으면 플레어컷해.
+basketball | floater | noun | 플로터 | Tony Parker's signature floater. | 토니 파커의 시그니처 플로터.
+basketball | floater | noun | 플로터 | Nice floater. | 플로터 좋았다.
+basketball | floater | noun | 플로터 | He dropped in a floater. | 플로터 넣었네.
+basketball | floater | noun | 플로터 | That floater had touch. | 플로터 감각 좋았다.
+basketball | floor general | noun | 코트 사령관 | CP3 is a floor general. | CP3는 코트 사령관이야.
+basketball | floor general | noun | 코트 사령관 | He's the floor general out there. | 코트 사령관 역할을 해.
+basketball | floor general | noun | 코트 사령관 | The floor general controls the game. | 코트 사령관이 경기를 조율해.
+basketball | floor general | noun | 코트 사령관 | Every young team needs a floor general. | 어린 팀엔 코트 사령관이 필요해.
+basketball | flop | noun | 플랍 | Smart gets warned for a flop. | 스마트가 플랍 경고를 받았어.
+basketball | flop | noun | 플랍 | That's an obvious flop. | 누가 봐도 플랍이야.
+basketball | flop | noun | 플랍 | The refs didn't buy the flop. | 심판이 플랍에 안 속았어.
+basketball | flop | noun | 플랍 | He sold the flop hard. | 플랍을 과하게 했어.
+basketball | flopping | noun | 플라핑 | NBA penalizes flopping now. | NBA는 이제 플라핑을 제재해.
+basketball | flopping | noun | 플라핑 | Flopping is under more scrutiny. | 플라핑을 더 엄격하게 봐.
+basketball | flopping | noun | 플라핑 | Fans are tired of flopping. | 팬들이 플라핑을 싫어해.
+basketball | flopping | noun | 플라핑 | The league wants less flopping. | 리그는 플라핑을 줄이려 해.
+basketball | forced shot | noun | 터프샷 | Kobe takes a forced shot. | 코비가 터프샷을 던진다.
+basketball | forced shot | noun | 터프샷 | That's a tough forced shot. | 너무 어려운 터프샷인데.
+basketball | forced shot | noun | 터프샷 | He settled for a forced shot. | 무리하게 터프샷 갔네.
+basketball | forced shot | noun | 터프샷 | Bad possession, forced shot. | 공격 망하고 터프샷만 나왔네.
+basketball | foul | noun | 파울 | Smart draws an offensive foul. | 스마트가 공격자 파울을 얻어냈어.
+basketball | foul | noun | 파울 | That's his fifth foul. | 벌써 파울 5개야.
+basketball | foul | noun | 파울 | Tough foul to take there. | 거기선 아쉬운 파울이야.
+basketball | foul | noun | 파울 | They can't afford another foul. | 더는 파울하면 안 돼.
+basketball | foul | verb | 파울하다 | He fouled the shooter on the closeout. | 클로즈아웃하다가 파울했어.
+basketball | foul | verb | 파울하다 | Don't foul him on the drive. | 돌파 수비하다가 파울하지 마.
+basketball | foul | verb | 파울하다 | He fouled under the basket. | 골밑에서 파울했어.
+basketball | foul | verb | 파울하다 | They fouled to stop the clock. | 시간 멈추려고 파울했어.
+basketball | foul out | noun | 파울아웃 | Sabonis gets a foul out. | 사보니스가 파울아웃 당했네.
+basketball | foul out | noun | 파울아웃 | He's one foul from a foul out. | 파울 하나면 파울아웃이야.
+basketball | foul out | noun | 파울아웃 | We can't afford a foul out here. | 여기서 파울아웃 나오면 안 돼.
+basketball | foul out | noun | 파울아웃 | Their center picked up a foul out. | 상대 센터가 파울아웃됐네.
+basketball | franchise player | noun | 프랜차이즈 선수 | Dirk is a franchise player. | 덕 노비츠키는 프랜차이즈 선수야.
+basketball | franchise player | noun | 프랜차이즈 선수 | He's the franchise player. | 팀의 프랜차이즈 선수야.
+basketball | franchise player | noun | 프랜차이즈 선수 | They built around their franchise player. | 프랜차이즈 선수를 중심으로 팀을 만들었어.
+basketball | franchise player | noun | 프랜차이즈 선수 | Every team wants a franchise player. | 모든 팀이 프랜차이즈 선수를 원해.
+basketball | Franz Wagner | noun | 프란츠 바그너 | Franz Wagner got to the rim. | 프란츠 바그너가 림까지 들어갔어.
+basketball | Franz Wagner | noun | 프란츠 바그너 | Franz Wagner finished through contact. | 프란츠 바그너가 몸싸움을 이겨내고 넣었어.
+basketball | Franz Wagner | noun | 프란츠 바그너 | Franz Wagner attacked the mismatch. | 프란츠 바그너가 미스매치를 공략했어.
+basketball | Franz Wagner | noun | 프란츠 바그너 | Franz Wagner carried the offense. | 프란츠 바그너가 공격을 이끌었어.
+basketball | free agency | noun | 자유계약 | LeBron's decision in free agency. | 르브론의 FA 결정.
+basketball | free agency | noun | 자유계약 | Free agency starts tomorrow. | FA 시장이 내일 열려.
+basketball | free agency | noun | 자유계약 | The biggest move came in free agency. | 가장 큰 영입이 FA에서 나왔어.
+basketball | free agency | noun | 자유계약 | He hit free agency this summer. | 이번 여름 FA가 됐어.
+basketball | free throw | noun | 자유투 | Harden at the free throw line. | 하든 자유투 라인에 섰다.
+basketball | free throw | noun | 자유투 | Knock down your free throws. | 자유투 넣어야지.
+basketball | free throw | noun | 자유투 | He missed both free throws. | 자유투 두 개 다 놓쳤네.
+basketball | free throw | noun | 자유투 | Automatic from the free throw line. | 자유투는 거의 자동이네.
+basketball | free throw line | noun | 자유투 라인 | Jordan dunks from free throw line. | 조던이 자유투 라인에서 덩크했어.
+basketball | free throw line | noun | 자유투 라인 | Meet him at the free throw line. | 자유투 라인 근처에서 막아.
+basketball | free throw line | noun | 자유투 라인 | He pulled up from the free throw line. | 자유투 라인에서 풀업을 쐈어.
+basketball | free throw line | noun | 자유투 라인 | Attack from the free throw line area. | 자유투 라인 부근을 공략해.
+basketball | front | verb | 프런트하다 | He fronted the post all game. | 경기 내내 포스트를 프런트했어.
+basketball | front | verb | 프런트하다 | Front the big man in the paint. | 페인트존에서 빅맨을 프런트해.
+basketball | front | verb | 프런트하다 | He fronted him before the entry pass. | 엔트리 패스 전에 프런트했어.
+basketball | front | verb | 프런트하다 | The center fronted him down low. | 센터가 로우포스트에서 프런트했어.
+basketball | frontcourt | noun | 프런트코트 | Boston's elite defensive frontcourt. | 보스턴의 뛰어난 프런트코트 수비.
+basketball | frontcourt | noun | 프런트코트 | Their frontcourt is huge. | 프런트코트 사이즈가 커.
+basketball | frontcourt | noun | 프런트코트 | The frontcourt controlled the boards. | 프런트코트가 리바운드를 장악했어.
+basketball | frontcourt | noun | 프런트코트 | They upgraded the frontcourt. | 프런트코트를 보강했어.
+basketball | game winner | noun | 위닝샷 | Jordan hits the game winner. | 조던이 위닝샷을 넣었어.
+basketball | game winner | noun | 위닝샷 | That's a game winner. | 위닝샷이야.
+basketball | game winner | noun | 위닝샷 | He buried the game winner. | 위닝샷을 꽂았어.
+basketball | game winner | noun | 위닝샷 | The game winner stunned the crowd. | 위닝샷에 관중이 얼어붙었어.
+basketball | garbage time | noun | 가비지 타임 | Tacko Fall in garbage time. | 타코 폴이 가비지 타임에 나왔어.
+basketball | garbage time | noun | 가비지 타임 | It's garbage time now. | 이제 가비지 타임이야.
+basketball | garbage time | noun | 가비지 타임 | Most of his points came in garbage time. | 득점 대부분이 가비지 타임이었어.
+basketball | garbage time | noun | 가비지 타임 | The starters rested during garbage time. | 가비지 타임에 주전이 쉬었어.
+basketball | ghost screen | noun | 고스트 스크린 | Curry uses the ghost screen. | 커리 고스트 스크린 쓴다.
+basketball | ghost screen | noun | 고스트 스크린 | Nice ghost screen action. | 고스트 스크린 좋았다.
+basketball | ghost screen | noun | 고스트 스크린 | They keep using ghost screens. | 고스트 스크린 계속 쓰네.
+basketball | ghost screen | noun | 고스트 스크린 | The ghost screen worked. | 고스트 스크린 먹혔다.
+basketball | Giannis Antetokounmpo | noun | 야니스 아데토쿤보 | Giannis Antetokounmpo went coast to coast. | 야니스 아데토쿤보가 직접 끝까지 몰고 갔어.
+basketball | Giannis Antetokounmpo | noun | 야니스 아데토쿤보 | Giannis Antetokounmpo attacked the paint. | 야니스 아데토쿤보가 페인트존을 공략했어.
+basketball | Giannis Antetokounmpo | noun | 야니스 아데토쿤보 | Giannis Antetokounmpo finished through contact. | 야니스 아데토쿤보가 몸싸움을 이겨내고 넣었어.
+basketball | Giannis Antetokounmpo | noun | 야니스 아데토쿤보 | Giannis Antetokounmpo stuffed the shot. | 야니스 아데토쿤보가 블록했어.
+basketball | Gilbert Arenas | noun | 길버트 아레나스 | Gilbert Arenas pulled up from deep. | 길버트 아레나스가 멀리서 바로 쐈어.
+basketball | Gilbert Arenas | noun | 길버트 아레나스 | Gilbert Arenas got hot in a hurry. | 길버트 아레나스가 순식간에 터졌어.
+basketball | Gilbert Arenas | noun | 길버트 아레나스 | Gilbert Arenas created his own shot. | 길버트 아레나스가 스스로 슛을 만들었어.
+basketball | Gilbert Arenas | noun | 길버트 아레나스 | Gilbert Arenas took over the game. | 길버트 아레나스가 경기를 지배했어.
+basketball | goaltending | noun | 골텐딩 | Howard called for goaltending. | 하워드에게 골텐딩이 선언됐어.
+basketball | goaltending | noun | 골텐딩 | That's clearly goaltending. | 명백한 골텐딩이야.
+basketball | goaltending | noun | 골텐딩 | The bucket counts because of goaltending. | 골텐딩이라 득점 인정이야.
+basketball | goaltending | noun | 골텐딩 | Tough goaltending call there. | 아쉬운 골텐딩 판정이야.
+basketball | Grant Hill | noun | 그랜트 힐 | Grant Hill pushed the break. | 그랜트 힐이 속공을 전개했어.
+basketball | Grant Hill | noun | 그랜트 힐 | Grant Hill got to the basket. | 그랜트 힐이 골밑까지 들어갔어.
+basketball | Grant Hill | noun | 그랜트 힐 | Grant Hill found the open teammate. | 그랜트 힐이 빈 팀원을 찾았어.
+basketball | Grant Hill | noun | 그랜트 힐 | Grant Hill did a little of everything. | 그랜트 힐이 다 해줬어.
+basketball | hack-a-shaq | noun | 고의 파울 작전 | Spurs use the Hack-a-Shaq. | 스퍼스가 고의 파울 작전 쓴다.
+basketball | hack-a-shaq | noun | 고의 파울 작전 | They're going full Hack-a-Shaq. | 대놓고 고의 파울 작전이네.
+basketball | hack-a-shaq | noun | 고의 파울 작전 | Hack-a-Shaq changed the game. | 고의 파울 작전이 흐름 바꿨네.
+basketball | hack-a-shaq | noun | 고의 파울 작전 | Expect some Hack-a-Shaq late. | 막판에 고의 파울 작전 나오겠다.
+basketball | half-court | noun | 하프코트 | Curry shoots from half-court. | 커리가 하프코트에서 쐈어.
+basketball | half-court | noun | 하프코트 | He hit a half-court buzzer-beater. | 하프코트 버저비터를 넣었어.
+basketball | half-court | noun | 하프코트 | Set up the half-court offense. | 하프코트 공격 세팅해.
+basketball | half-court | noun | 하프코트 | They slowed it down in the half-court. | 하프코트 게임으로 갔어.
+basketball | halftime | noun | 하프타임 | Adjustments made at halftime. | 하프타임에 전술 수정했어.
+basketball | halftime | noun | 하프타임 | They're up ten at halftime. | 하프타임에 10점 앞서고 있어.
+basketball | halftime | noun | 하프타임 | Big momentum shift before halftime. | 하프타임 전에 흐름이 바뀌었어.
+basketball | halftime | noun | 하프타임 | The game was tied at halftime. | 하프타임에 동점이었어.
+basketball | hand off | verb | 핸드오프하다 | He handed it off to Curry. | 커리에게 핸드오프했어.
+basketball | hand off | verb | 핸드오프하다 | Bam handed it off at the elbow. | 뱀이 엘보에서 핸드오프했어.
+basketball | hand off | verb | 핸드오프하다 | He handed it off and screened. | 핸드오프하고 스크린했어.
+basketball | hand off | verb | 핸드오프하다 | Hand it off and roll. | 핸드오프하고 롤해.
+basketball | hard foul | noun | 하드 파울 | Green gives a hard foul. | 그린 하드 파울 나왔다.
+basketball | hard foul | noun | 하드 파울 | That's a hard foul. | 하드 파울이네.
+basketball | hard foul | noun | 하드 파울 | He took a hard foul. | 세게 맞았네.
+basketball | hard foul | noun | 하드 파울 | No easy buckets, hard foul. | 쉽게 주지 마.
+basketball | hard hedge | noun | 하드 헷지 | Davis plays a hard hedge. | 데이비스가 하드 헷지 들어간다.
+basketball | hard hedge | noun | 하드 헷지 | They switched to a hard hedge. | 하드 헷지로 바꿨네.
+basketball | hard hedge | noun | 하드 헷지 | The hard hedge worked perfectly. | 하드 헷지 잘 먹혔다.
+basketball | hard hedge | noun | 하드 헷지 | Beat the hard hedge with a pass. | 패스로 하드 헷지 풀어.
+basketball | heat check | noun | 히트체크 | Klay pulls a heat check. | 클레이 히트체크 간다.
+basketball | heat check | noun | 히트체크 | That's a classic heat check. | 전형적인 히트체크네.
+basketball | heat check | noun | 히트체크 | He loves the heat check. | 히트체크 좋아하네.
+basketball | heat check | noun | 히트체크 | Another heat check three. | 또 히트체크 3점이다.
+basketball | heat check | noun | 슛감 테스트 | Klay takes a heat check. | 클레이가 슛감 테스트 들어갔어.
+basketball | heat check | noun | 슛감 테스트 | That's a heat check three. | 슛감 테스트 3점이야.
+basketball | heat check | noun | 슛감 테스트 | He never passes on a heat check. | 슛감 좋으면 바로 던져.
+basketball | heat check | noun | 슛감 테스트 | The heat check didn't fall. | 슛감 테스트는 실패했어.
+basketball | hedge | verb | 헤지하다 | He hedged the screen. | 스크린에 헤지했어.
+basketball | hedge | verb | 헤지하다 | The big hedged high. | 빅맨이 높게 헤지했어.
+basketball | hedge | verb | 헤지하다 | He hedged and recovered. | 헤지 후 복귀했어.
+basketball | hedge | verb | 헤지하다 | Keep hedging on him. | 계속 헤지해.
+basketball | hedge out | verb | 헤지하다 | He hedged out against the guard. | 가드 상대로 헤지했어.
+basketball | hedge out | verb | 헤지하다 | The center hedged out high. | 센터가 높게 헤지했어.
+basketball | hedge out | verb | 헤지하다 | He hedged out before recovering. | 복귀 전에 헤지했어.
+basketball | hedge out | verb | 헤지하다 | Hedge out against quick guards. | 빠른 가드 상대로 헤지해.
+basketball | help defense | noun | 헬프 수비 | Giannis provides elite help defense. | 야니스의 헬프 수비는 최고야.
+basketball | help defense | noun | 헬프 수비 | The help defense came early. | 헬프 수비가 빨리 왔어.
+basketball | help defense | noun | 헬프 수비 | Great help defense at the rim. | 림 근처 헬프 수비 좋았어.
+basketball | help defense | noun | 헬프 수비 | They rely on help defense. | 헬프 수비 의존도가 높아.
+basketball | help side | noun | 헬프 사이드 | Giannis covers the help side. | 야니스 헬프 사이드 좋다.
+basketball | help side | noun | 헬프 사이드 | Help side was late. | 헬프 사이드가 늦었어.
+basketball | help side | noun | 헬프 사이드 | Great help-side defense. | 헬프 사이드 수비 좋았다.
+basketball | help side | noun | 헬프 사이드 | Rotate from the help side. | 헬프 사이드에서 로테이션 가.
+basketball | hesi | noun | 헤지테이션 | Kyrie's smooth hesi pull-up. | 카이리의 부드러운 헤지 풀업.
+basketball | hesi | noun | 헤지테이션 | Nice hesi to get downhill. | 헤지로 수비를 벗겼어.
+basketball | hesi | noun | 헤지테이션 | That hesi froze the defender. | 헤지에 수비가 멈췄어.
+basketball | hesi | noun | 헤지테이션 | He scores off the hesi. | 헤지 이후 득점했어.
+basketball | hesitation | noun | 헤지테이션 | KD's quick hesitation. | KD의 빠른 헤지테이션.
+basketball | hesitation | noun | 헤지테이션 | Nice hesitation before the drive. | 드라이브 전에 헤지테이션 좋았어.
+basketball | hesitation | noun | 헤지테이션 | That hesitation froze the defender. | 헤지테이션에 수비가 멈췄어.
+basketball | hesitation | noun | 헤지테이션 | He uses a hesitation to create space. | 헤지테이션으로 공간을 만들었어.
+basketball | high post | noun | 하이 포스트 | Jokic passes from high post. | 요키치가 하이 포스트에서 패스해.
+basketball | high post | noun | 하이 포스트 | Catch it at the high post. | 하이 포스트에서 받아.
+basketball | high post | noun | 하이 포스트 | The offense runs through the high post. | 하이 포스트 중심으로 공격해.
+basketball | high post | noun | 하이 포스트 | He operates well from the high post. | 하이 포스트 플레이가 좋아.
+basketball | hockey assist | noun | 하키 어시스트 | Curry gets the hockey assist. | 커리가 하키 어시스트를 기록했어.
+basketball | hockey assist | noun | 하키 어시스트 | The hockey assist started the play. | 하키 어시스트가 시작이었어.
+basketball | hockey assist | noun | 하키 어시스트 | He racks up hockey assists. | 하키 어시스트가 많아.
+basketball | hockey assist | noun | 하키 어시스트 | Great hockey assist there. | 좋은 하키 어시스트였어.
+basketball | hook shot | noun | 훅슛 | Kareem's unstoppable hook shot. | 카림의 막을 수 없는 훅슛.
+basketball | hook shot | noun | 훅슛 | Soft hook shot. | 훅슛 부드럽네.
+basketball | hook shot | noun | 훅슛 | He scored with a hook shot. | 훅슛으로 득점했네.
+basketball | hook shot | noun | 훅슛 | Nobody can stop that hook shot. | 저 훅슛은 못 막는다.
+basketball | hoop | noun | 림 | Edwards attacks the hoop. | 에드워즈가 림을 공격해.
+basketball | hoop | noun | 림 | He got all the way to the hoop. | 끝까지 림까지 들어갔어.
+basketball | hoop | noun | 림 | Take it strong to the hoop. | 강하게 림으로 가.
+basketball | hoop | noun | 림 | Nobody stopped him at the hoop. | 아무도 림 근처에서 못 막았어.
+basketball | ice | verb | 아이스하다 | They iced the side pick and roll. | 사이드 픽앤롤을 아이스했어.
+basketball | ice | verb | 아이스하다 | He iced the action toward the sideline. | 사이드라인 쪽으로 아이스했어.
+basketball | ice | verb | 아이스하다 | The defense iced every side screen. | 수비가 모든 사이드 스크린을 아이스했어.
+basketball | ice | verb | 아이스하다 | Ice the screen on the wing. | 윙 스크린을 아이스해.
+basketball | inbounds | noun | 인바운드 | Save it safely inbounds. | 인바운드 안으로 살려.
+basketball | inbounds | noun | 인바운드 | Great inbounds play. | 인바운드 작전 좋았다.
+basketball | inbounds | noun | 인바운드 | We need an inbounds stop. | 인바운드 수비 막아야 돼.
+basketball | inbounds | noun | 인바운드 | The inbounds pass was perfect. | 인바운드 패스 좋았네.
+basketball | initiate | verb | 공격을 시작하다 | He initiated the offense. | 공격을 시작했어.
+basketball | initiate | verb | 공격을 시작하다 | Curry initiated the set. | 커리가 공격을 시작했어.
+basketball | initiate | verb | 공격을 시작하다 | He initiated from the top. | 정면에서 공격을 시작했어.
+basketball | initiate | verb | 공격을 시작하다 | He initiated the action. | 공격 전개를 시작했어.
+basketball | intercept | verb | 스틸하다 | He intercepted the pass. | 패스를 스틸했어.
+basketball | intercept | verb | 스틸하다 | Holiday intercepted it. | 할러데이가 스틸했어.
+basketball | intercept | verb | 스틸하다 | He jumped the lane and intercepted it. | 패스 길목에서 스틸했어.
+basketball | intercept | verb | 스틸하다 | He intercepted the entry pass. | 엔트리 패스를 스틸했어.
+basketball | iso | noun | 아이솔레이션 | Kyrie iso at the top. | 카이리 아이소 간다.
+basketball | iso | noun | 아이솔레이션 | Let him work in iso. | 아이소 맡겨.
+basketball | iso | noun | 아이솔레이션 | Easy bucket out of iso. | 아이소에서 쉽게 넣었어.
+basketball | iso | noun | 아이솔레이션 | They went to iso late. | 막판에 아이소를 선택했어.
+basketball | isolation | noun | 아이솔레이션 | Harden thrives in isolation. | 하든은 아이솔레이션에 강해.
+basketball | isolation | noun | 아이솔레이션 | Give him an isolation. | 아이솔레이션 만들어줘.
+basketball | isolation | noun | 아이솔레이션 | They cleared out for isolation. | 아이솔레이션을 위해 공간을 비웠어.
+basketball | isolation | noun | 아이솔레이션 | He scored in isolation. | 아이솔레이션으로 득점했어.
+basketball | Ja Morant | noun | 자 모란트 | Ja Morant flew to the rim. | 자 모란트가 날아올랐어.
+basketball | Ja Morant | noun | 자 모란트 | Ja Morant finished over the big man. | 자 모란트가 빅맨 위로 넣었어.
+basketball | Ja Morant | noun | 자 모란트 | Ja Morant pushed the pace. | 자 모란트가 템포를 끌어올렸어.
+basketball | Ja Morant | noun | 자 모란트 | Ja Morant made the highlight reel. | 자 모란트가 하이라이트를 만들었어.
+basketball | jab step | noun | 잽스텝 | Carmelo's deadly jab step. | 카멜로 잽스텝 미쳤네.
+basketball | jab step | noun | 잽스텝 | Nice jab step there. | 잽스텝 좋았다.
+basketball | jab step | noun | 잽스텝 | He froze him with a jab step. | 잽스텝에 속았네.
+basketball | jab step | noun | 잽스텝 | That's his signature jab step. | 저게 시그니처 잽스텝이지.
+basketball | jab step | noun | 잽스텝 | Melo's famous jab step. | 멜로의 유명한 잽스텝.
+basketball | jab step | noun | 잽스텝 | That jab step created space. | 잽스텝으로 공간을 만들었어.
+basketball | jab step | noun | 잽스텝 | Clean jab step jumper. | 깔끔한 잽스텝 점퍼야.
+basketball | jab step | noun | 잽스텝 | He sold the jab step perfectly. | 잽스텝을 완벽하게 속였어.
+basketball | Jalen Brunson | noun | 제일런 브런슨 | Jalen Brunson got to his spot. | 제일런 브런슨이 자기 자리로 갔어.
+basketball | Jalen Brunson | noun | 제일런 브런슨 | Jalen Brunson worked in the paint. | 제일런 브런슨이 페인트존에서 플레이했어.
+basketball | Jalen Brunson | noun | 제일런 브런슨 | Jalen Brunson hit the floater. | 제일런 브런슨이 플로터를 넣었어.
+basketball | Jalen Brunson | noun | 제일런 브런슨 | Jalen Brunson controlled the game. | 제일런 브런슨이 경기를 지배했어.
+basketball | Jalen Green | noun | 제일런 그린 | Jalen Green exploded to the rim. | 제일런 그린이 폭발적으로 돌파했어.
+basketball | Jalen Green | noun | 제일런 그린 | Jalen Green got out in transition. | 제일런 그린이 속공으로 뛰어 나갔어.
+basketball | Jalen Green | noun | 제일런 그린 | Jalen Green threw down the dunk. | 제일런 그린이 덩크를 꽂았어.
+basketball | Jalen Green | noun | 제일런 그린 | Jalen Green caught fire in the second half. | 제일런 그린이 후반에 터졌어.
+basketball | James Harden | noun | 제임스 하든 | James Harden drew the foul. | 제임스 하든이 파울을 얻어냈어.
+basketball | James Harden | noun | 제임스 하든 | James Harden hit the step-back. | 제임스 하든이 스텝백을 넣었어.
+basketball | James Harden | noun | 제임스 하든 | James Harden got to the line. | 제임스 하든이 자유투를 얻었어.
+basketball | James Harden | noun | 제임스 하든 | James Harden picked apart the defense. | 제임스 하든이 수비를 공략했어.
+basketball | Jaren Jackson Jr. | noun | 자렌 잭슨 주니어 | Jaren Jackson Jr. protected the rim. | 자렌 잭슨 주니어가 림을 지켰어.
+basketball | Jaren Jackson Jr. | noun | 자렌 잭슨 주니어 | Jaren Jackson Jr. came up with the block. | 자렌 잭슨 주니어가 블록을 기록했어.
+basketball | Jaren Jackson Jr. | noun | 자렌 잭슨 주니어 | Jaren Jackson Jr. stretched the floor. | 자렌 잭슨 주니어가 공간을 넓혔어.
+basketball | Jaren Jackson Jr. | noun | 자렌 잭슨 주니어 | Jaren Jackson Jr. controlled the paint. | 자렌 잭슨 주니어가 골밑을 장악했어.
+basketball | Jason Kidd | noun | 제이슨 키드 | Jason Kidd pushed the break. | 제이슨 키드가 속공을 전개했어.
+basketball | Jason Kidd | noun | 제이슨 키드 | Jason Kidd found the open shooter. | 제이슨 키드가 빈 슈터를 찾았어.
+basketball | Jason Kidd | noun | 제이슨 키드 | Jason Kidd grabbed the rebound and went. | 제이슨 키드가 리바운드 후 바로 달렸어.
+basketball | Jason Kidd | noun | 제이슨 키드 | Jason Kidd controlled the pace. | 제이슨 키드가 경기 속도를 조절했어.
+basketball | Jaylen Brown | noun | 제일런 브라운 | Jaylen Brown got downhill. | 제일런 브라운이 돌파해 들어갔어.
+basketball | Jaylen Brown | noun | 제일런 브라운 | Jaylen Brown finished through contact. | 제일런 브라운이 몸싸움을 이겨내고 넣었어.
+basketball | Jaylen Brown | noun | 제일런 브라운 | Jaylen Brown pushed the break. | 제일런 브라운이 속공을 전개했어.
+basketball | Jaylen Brown | noun | 제일런 브라운 | Jaylen Brown knocked down the corner three. | 제일런 브라운이 코너 3점을 넣었어.
+basketball | Jayson Tatum | noun | 제이슨 테이텀 | Jayson Tatum created space with the step-back. | 제이슨 테이텀이 스텝백으로 공간을 만들었어.
+basketball | Jayson Tatum | noun | 제이슨 테이텀 | Jayson Tatum got hot from three. | 제이슨 테이텀이 3점이 터졌어.
+basketball | Jayson Tatum | noun | 제이슨 테이텀 | Jayson Tatum attacked the mismatch. | 제이슨 테이텀이 미스매치를 공략했어.
+basketball | Jayson Tatum | noun | 제이슨 테이텀 | Jayson Tatum carried the offense. | 제이슨 테이텀이 공격을 이끌었어.
+basketball | Jerry West | noun | 제리 웨스트 | Jerry West knocked down the jumper. | 제리 웨스트가 점퍼를 넣었어.
+basketball | Jerry West | noun | 제리 웨스트 | Jerry West came through late. | 제리 웨스트가 막판에 해줬어.
+basketball | Jerry West | noun | 제리 웨스트 | Jerry West carried the offense. | 제리 웨스트가 공격을 이끌었어.
+basketball | Jerry West | noun | 제리 웨스트 | Jerry West made another big shot. | 제리 웨스트가 또 중요한 슛을 넣었어.
+basketball | Jimmy Butler | noun | 지미 버틀러 | Jimmy Butler attacked the paint. | 지미 버틀러가 페인트존을 공략했어.
+basketball | Jimmy Butler | noun | 지미 버틀러 | Jimmy Butler lived at the line. | 지미 버틀러가 자유투를 많이 얻었어.
+basketball | Jimmy Butler | noun | 지미 버틀러 | Jimmy Butler took the challenge. | 지미 버틀러가 에이스 수비를 맡았어.
+basketball | Jimmy Butler | noun | 지미 버틀러 | Jimmy Butler came through in the playoffs. | 지미 버틀러가 플레이오프에서 해줬어.
+basketball | Joel Embiid | noun | 조엘 엠비드 | Joel Embiid got deep position. | 조엘 엠비드가 깊게 자리 잡았어.
+basketball | Joel Embiid | noun | 조엘 엠비드 | Joel Embiid lived at the free throw line. | 조엘 엠비드가 자유투를 많이 얻었어.
+basketball | Joel Embiid | noun | 조엘 엠비드 | Joel Embiid dominated the post. | 조엘 엠비드가 포스트를 지배했어.
+basketball | Joel Embiid | noun | 조엘 엠비드 | Joel Embiid controlled the paint. | 조엘 엠비드가 골밑을 장악했어.
+basketball | John Stockton | noun | 존 스탁턴 | John Stockton delivered another dime. | 존 스탁턴이 또 어시스트를 했어.
+basketball | John Stockton | noun | 존 스탁턴 | John Stockton ran the pick-and-roll. | 존 스탁턴이 픽앤롤을 운영했어.
+basketball | John Stockton | noun | 존 스탁턴 | John Stockton picked up the steal. | 존 스탁턴이 스틸을 기록했어.
+basketball | John Stockton | noun | 존 스탁턴 | John Stockton controlled the tempo. | 존 스탁턴이 경기 템포를 조절했어.
+basketball | Jrue Holiday | noun | 즈루 할러데이 | Jrue Holiday picked his pocket. | 즈루 할러데이가 공을 뺏었어.
+basketball | Jrue Holiday | noun | 즈루 할러데이 | Jrue Holiday locked him up. | 즈루 할러데이가 꽁꽁 묶었어.
+basketball | Jrue Holiday | noun | 즈루 할러데이 | Jrue Holiday knocked down the open three. | 즈루 할러데이가 오픈 3점을 넣었어.
+basketball | Jrue Holiday | noun | 즈루 할러데이 | Jrue Holiday made the right play. | 즈루 할러데이가 올바른 선택을 했어.
+basketball | Julius Erving | noun | 줄리어스 어빙 | Julius Erving soared to the rim. | 줄리어스 어빙이 날아올랐어.
+basketball | Julius Erving | noun | 줄리어스 어빙 | Julius Erving finished with style. | 줄리어스 어빙이 멋지게 마무리했어.
+basketball | Julius Erving | noun | 줄리어스 어빙 | Julius Erving electrified the crowd. | 줄리어스 어빙이 관중을 열광시켰어.
+basketball | Julius Erving | noun | 줄리어스 어빙 | Julius Erving made the highlight reel. | 줄리어스 어빙이 하이라이트를 만들었어.
+basketball | jump ball | noun | 점프볼 | Tie up means jump ball. | 볼 경합이라 점프볼이야.
+basketball | jump ball | noun | 점프볼 | They called a jump ball. | 점프볼이 선언됐어.
+basketball | jump ball | noun | 점프볼 | He won the jump ball. | 점프볼을 따냈어.
+basketball | jump ball | noun | 점프볼 | Another jump ball situation. | 또 점프볼 상황이야.
+basketball | jump shot | noun | 점프슛 | MJ's iconic jump shot. | MJ의 상징적인 점프슛.
+basketball | jump shot | noun | 점프슛 | Smooth jump shot. | 점프슛 깔끔하네.
+basketball | jump shot | noun | 점프슛 | He created space for the jump shot. | 공간 만들고 점프슛 쐈네.
+basketball | jump shot | noun | 점프슛 | That's money from midrange. | 점프슛이 자동이네.
+basketball | jumper | noun | 점퍼 | KD sticks the pull-up jumper. | KD 점퍼 꽂았다.
+basketball | jumper | noun | 점퍼 | Smooth jumper. | 점퍼 깔끔하네.
+basketball | jumper | noun | 점퍼 | He lives off that jumper. | 점퍼 하나로 먹고 사네.
+basketball | jumper | noun | 점퍼 | That's automatic from midrange. | 점퍼 자동이네.
+basketball | jumper | noun | 점퍼 | KD's smooth pull-up jumper. | KD의 부드러운 풀업 점퍼.
+basketball | jumper | noun | 점퍼 | Nice jumper. | 점퍼 좋았다.
+basketball | jumper | noun | 점퍼 | He lives off that jumper. | 점퍼 하나로 먹고 사네.
+basketball | jumper | noun | 점퍼 | Automatic jumper. | 점퍼가 자동이네.
+basketball | Karl Malone | noun | 칼 말론 | Karl Malone rolled hard to the rim. | 칼 말론이 강하게 림으로 들어갔어.
+basketball | Karl Malone | noun | 칼 말론 | Karl Malone finished through contact. | 칼 말론이 몸싸움을 이겨내고 넣었어.
+basketball | Karl Malone | noun | 칼 말론 | Karl Malone lived at the free throw line. | 칼 말론은 자유투를 많이 얻었어.
+basketball | Karl Malone | noun | 칼 말론 | Karl Malone powered his way inside. | 칼 말론이 힘으로 밀고 들어갔어.
+basketball | Kawhi Leonard | noun | 카와이 레너드 | Kawhi Leonard stripped the ball. | 카와이 레너드가 공을 뺏었어.
+basketball | Kawhi Leonard | noun | 카와이 레너드 | Kawhi Leonard got to his mid-range spot. | 카와이 레너드가 미드레인지 위치를 잡았어.
+basketball | Kawhi Leonard | noun | 카와이 레너드 | Kawhi Leonard locked him down. | 카와이 레너드가 꽁꽁 묶었어.
+basketball | Kawhi Leonard | noun | 카와이 레너드 | Kawhi Leonard came through in crunch time. | 카와이 레너드가 승부처에 해줬어.
+basketball | Kevin Durant | noun | 케빈 듀란트 | Kevin Durant pulled up over the defender. | 케빈 듀란트가 수비 위로 올라가서 쐈어.
+basketball | Kevin Durant | noun | 케빈 듀란트 | Kevin Durant got to his spot. | 케빈 듀란트가 자기 자리로 갔어.
+basketball | Kevin Durant | noun | 케빈 듀란트 | Kevin Durant scored from the wing. | 케빈 듀란트가 윙에서 득점했어.
+basketball | Kevin Durant | noun | 케빈 듀란트 | Kevin Durant made it look easy. | 케빈 듀란트가 너무 쉽게 넣었어.
+basketball | Kevin Garnett | noun | 케빈 가넷 | Kevin Garnett brought the energy. | 케빈 가넷이 에너지를 끌어올렸어.
+basketball | Kevin Garnett | noun | 케빈 가넷 | Kevin Garnett protected the paint. | 케빈 가넷이 골밑을 지켰어.
+basketball | Kevin Garnett | noun | 케빈 가넷 | Kevin Garnett knocked down the jumper. | 케빈 가넷이 점퍼를 넣었어.
+basketball | Kevin Garnett | noun | 케빈 가넷 | Kevin Garnett fired up the crowd. | 케빈 가넷이 관중을 열광시켰어.
+basketball | key | noun | 페인트존 | Gobert guards the key. | 고베어가 페인트존을 지켜.
+basketball | key | noun | 페인트존 | Stay out of the key. | 페인트존에 오래 있지 마.
+basketball | key | noun | 페인트존 | He controls the key defensively. | 수비에서 페인트존을 장악해.
+basketball | key | noun | 페인트존 | They attacked the key all game. | 경기 내내 페인트존을 공략했어.
+basketball | kick out | verb | 킥아웃패스하다 | He kicked it out to the corner shooter. | 코너 슈터에게 킥아웃패스했어.
+basketball | kick out | verb | 킥아웃패스하다 | Luka kicked it out after the drive. | 루카가 돌파 후 킥아웃패스했어.
+basketball | kick out | verb | 킥아웃패스하다 | He kicked it out against the double team. | 더블팀 나오자 킥아웃패스했어.
+basketball | kick out | verb | 킥아웃패스하다 | Kick it out when they collapse. | 수비가 몰리면 킥아웃패스해.
+basketball | kickout | noun | 킥아웃 패스 | LeBron's kickout to Korver. | 르브론이 코버에게 킥아웃.
+basketball | kickout | noun | 킥아웃 패스 | Great kickout. | 킥아웃 좋았다.
+basketball | kickout | noun | 킥아웃 패스 | The kickout led to a three. | 킥아웃으로 3점 만들었네.
+basketball | kickout | noun | 킥아웃 패스 | Keep looking for the kickout. | 킥아웃 계속 봐줘.
+basketball | Klay Thompson | noun | 클레이 탐슨 | Klay Thompson caught fire. | 클레이 탐슨이 불붙었어.
+basketball | Klay Thompson | noun | 클레이 탐슨 | Klay Thompson got loose off the screen. | 클레이 탐슨이 스크린으로 벗어났어.
+basketball | Klay Thompson | noun | 클레이 탐슨 | Klay Thompson drilled another three. | 클레이 탐슨이 또 3점을 넣었어.
+basketball | Klay Thompson | noun | 클레이 탐슨 | Klay Thompson barely touched the ball. | 클레이 탐슨이 공을 거의 안 잡고 넣었어.
+basketball | Kyrie Irving | noun | 카이리 어빙 | Kyrie Irving broke him down off the dribble. | 카이리 어빙이 드리블로 무너뜨렸어.
+basketball | Kyrie Irving | noun | 카이리 어빙 | Kyrie Irving finished with a reverse layup. | 카이리 어빙이 리버스 레이업을 넣었어.
+basketball | Kyrie Irving | noun | 카이리 어빙 | Kyrie Irving got to his spot. | 카이리 어빙이 자기 자리로 갔어.
+basketball | Kyrie Irving | noun | 카이리 어빙 | Kyrie Irving hit a tough shot. | 카이리 어빙이 어려운 슛을 넣었어.
+basketball | LaMelo Ball | noun | 라멜로 볼 | LaMelo Ball threw a flashy pass. | 라멜로 볼이 화려한 패스를 했어.
+basketball | LaMelo Ball | noun | 라멜로 볼 | LaMelo Ball pushed the pace. | 라멜로 볼이 템포를 끌어올렸어.
+basketball | LaMelo Ball | noun | 라멜로 볼 | LaMelo Ball found the cutter. | 라멜로 볼이 컷인 선수를 찾았어.
+basketball | LaMelo Ball | noun | 라멜로 볼 | LaMelo Ball hit from deep. | 라멜로 볼이 장거리 슛을 넣었어.
+basketball | Lauri Markkanen | noun | 라우리 마카넨 | Lauri Markkanen stretched the floor. | 라우리 마카넨이 공간을 넓혔어.
+basketball | Lauri Markkanen | noun | 라우리 마카넨 | Lauri Markkanen knocked down the three. | 라우리 마카넨이 3점을 넣었어.
+basketball | Lauri Markkanen | noun | 라우리 마카넨 | Lauri Markkanen attacked the closeout. | 라우리 마카넨이 클로즈아웃을 공략했어.
+basketball | Lauri Markkanen | noun | 라우리 마카넨 | Lauri Markkanen got to the rim. | 라우리 마카넨이 림까지 들어갔어.
+basketball | layup | noun | 레이업 | Curry misses a wide-open layup. | 커리가 노마크 레이업을 놓쳤네.
+basketball | layup | noun | 레이업 | Easy layup. | 쉬운 레이업이다.
+basketball | layup | noun | 레이업 | He blew the layup. | 레이업을 흘렸네.
+basketball | layup | noun | 레이업 | Nice reverse layup. | 리버스 레이업 좋았다.
+basketball | LeBron | noun | 르브론 | LeBron with the steal | 르브론 제임스가 스틸을 해냈어
+basketball | LeBron James | noun | 르브론 제임스 | LeBron James pushed the break. | 르브론 제임스가 속공을 전개했어.
+basketball | LeBron James | noun | 르브론 제임스 | LeBron James found the open man. | 르브론 제임스가 빈 선수를 찾았어.
+basketball | LeBron James | noun | 르브론 제임스 | LeBron James attacked the rim. | 르브론 제임스가 림을 공략했어.
+basketball | LeBron James | noun | 르브론 제임스 | LeBron James recorded a triple-double. | 르브론 제임스가 트리플더블을 기록했어.
+basketball | load management | noun | 부하 관리 | Kawhi sits for load management. | 카와이가 부하 관리로 결장했어.
+basketball | load management | noun | 부하 관리 | It's another load management night. | 또 부하 관리 경기야.
+basketball | load management | noun | 부하 관리 | The team is using load management. | 팀이 부하 관리를 하고 있어.
+basketball | load management | noun | 부하 관리 | Load management remains controversial. | 부하 관리는 여전히 논란이야.
+basketball | lob | noun | 롭 패스 | Wade throws the lob. | 웨이드가 롭 패스 올린다.
+basketball | lob | noun | 롭 패스 | Nice lob. | 롭 패스 좋았다.
+basketball | lob | noun | 롭 패스 | He threw it too high. | 롭 패스가 높았네.
+basketball | lob | noun | 롭 패스 | The lob was perfect. | 롭 패스가 완벽했다.
+basketball | lob | verb | 앨리웁 패스하다 | He lobbed it to the big man. | 빅맨에게 앨리웁 패스했어.
+basketball | lob | verb | 앨리웁 패스하다 | Trae lobbed it up. | 트레이가 앨리웁 패스했어.
+basketball | lob | verb | 앨리웁 패스하다 | He lobbed it over the defense. | 수비 위로 앨리웁 패스했어.
+basketball | lob | verb | 앨리웁 패스하다 | He lobbed it to the cutter. | 컷인 선수에게 앨리웁 패스했어.
+basketball | lob | verb | 앨리웁패스하다 | He lobbed it to the rolling big. | 롤하는 빅맨에게 앨리웁패스했어.
+basketball | lob | verb | 앨리웁패스하다 | Trae lobbed it over the defense. | 트레이가 수비 위로 앨리웁패스했어.
+basketball | lob | verb | 앨리웁패스하다 | He lobbed it from the top of the key. | 정면에서 앨리웁패스했어.
+basketball | lob | verb | 앨리웁패스하다 | Lob it when the center helps. | 센터가 헬프 오면 앨리웁패스해.
+basketball | lob threat | noun | 롭 위협 | Jordan is a lob threat. | 디안드레 조던은 롭 위협이야.
+basketball | lob threat | noun | 롭 위협 | He's always a lob threat. | 항상 롭 위협이 있어.
+basketball | lob threat | noun | 롭 위협 | The defense respected his lob threat. | 수비가 롭을 의식했어.
+basketball | lob threat | noun | 롭 위협 | A good lob threat changes everything. | 롭 위협 하나로 공격이 달라져.
+basketball | lockdown defender | noun | 자물쇠 수비수 | Kawhi is a lockdown defender. | 카와이는 자물쇠 수비수야.
+basketball | lockdown defender | noun | 자물쇠 수비수 | He's a true lockdown defender. | 진짜 자물쇠 수비수야.
+basketball | lockdown defender | noun | 자물쇠 수비수 | The lockdown defender took the assignment. | 에이스 수비를 맡았어.
+basketball | lockdown defender | noun | 자물쇠 수비수 | Every contender wants a lockdown defender. | 강팀은 자물쇠 수비수를 원해.
+basketball | loose ball | noun | 루즈볼 | Smart dives for a loose ball. | 스마트가 루즈볼에 몸 던진다.
+basketball | loose ball | noun | 루즈볼 | Fight for the loose ball. | 루즈볼 잡아.
+basketball | loose ball | noun | 루즈볼 | We won the loose ball. | 루즈볼 우리가 먹었네.
+basketball | loose ball | noun | 루즈볼 | Huge hustle on that loose ball. | 루즈볼 투지 좋았다.
+basketball | loose ball | noun | 루즈볼 | Smart dives for loose ball. | 스마트가 루즈볼에 몸을 던졌어.
+basketball | loose ball | noun | 루즈볼 | Everybody went after the loose ball. | 다들 루즈볼에 달려들었어.
+basketball | loose ball | noun | 루즈볼 | He won the loose ball. | 루즈볼을 따냈어.
+basketball | loose ball | noun | 루즈볼 | Huge hustle on the loose ball. | 루즈볼 허슬이 좋았어.
+basketball | lottery | noun | 로터리 | Spurs win the draft lottery. | 스퍼스가 드래프트 로터리에 당첨됐어.
+basketball | lottery | noun | 로터리 | They landed a lottery pick. | 로터리 픽을 얻었어.
+basketball | lottery | noun | 로터리 | This team is headed for the lottery. | 로터리행이 유력해.
+basketball | lottery | noun | 로터리 | The lottery changed everything. | 로터리가 모든 걸 바꿨어.
+basketball | low block | noun | 로우 블록 | Duncan sets up at low block. | 던컨이 로우 블록에 자리 잡았어.
+basketball | low block | noun | 로우 블록 | Feed him on the low block. | 로우 블록에 공 넣어줘.
+basketball | low block | noun | 로우 블록 | He scored from the low block. | 로우 블록에서 득점했어.
+basketball | low block | noun | 로우 블록 | Strong position on the low block. | 로우 블록 자리 싸움이 좋았어.
+basketball | low post | noun | 로우 포스트 | Shaq dominates the low post. | 샤크가 로우 포스트를 지배했어.
+basketball | low post | noun | 로우 포스트 | Get him the ball in the low post. | 로우 포스트에 공 넣어.
+basketball | low post | noun | 로우 포스트 | He sealed his man in the low post. | 로우 포스트에서 자리 잡았어.
+basketball | low post | noun | 로우 포스트 | They attacked through the low post. | 로우 포스트 중심으로 공격했어.
+basketball | Luka Doncic | noun | 루카 돈치치 | Luka Doncic hunted the mismatch. | 루카 돈치치가 미스매치를 노렸어.
+basketball | Luka Doncic | noun | 루카 돈치치 | Luka Doncic hit the step-back three. | 루카 돈치치가 스텝백 3점을 넣었어.
+basketball | Luka Doncic | noun | 루카 돈치치 | Luka Doncic slowed the game down. | 루카 돈치치가 경기 속도를 늦췄어.
+basketball | Luka Doncic | noun | 루카 돈치치 | Luka Doncic got wherever he wanted. | 루카 돈치치가 원하는 곳으로 다 갔어.
+basketball | luxury tax | noun | 사치세 | Balmer pays the luxury tax. | 발머가 사치세를 내고 있어.
+basketball | luxury tax | noun | 사치세 | They're deep into the luxury tax. | 사치세를 많이 내고 있어.
+basketball | luxury tax | noun | 사치세 | Winning teams often pay luxury tax. | 강팀은 사치세를 내는 경우가 많아.
+basketball | luxury tax | noun | 사치세 | The luxury tax bill is huge. | 사치세 규모가 엄청나.
+basketball | man-to-man | noun | 대인 방어 | Avery Bradley plays tough man-to-man. | 에이버리 브래들리의 강한 대인 방어.
+basketball | man-to-man | noun | 대인 방어 | They switched to man-to-man. | 대인 방어로 바꿨어.
+basketball | man-to-man | noun | 대인 방어 | Solid man-to-man defense. | 대인 방어 좋았어.
+basketball | man-to-man | noun | 대인 방어 | Stay locked in man-to-man. | 대인 방어 집중해.
+basketball | Manu Ginobili | noun | 마누 지노빌리 | Manu Ginobili slipped through the defense. | 마누 지노빌리가 수비 사이를 파고들었어.
+basketball | Manu Ginobili | noun | 마누 지노빌리 | Manu Ginobili finished with a euro step. | 마누 지노빌리가 유로스텝으로 마무리했어.
+basketball | Manu Ginobili | noun | 마누 지노빌리 | Manu Ginobili sparked the second unit. | 마누 지노빌리가 벤치 멤버들을 이끌었어.
+basketball | Manu Ginobili | noun | 마누 지노빌리 | Manu Ginobili made another winning play. | 마누 지노빌리가 또 중요한 플레이를 했어.
+basketball | max contract | noun | 맥스 계약 | Brown signs a max contract. | 브라운이 맥스 계약을 맺었어.
+basketball | max contract | noun | 맥스 계약 | He earned a max contract. | 맥스 계약을 따냈어.
+basketball | max contract | noun | 맥스 계약 | That's a full max contract. | 완전한 맥스 계약이야.
+basketball | max contract | noun | 맥스 계약 | Few players deserve a max contract. | 맥스 계약 받을 선수는 많지 않아.
+basketball | Michael Jordan | noun | 마이클 조던 | Michael Jordan took over in the fourth. | 마이클 조던이 4쿼터를 지배했어.
+basketball | Michael Jordan | noun | 마이클 조던 | Everyone wanted to be Michael Jordan. | 다들 마이클 조던이 되고 싶어 했어.
+basketball | Michael Jordan | noun | 마이클 조던 | Michael Jordan hit another game winner. | 마이클 조던이 또 위닝샷을 넣었어.
+basketball | Michael Jordan | noun | 마이클 조던 | Michael Jordan changed the game. | 마이클 조던은 농구를 바꿨어.
+basketball | mismatch | noun | 미스매치 | Doncic attacks the obvious mismatch. | 돈치치 미스매치 공략한다.
+basketball | mismatch | noun | 미스매치 | Find the mismatch. | 미스매치 찾아.
+basketball | mismatch | noun | 미스매치 | That's a huge mismatch. | 완전 미스매치네.
+basketball | mismatch | noun | 미스매치 | Keep attacking the mismatch. | 계속 미스매치 파.
+basketball | mismatch | noun | 미스매치 | LeBron hunts for the mismatch. | 르브론이 미스매치를 노려.
+basketball | mismatch | noun | 미스매치 | Attack the mismatch. | 미스매치 공략해.
+basketball | mismatch | noun | 미스매치 | That's a huge mismatch. | 엄청난 미스매치야.
+basketball | mismatch | noun | 미스매치 | They found the mismatch early. | 초반부터 미스매치를 찾았어.
+basketball | Moses Malone | noun | 모지스 말론 | Moses Malone grabbed the offensive rebound. | 모지스 말론이 공격 리바운드를 잡았어.
+basketball | Moses Malone | noun | 모지스 말론 | Moses Malone owned the glass. | 모지스 말론이 리바운드를 지배했어.
+basketball | Moses Malone | noun | 모지스 말론 | Moses Malone got another putback. | 모지스 말론이 풋백을 넣었어.
+basketball | Moses Malone | noun | 모지스 말론 | Moses Malone worked harder than everyone. | 모지스 말론이 누구보다 열심히 뛰었어.
+basketball | MVP | noun | 엠브이피 | Jokic wins his third MVP. | 요키치가 세 번째 MVP를 받았어.
+basketball | MVP | noun | 엠브이피 | That's an MVP season. | MVP급 시즌이야.
+basketball | MVP | noun | 엠브이피 | He's leading the MVP race. | MVP 경쟁 선두야.
+basketball | MVP | noun | 엠브이피 | The MVP debate never ends. | MVP 논쟁은 끝이 없어.
+basketball | net | noun | 그물 | Nothing but net for Curry. | 커리의 깔끔한 스위시야.
+basketball | net | noun | 그물 | The shot barely touched the net. | 공이 그물만 스쳤어.
+basketball | net | noun | 그물 | Straight through the net. | 그물만 가르며 들어갔어.
+basketball | net | noun | 그물 | That one snapped the net. | 완벽하게 꽂혔어.
+basketball | Nikola Jokic | noun | 니콜라 요키치 | Nikola Jokic found the backdoor cutter. | 니콜라 요키치가 백도어 컷을 찾아냈어.
+basketball | Nikola Jokic | noun | 니콜라 요키치 | Nikola Jokic controlled the tempo. | 니콜라 요키치가 경기 템포를 조절했어.
+basketball | Nikola Jokic | noun | 니콜라 요키치 | Nikola Jokic picked apart the defense. | 니콜라 요키치가 수비를 공략했어.
+basketball | Nikola Jokic | noun | 니콜라 요키치 | Nikola Jokic posted another triple-double. | 니콜라 요키치가 또 트리플더블을 기록했어.
+basketball | no-look pass | noun | 노룩 패스 | Jokic with a no-look pass. | 요키치 노룩 패스 나왔다.
+basketball | no-look pass | noun | 노룩 패스 | Unreal no-look pass. | 노룩 패스 미쳤다.
+basketball | no-look pass | noun | 노룩 패스 | He fooled everyone. | 전부 속였네.
+basketball | no-look pass | noun | 노룩 패스 | That's vintage Jokic. | 요키치다운 노룩 패스네.
+basketball | offensive glass | noun | 오펜스 리바운드 | Rodman crashes the offensive glass. | 로드맨 오펜스 리바운드 간다.
+basketball | offensive glass | noun | 오펜스 리바운드 | Own the offensive glass. | 공격 리바운드 잡아.
+basketball | offensive glass | noun | 오펜스 리바운드 | We lost the offensive glass battle. | 공격 리바운드 밀렸네.
+basketball | offensive glass | noun | 오펜스 리바운드 | He lives on the offensive glass. | 공격 리바운드 장인이네.
+basketball | offensive rebound | noun | 공격 리바운드 | Adams dominates the offensive rebound. | 아담스가 공격 리바운드를 지배했어.
+basketball | offensive rebound | noun | 공격 리바운드 | Huge offensive rebound by Jokic. | 요키치의 큰 공격 리바운드야.
+basketball | offensive rebound | noun | 공격 리바운드 | They gave up too many offensive rebounds. | 공격 리바운드를 너무 많이 내줬어.
+basketball | offensive rebound | noun | 공격 리바운드 | That offensive rebound led to a three. | 그 공격 리바운드가 3점으로 이어졌어.
+basketball | Oscar Robertson | noun | 오스카 로버트슨 | Oscar Robertson filled up the stat sheet. | 오스카 로버트슨이 스탯을 가득 채웠어.
+basketball | Oscar Robertson | noun | 오스카 로버트슨 | Oscar Robertson controlled the game. | 오스카 로버트슨이 경기를 지배했어.
+basketball | Oscar Robertson | noun | 오스카 로버트슨 | Oscar Robertson pushed the pace. | 오스카 로버트슨이 템포를 끌어올렸어.
+basketball | Oscar Robertson | noun | 오스카 로버트슨 | Oscar Robertson found the open man. | 오스카 로버트슨이 빈 선수를 찾았어.
+basketball | outlet pass | noun | 아웃렛 패스 | Love's full-court outlet pass. | 러브의 전매특허 아웃렛 패스.
+basketball | outlet pass | noun | 아웃렛 패스 | Great outlet pass. | 아웃렛 패스 좋았다.
+basketball | outlet pass | noun | 아웃렛 패스 | The outlet pass started the break. | 아웃렛 패스로 속공 시작했네.
+basketball | outlet pass | noun | 아웃렛 패스 | Hit him with the outlet pass. | 아웃렛 패스 찔러줘.
+basketball | overtime | noun | 연장전 | The Finals go to overtime. | 파이널이 연장전으로 갔어.
+basketball | overtime | noun | 연장전 | We're headed to overtime. | 연장전 간다.
+basketball | overtime | noun | 연장전 | Huge shot to force overtime. | 연장전으로 가는 큰 슛이야.
+basketball | overtime | noun | 연장전 | They survived in overtime. | 연장전 끝에 이겼어.
+basketball | pace | noun | 페이스 | Pacers play with fast pace. | 페이서스는 빠른 페이스로 뛰어.
+basketball | pace | noun | 페이스 | They pushed the pace all game. | 경기 내내 페이스를 올렸어.
+basketball | pace | noun | 페이스 | The pace slowed down. | 페이스가 느려졌어.
+basketball | pace | noun | 페이스 | Control the pace. | 페이스를 조절해.
+basketball | paint | noun | 페인트존 | Giannis dominates in the paint. | 야니스가 페인트존을 지배해.
+basketball | paint | noun | 페인트존 | Keep him out of the paint. | 페인트존 진입을 막아.
+basketball | paint | noun | 페인트존 | They owned the paint tonight. | 오늘 페인트존을 장악했어.
+basketball | paint | noun | 페인트존 | Easy points in the paint. | 페인트존에서 쉽게 득점했어.
+basketball | Paolo Banchero | noun | 파올로 반케로 | Paolo Banchero got to the paint. | 파올로 반케로가 페인트존으로 들어갔어.
+basketball | Paolo Banchero | noun | 파올로 반케로 | Paolo Banchero powered through contact. | 파올로 반케로가 몸싸움을 이겨냈어.
+basketball | Paolo Banchero | noun | 파올로 반케로 | Paolo Banchero created his own shot. | 파올로 반케로가 스스로 슛을 만들었어.
+basketball | Paolo Banchero | noun | 파올로 반케로 | Paolo Banchero carried the offense. | 파올로 반케로가 공격을 이끌었어.
+basketball | passing lane | noun | 패싱 라인 | Butler jumps the passing lane. | 버틀러가 패싱 라인 끊었네.
+basketball | passing lane | noun | 패싱 라인 | Watch the passing lane. | 패싱 라인 조심해.
+basketball | passing lane | noun | 패싱 라인 | He reads the passing lane well. | 패싱 라인 읽는 게 좋네.
+basketball | passing lane | noun | 패싱 라인 | They clogged every passing lane. | 패싱 라인을 다 막아놨네.
+basketball | Patrick Ewing | noun | 패트릭 유잉 | Patrick Ewing scored from the post. | 패트릭 유잉이 포스트에서 득점했어.
+basketball | Patrick Ewing | noun | 패트릭 유잉 | Patrick Ewing knocked down the jumper. | 패트릭 유잉이 점퍼를 넣었어.
+basketball | Patrick Ewing | noun | 패트릭 유잉 | Patrick Ewing controlled the paint. | 패트릭 유잉이 골밑을 장악했어.
+basketball | Patrick Ewing | noun | 패트릭 유잉 | Patrick Ewing came up with the block. | 패트릭 유잉이 블록을 기록했어.
+basketball | Paul Pierce | noun | 폴 피어스 | Paul Pierce got to his spot. | 폴 피어스가 자기 자리로 갔어.
+basketball | Paul Pierce | noun | 폴 피어스 | Paul Pierce knocked down the jumper. | 폴 피어스가 점퍼를 넣었어.
+basketball | Paul Pierce | noun | 폴 피어스 | Paul Pierce came through in crunch time. | 폴 피어스가 승부처에 해줬어.
+basketball | Paul Pierce | noun | 폴 피어스 | Paul Pierce slowed the game down. | 폴 피어스가 경기 템포를 늦췄어.
+basketball | Peja Stojakovic | noun | 페자 스토야코비치 | Peja Stojakovic let it fly from deep. | 페자 스토야코비치가 멀리서 쐈어.
+basketball | Peja Stojakovic | noun | 페자 스토야코비치 | Peja Stojakovic drilled the three. | 페자 스토야코비치가 3점을 꽂았어.
+basketball | Peja Stojakovic | noun | 페자 스토야코비치 | Peja Stojakovic got free off the screen. | 페자 스토야코비치가 스크린으로 벗어났어.
+basketball | Peja Stojakovic | noun | 페자 스토야코비치 | Peja Stojakovic stretched the floor. | 페자 스토야코비치가 공간을 넓혔어.
+basketball | penetrate | verb | 돌파하다 | He penetrated the defense. | 수비를 돌파했어.
+basketball | penetrate | verb | 돌파하다 | Maxey penetrated the lane. | 맥시가 페인트존을 돌파했어.
+basketball | penetrate | verb | 돌파하다 | He penetrated off the screen. | 스크린 후 돌파했어.
+basketball | penetrate | verb | 돌파하다 | He penetrated the gap. | 수비 틈을 돌파했어.
+basketball | Penny Hardaway | noun | 페니 하더웨이 | Penny Hardaway broke down the defense. | 페니 하더웨이가 수비를 무너뜨렸어.
+basketball | Penny Hardaway | noun | 페니 하더웨이 | Penny Hardaway finished at the rim. | 페니 하더웨이가 림에서 마무리했어.
+basketball | Penny Hardaway | noun | 페니 하더웨이 | Penny Hardaway delivered a dime. | 페니 하더웨이가 멋진 어시스트를 했어.
+basketball | Penny Hardaway | noun | 페니 하더웨이 | Penny Hardaway controlled the game. | 페니 하더웨이가 경기를 지배했어.
+basketball | PER | noun | 선수 효율성 지수 | Jokic leads in PER. | 요키치가 PER 1위야.
+basketball | PER | noun | 선수 효율성 지수 | His PER keeps climbing. | PER가 계속 오르고 있어.
+basketball | PER | noun | 선수 효율성 지수 | That's an elite PER. | 엄청난 PER이야.
+basketball | PER | noun | 선수 효율성 지수 | Few players reach that PER. | 그런 PER은 드물어.
+basketball | perimeter | noun | 외곽 | Elite defense on the perimeter. | 외곽 수비가 뛰어나.
+basketball | perimeter | noun | 외곽 | They move the ball around the perimeter. | 외곽으로 공을 돌려.
+basketball | perimeter | noun | 외곽 | He's a threat on the perimeter. | 외곽에서 위협적이야.
+basketball | perimeter | noun | 외곽 | Protect the perimeter. | 외곽 수비해.
+basketball | pick | noun | 스크린 | Malone sets the pick. | 말론이 스크린을 걸었어.
+basketball | pick | noun | 스크린 | Use the pick and attack. | 스크린 받고 들어가.
+basketball | pick | noun | 스크린 | The pick created an open shot. | 스크린으로 오픈 찬스가 났어.
+basketball | pick | noun | 스크린 | He came off the pick perfectly. | 스크린을 완벽하게 활용했어.
+basketball | pick | verb | 스크린하다 | He picked for the ball handler. | 볼 핸들러에게 스크린했어.
+basketball | pick | verb | 스크린하다 | Adams picked for Ja. | 아담스가 자를 위해 스크린했어.
+basketball | pick | verb | 스크린하다 | He picked and slipped. | 스크린 후 슬립했어.
+basketball | pick | verb | 스크린하다 | He picked on the wing. | 윙에서 스크린했어.
+basketball | pick-and-pop | noun | 픽앤팝 | Nowitzki in the pick-and-pop. | 노비츠키의 픽앤팝.
+basketball | pick-and-pop | noun | 픽앤팝 | Nice pick-and-pop three. | 픽앤팝 3점 좋았어.
+basketball | pick-and-pop | noun | 픽앤팝 | They scored off the pick-and-pop. | 픽앤팝으로 득점했어.
+basketball | pick-and-pop | noun | 픽앤팝 | The pick-and-pop worked perfectly. | 픽앤팝이 완벽하게 통했어.
+basketball | pick-and-roll | noun | 픽앤롤 | Stockton and Malone pick-and-roll. | 스톡턴과 말론의 픽앤롤.
+basketball | pick-and-roll | noun | 픽앤롤 | Run the pick-and-roll again. | 픽앤롤 한 번 더 가자.
+basketball | pick-and-roll | noun | 픽앤롤 | Their pick-and-roll is deadly. | 픽앤롤이 정말 위협적이야.
+basketball | pick-and-roll | noun | 픽앤롤 | The pick-and-roll opened everything up. | 픽앤롤로 공격이 풀렸어.
+basketball | pickpocket | noun | 스틸 | Alvarado gets the sneaky pickpocket. | 알바라도가 몰래 스틸했네.
+basketball | pickpocket | noun | 스틸 | Nice pickpocket there. | 스틸 좋았다.
+basketball | pickpocket | noun | 스틸 | He got a clean pickpocket. | 깔끔하게 스틸했네.
+basketball | pickpocket | noun | 스틸 | That's his third pickpocket. | 벌써 스틸 3개째야.
+basketball | pickpocket | noun | 스틸 | Alvarado the grand theft pickpocket. | 알바라도가 또 공을 훔쳤어.
+basketball | pickpocket | noun | 스틸 | That's a clean pickpocket. | 완벽한 스틸이야.
+basketball | pickpocket | noun | 스틸 | He came up with a pickpocket. | 스틸 하나를 만들어냈어.
+basketball | pickpocket | noun | 스틸 | Quick hands for the pickpocket. | 손이 빨라서 스틸했어.
+basketball | pickpocket | verb | 스틸하다 | Alvarado pickpocketed him. | 알바라도가 스틸했어.
+basketball | pickpocket | verb | 스틸하다 | He pickpocketed the ball handler. | 볼 핸들러 상대로 스틸했어.
+basketball | pickpocket | verb | 스틸하다 | He turned and pickpocketed him. | 돌아서 스틸했어.
+basketball | pickpocket | verb | 스틸하다 | He pickpocketed him near half court. | 하프코트 근처에서 스틸했어.
+basketball | playmaker | noun | 플레이메이커 | Doncic is an elite playmaker. | 돈치치는 엘리트 플레이메이커야.
+basketball | playmaker | noun | 플레이메이커 | He's the team's best playmaker. | 팀 최고의 플레이메이커야.
+basketball | playmaker | noun | 플레이메이커 | The offense runs through the playmaker. | 공격이 플레이메이커 중심으로 돌아가.
+basketball | playmaker | noun | 플레이메이커 | Every contender needs a playmaker. | 우승권 팀엔 플레이메이커가 필요해.
+basketball | playoffs | noun | 플레이오프 | Jimmy Butler in the playoffs. | 플레이오프의 지미 버틀러.
+basketball | playoffs | noun | 플레이오프 | The playoffs are different. | 플레이오프는 달라.
+basketball | playoffs | noun | 플레이오프 | They clinched a playoffs spot. | 플레이오프 진출을 확정했어.
+basketball | playoffs | noun | 플레이오프 | He always steps up in the playoffs. | 플레이오프만 되면 살아나.
+basketball | plus-minus | noun | 득실마진 | Curry has highest plus-minus. | 커리가 최고 득실마진을 기록했어.
+basketball | plus-minus | noun | 득실마진 | His plus-minus was impressive. | 득실마진이 좋았어.
+basketball | plus-minus | noun | 득실마진 | Check the plus-minus numbers. | 득실마진 수치를 봐.
+basketball | plus-minus | noun | 득실마진 | He led the team in plus-minus. | 팀 내 득실마진 1위야.
+basketball | point forward | noun | 포인트 포워드 | LeBron is a point forward. | 르브론은 포인트 포워드야.
+basketball | point forward | noun | 포인트 포워드 | He plays like a point forward. | 포인트 포워드 스타일이야.
+basketball | point forward | noun | 포인트 포워드 | The offense runs through the point forward. | 포인트 포워드 중심으로 공격해.
+basketball | point forward | noun | 포인트 포워드 | Few players can be a point forward. | 포인트 포워드는 아무나 못 해.
+basketball | point guard | noun | 포인트 가드 | Curry is a point guard. | 커리는 포인트 가드야.
+basketball | point guard | noun | 포인트 가드 | We need a true point guard. | 정통 포인트 가드가 필요해.
+basketball | point guard | noun | 포인트 가드 | He's one of the best point guards. | 최고의 포인트 가드 중 하나야.
+basketball | point guard | noun | 포인트 가드 | The point guard controls the pace. | 포인트 가드가 경기 속도를 조절해.
+basketball | points in the paint | noun | 페인트존 득점 | Zion dominates points in the paint. | 자이언은 페인트존 득점이 많아.
+basketball | points in the paint | noun | 페인트존 득점 | They won the points in the paint battle. | 페인트존 득점에서 앞섰어.
+basketball | points in the paint | noun | 페인트존 득점 | Points in the paint kept them alive. | 페인트존 득점으로 버텼어.
+basketball | points in the paint | noun | 페인트존 득점 | The gap in points in the paint was huge. | 페인트존 득점 차이가 컸어.
+basketball | poke | verb | 스틸하다 | He poked the ball loose. | 스틸했어.
+basketball | poke | verb | 스틸하다 | Smart poked it away. | 스마트가 스틸했어.
+basketball | poke | verb | 스틸하다 | He reached in and poked it free. | 손 뻗어서 스틸했어.
+basketball | poke | verb | 스틸하다 | He poked the ball out. | 스틸했어.
+basketball | pop | verb | 팝하다 | He popped to the arc. | 3점 라인으로 팝했어.
+basketball | pop | verb | 팝하다 | Towns popped for three. | 타운스가 팝했어.
+basketball | pop | verb | 팝하다 | He popped after the screen. | 스크린 후 팝했어.
+basketball | pop | verb | 팝하다 | He popped to the wing. | 윙으로 팝했어.
+basketball | pop | verb | 팝하다 | He popped out beyond the arc. | 3점 라인 밖으로 팝했어.
+basketball | pop | verb | 팝하다 | The big popped for an open jumper. | 빅맨이 오픈 점퍼 위해 팝했어.
+basketball | pop | verb | 팝하다 | He popped after setting the screen. | 스크린 후 바로 팝했어.
+basketball | pop | verb | 팝하다 | Pop when both defenders collapse. | 수비 둘 다 몰리면 팝해.
+basketball | possession | noun | 공격권 | Crucial possession for the Lakers. | 레이커스의 중요한 공격권이야.
+basketball | possession | noun | 공격권 | They need this possession. | 이번 공격권이 중요해.
+basketball | possession | noun | 공격권 | Empty possession there. | 공격권을 허무하게 날렸어.
+basketball | possession | noun | 공격권 | Every possession matters now. | 이제 공격권 하나하나가 중요해.
+basketball | post up | verb | 포스트업하다 | He posted up the guard. | 가드 상대로 포스트업했어.
+basketball | post up | verb | 포스트업하다 | Jokic posted up deep. | 요키치가 깊게 포스트업했어.
+basketball | post up | verb | 포스트업하다 | He posted up on the block. | 블록에서 포스트업했어.
+basketball | post up | verb | 포스트업하다 | Keep posting up the mismatch. | 미스매치 상대로 계속 포스트업해.
+basketball | post up | verb | 포스트업하다 | He posted up on the left block. | 왼쪽 블록에서 포스트업했어.
+basketball | post up | verb | 포스트업하다 | Jokic posted up deep in the paint. | 요키치가 페인트존 깊게 포스트업했어.
+basketball | post up | verb | 포스트업하다 | He posted up against the smaller guard. | 작은 가드 상대로 포스트업했어.
+basketball | post up | verb | 포스트업하다 | Post up whenever you get mismatch. | 미스매치 나오면 포스트업해.
+basketball | post-up | noun | 포스트업 | Embiid dominating the post-up. | 엠비드가 포스트업을 지배했어.
+basketball | post-up | noun | 포스트업 | Feed him on the post-up. | 포스트업으로 공 넣어줘.
+basketball | post-up | noun | 포스트업 | Strong post-up possession. | 강한 포스트업이었어.
+basketball | post-up | noun | 포스트업 | They can't stop his post-up. | 포스트업을 못 막고 있어.
+basketball | poster | noun | 인유어페이스 | Griffin puts Mozgov on a poster. | 그리핀이 인유어페이스 찍었다.
+basketball | poster | noun | 인유어페이스 | That's a poster. | 인유어페이스다.
+basketball | poster | noun | 인유어페이스 | He got postered. | 제대로 당했네.
+basketball | poster | noun | 인유어페이스 | Clip that poster dunk. | 저 인유어페이스 저장해.
+basketball | poster | noun | 인유어페이스 | Edwards puts Collins on a poster. | 에드워즈가 콜린스를 인유어페이스로 넘겼어.
+basketball | poster | noun | 인유어페이스 | That's a poster. | 완전 인유어페이스야.
+basketball | poster | noun | 인유어페이스 | He turned him into a poster. | 제대로 인유어페이스 당했어.
+basketball | poster | noun | 인유어페이스 | The crowd went crazy for the poster. | 인유어페이스에 관중이 열광했어.
+basketball | posterize | verb | 인유어페이스 덩크하다 | He posterized the big man. | 빅맨 상대로 인유어페이스 덩크했어.
+basketball | posterize | verb | 인유어페이스 덩크하다 | Edwards nearly posterized him. | 에드워즈가 거의 인유어페이스 덩크했어.
+basketball | posterize | verb | 인유어페이스 덩크하다 | He posterized the center. | 센터 상대로 인유어페이스 덩크했어.
+basketball | posterize | verb | 인유어페이스 덩크하다 | He tried to posterize the defender. | 수비수 상대로 인유어페이스 덩크를 시도했어.
+basketball | power forward | noun | 파워 포워드 | Duncan is the power forward. | 던컨은 파워 포워드야.
+basketball | power forward | noun | 파워 포워드 | He plays power forward full-time. | 파워 포워드로 뛰어.
+basketball | power forward | noun | 파워 포워드 | Modern power forwards can shoot. | 요즘 파워 포워드는 슛도 쏴.
+basketball | power forward | noun | 파워 포워드 | Their power forward dominated inside. | 파워 포워드가 골밑을 지배했어.
+basketball | press | noun | 프레스 수비 | Heat apply the full-court press. | 히트가 전면 프레스 수비 건다.
+basketball | press | noun | 프레스 수비 | Break the press. | 프레스 수비 벗겨내.
+basketball | press | noun | 프레스 수비 | They're trapping out of the press. | 프레스에서 압박 들어오네.
+basketball | press | noun | 프레스 수비 | The press forced a turnover. | 프레스 수비로 턴오버 만들었네.
+basketball | pull up | verb | 풀업슛하다 | He pulled up from the free throw line. | 자유투 라인 근처에서 풀업슛했어.
+basketball | pull up | verb | 풀업슛하다 | Booker pulled up before the help arrived. | 부커가 헬프 오기 전에 풀업슛했어.
+basketball | pull up | verb | 풀업슛하다 | He pulled up after turning the corner. | 코너를 돌고 바로 풀업슛했어.
+basketball | pull up | verb | 풀업슛하다 | Pull up when the defender backs off. | 수비가 물러나면 풀업슛해.
+basketball | pull-up | noun | 풀업 점퍼 | KD's deadly pull-up transition. | KD의 위협적인 풀업 점퍼.
+basketball | pull-up | noun | 풀업 점퍼 | His pull-up is automatic. | 풀업 점퍼가 거의 필살기야.
+basketball | pull-up | noun | 풀업 점퍼 | He stopped for a pull-up. | 풀업 점퍼를 쐈어.
+basketball | pull-up | noun | 풀업 점퍼 | Tough pull-up over the defender. | 수비 위로 풀업을 꽂았어.
+basketball | pump fake | noun | 펌프 페이크 | Wade bites on a pump fake. | 웨이드가 펌프 페이크에 속았네.
+basketball | pump fake | noun | 펌프 페이크 | Nice pump fake. | 펌프 페이크 좋았다.
+basketball | pump fake | noun | 펌프 페이크 | He got the defender with a pump fake. | 펌프 페이크에 수비가 날아갔네.
+basketball | pump fake | noun | 펌프 페이크 | Don't fall for the pump fake. | 펌프 페이크에 낚이지 마.
+basketball | pump fake | noun | 펌프 페이크 | Wade's elite pump fake. | 웨이드의 뛰어난 펌프 페이크.
+basketball | pump fake | noun | 펌프 페이크 | The pump fake got him in the air. | 펌프 페이크에 수비가 떴어.
+basketball | pump fake | noun | 펌프 페이크 | Nice pump fake at the rim. | 골밑에서 펌프 페이크 좋았어.
+basketball | pump fake | noun | 펌프 페이크 | He lives off the pump fake. | 펌프 페이크를 정말 잘 써.
+basketball | push | verb | 속공하다 | He pushed the pace. | 속공했어.
+basketball | push | verb | 속공하다 | Fox pushed after the rebound. | 폭스가 리바운드 후 속공했어.
+basketball | push | verb | 속공하다 | He pushed in transition. | 트랜지션에서 속공했어.
+basketball | push | verb | 속공하다 | Keep pushing the ball. | 계속 속공해.
+basketball | push off | verb | 밀어내다 | He pushed off to create space. | 공간 만들려고 밀어냈어.
+basketball | push off | verb | 밀어내다 | The ref saw him push off. | 심판이 밀어내는 걸 봤어.
+basketball | push off | verb | 밀어내다 | He pushed off during the drive. | 돌파하면서 밀어냈어.
+basketball | push off | verb | 밀어내다 | Don't push off with your arm. | 팔로 밀어내지 마.
+basketball | putback | noun | 풋백 | Zion with a monster putback. | 자이언 풋백 덩크.
+basketball | putback | noun | 풋백 | Huge putback. | 풋백 미쳤네.
+basketball | putback | noun | 풋백 | He cleaned it up with a putback. | 풋백으로 마무리했네.
+basketball | putback | noun | 풋백 | Another offensive putback. | 또 풋백이다.
+basketball | rack | noun | 림 | Rose takes it to the rack. | 로즈가 림으로 돌진한다.
+basketball | rack | noun | 림 | Attack the rack. | 림으로 밀고 들어가.
+basketball | rack | noun | 림 | He gets to the rack at will. | 림까지 마음대로 가네.
+basketball | rack | noun | 림 | Nobody stopped him at the rack. | 림 돌파를 못 막았네.
+basketball | Rasheed Wallace | noun | 라쉬드 월리스 | Rasheed Wallace stretched the floor. | 라쉬드 월리스가 공간을 넓혔어.
+basketball | Rasheed Wallace | noun | 라쉬드 월리스 | Rasheed Wallace knocked down the three. | 라쉬드 월리스가 3점을 넣었어.
+basketball | Rasheed Wallace | noun | 라쉬드 월리스 | Rasheed Wallace protected the paint. | 라쉬드 월리스가 골밑을 지켰어.
+basketball | Rasheed Wallace | noun | 라쉬드 월리스 | Rasheed Wallace got fired up. | 라쉬드 월리스가 흥분했어.
+basketball | Ray Allen | noun | 레이 앨런 | Ray Allen caught and fired. | 레이 앨런이 바로 쐈어.
+basketball | Ray Allen | noun | 레이 앨런 | Ray Allen drilled the corner three. | 레이 앨런이 코너 3점을 넣었어.
+basketball | Ray Allen | noun | 레이 앨런 | Ray Allen got free off the screen. | 레이 앨런이 스크린으로 벗어났어.
+basketball | Ray Allen | noun | 레이 앨런 | Ray Allen delivered a clutch shot. | 레이 앨런이 클러치 슛을 넣었어.
+basketball | reach | verb | 손을 뻗다 | He reached for the steal attempt. | 스틸하려고 손을 뻗었어.
+basketball | reach | verb | 손을 뻗다 | Don't reach on the ball handler. | 볼 핸들러에게 손 뻗지 마.
+basketball | reach | verb | 손을 뻗다 | He reached and picked up a foul. | 손 뻗다가 파울했어.
+basketball | reach | verb | 손을 뻗다 | He reached from behind on defense. | 수비하다가 뒤에서 손을 뻗었어.
+basketball | rebound | noun | 리바운드 | Rodman grabs the rebound. | 로드맨이 리바운드를 잡았어.
+basketball | rebound | noun | 리바운드 | He pulled down a big rebound. | 중요한 리바운드를 잡았어.
+basketball | rebound | noun | 리바운드 | We need more rebounds tonight. | 오늘 리바운드를 더 잡아야 해.
+basketball | rebound | noun | 리바운드 | That rebound changed the game. | 그 리바운드가 흐름을 바꿨어.
+basketball | rebound | verb | 리바운드하다 | He rebounded through heavy traffic. | 수비 사이에서 리바운드했어.
+basketball | rebound | verb | 리바운드하다 | Jokic rebounded and pushed the break. | 요키치가 리바운드 후 속공 전개했어.
+basketball | rebound | verb | 리바운드하다 | He rebounded his own missed shot. | 자기 슛을 리바운드했어.
+basketball | rebound | verb | 리바운드하다 | Rebound the ball and push. | 리바운드하고 밀고 나가.
+basketball | recover | verb | 복귀하다 | He recovered back to his man. | 자기 수비수에게 복귀했어.
+basketball | recover | verb | 복귀하다 | The big recovered after the hedge. | 빅맨이 헤지 후 복귀했어.
+basketball | recover | verb | 복귀하다 | He recovered to the corner shooter. | 코너 슈터에게 복귀했어.
+basketball | recover | verb | 복귀하다 | Recover quickly after helping inside. | 헬프 후 빠르게 복귀해.
+basketball | Reggie Miller | noun | 레지 밀러 | Reggie Miller came off the screen. | 레지 밀러가 스크린을 타고 나왔어.
+basketball | Reggie Miller | noun | 레지 밀러 | Reggie Miller buried the three. | 레지 밀러가 3점을 꽂았어.
+basketball | Reggie Miller | noun | 레지 밀러 | Reggie Miller got hot in a hurry. | 레지 밀러가 순식간에 터졌어.
+basketball | Reggie Miller | noun | 레지 밀러 | Reggie Miller silenced the crowd. | 레지 밀러가 홈 관중을 조용하게 만들었어.
+basketball | reject | verb | 블록하다 | He rejected the shot. | 슛을 블록했어.
+basketball | reject | verb | 블록하다 | Gobert rejected it at the rim. | 고베어가 림 근처에서 블록했어.
+basketball | reject | verb | 블록하다 | He rotated over and rejected it. | 로테이션 와서 블록했어.
+basketball | reject | verb | 블록하다 | He rejected the jumper. | 점프슛을 블록했어.
+basketball | rejection | noun | 블록 | Mutombo with the rejection. | 무톰보의 블록이 나왔어.
+basketball | rejection | noun | 블록 | Clean rejection at the rim. | 림에서 깔끔한 블록이야.
+basketball | rejection | noun | 블록 | Another rejection from behind. | 뒤에서 또 블록이 나왔어.
+basketball | rejection | noun | 블록 | He sends it back with a rejection. | 블록으로 돌려보냈어.
+basketball | relocate | verb | 리로케이트하다 | Curry relocated to the corner. | 커리가 코너로 리로케이트했어.
+basketball | relocate | verb | 리로케이트하다 | He relocated after making the pass. | 패스 후 리로케이트했어.
+basketball | relocate | verb | 리로케이트하다 | He relocated along the perimeter. | 외곽 따라 리로케이트했어.
+basketball | relocate | verb | 리로케이트하다 | Relocate after every drive. | 돌파 후마다 리로케이트해.
+basketball | restricted area | noun | 제한 구역 | LeBron finishes in restricted area. | 르브론이 제한 구역에서 마무리했어.
+basketball | restricted area | noun | 제한 구역 | He caught the ball in the restricted area. | 제한 구역에서 공을 받았어.
+basketball | restricted area | noun | 제한 구역 | Don't camp in the restricted area. | 제한 구역에 오래 있지 마.
+basketball | restricted area | noun | 제한 구역 | Easy bucket inside the restricted area. | 제한 구역 안에서 쉽게 넣었어.
+basketball | reverse dunk | noun | 리버스 덩크 | Kobe with the reverse dunk. | 코비의 리버스 덩크.
+basketball | reverse dunk | noun | 리버스 덩크 | He finished with a reverse dunk. | 리버스 덩크로 끝냈어.
+basketball | reverse dunk | noun | 리버스 덩크 | The reverse dunk shocked everyone. | 리버스 덩크에 모두 놀랐어.
+basketball | reverse dunk | noun | 리버스 덩크 | What a reverse dunk. | 엄청난 리버스 덩크야.
+basketball | reverse layup | noun | 리버스 레이업 | Kyrie's spinning reverse layup. | 카이리의 리버스 레이업.
+basketball | reverse layup | noun | 리버스 레이업 | Tough reverse layup there. | 어려운 리버스 레이업이야.
+basketball | reverse layup | noun | 리버스 레이업 | He finished with a reverse layup. | 리버스 레이업으로 마무리했어.
+basketball | reverse layup | noun | 리버스 레이업 | The reverse layup avoided the block. | 블록을 피한 리버스 레이업이야.
+basketball | review | noun | 비디오 판독 | Refs go to the review. | 심판진이 비디오 판독에 들어갔어.
+basketball | review | noun | 비디오 판독 | The review took forever. | 판독이 너무 오래 걸렸어.
+basketball | review | noun | 비디오 판독 | They're checking the review. | 비디오 판독 중이야.
+basketball | review | noun | 비디오 판독 | The call stood after review. | 판독 후에도 원심 유지야.
+basketball | rim | noun | 림 | Morant plays above the rim. | 모란트는 림 위에서 노는 선수야.
+basketball | rim | noun | 림 | He attacked the rim all night. | 계속 림을 공략했어.
+basketball | rim | noun | 림 | Protect the rim. | 림 수비해.
+basketball | rim | noun | 림 | He finished at the rim. | 림 근처에서 마무리했어.
+basketball | rim protection | noun | 림 사수 | Gobert provides elite rim protection. | 고베어 림 사수 능력 미쳤네.
+basketball | rim protection | noun | 림 사수 | We need more rim protection. | 림 사수가 더 필요해.
+basketball | rim protection | noun | 림 사수 | Their rim protection is elite. | 림 사수 수준이 높네.
+basketball | rim protection | noun | 림 사수 | He anchors the rim protection. | 림 사수를 책임지네.
+basketball | rim protector | noun | 림 프로텍터 | Gobert is elite rim protector. | 고베어는 최고의 림 프로텍터야.
+basketball | rim protector | noun | 림 프로텍터 | They need a rim protector. | 림 프로텍터가 필요해.
+basketball | rim protector | noun | 림 프로텍터 | He's the team's rim protector. | 팀의 림 프로텍터야.
+basketball | rim protector | noun | 림 프로텍터 | Great rim protector at his peak. | 전성기엔 최고의 림 프로텍터였어.
+basketball | ring | noun | 우승 반지 | Shaq wins another ring. | 샤크가 또 우승 반지를 얻었어.
+basketball | ring | noun | 우승 반지 | He's chasing another ring. | 우승 반지를 노리고 있어.
+basketball | ring | noun | 우승 반지 | No one can question his ring count. | 우승 반지 개수는 못 깎아내려.
+basketball | ring | noun | 우승 반지 | That ring meant everything. | 그 우승 반지는 특별했어.
+basketball | roll | verb | 롤하다 | He rolled to the rim. | 림으로 롤했어.
+basketball | roll | verb | 롤하다 | The big man rolled hard. | 빅맨이 강하게 롤했어.
+basketball | roll | verb | 롤하다 | He rolled after the screen. | 스크린 후 롤했어.
+basketball | roll | verb | 롤하다 | Keep rolling to the basket. | 계속 롤해.
+basketball | roll | verb | 롤하다 | He rolled hard after setting the screen. | 스크린 후 강하게 롤했어.
+basketball | roll | verb | 롤하다 | The big rolled straight to the rim. | 빅맨이 곧바로 림으로 롤했어.
+basketball | roll | verb | 롤하다 | He rolled into space behind the defense. | 수비 뒤 공간으로 롤했어.
+basketball | roll | verb | 롤하다 | Roll quickly after making contact. | 스크린 걸고 바로 롤해.
+basketball | rookie | noun | 루키 | Banchero plays like a rookie. | 반케로가 루키답게 뛰네.
+basketball | rookie | noun | 루키 | That's a rookie mistake. | 전형적인 루키 실수야.
+basketball | rookie | noun | 루키 | The rookie looks confident. | 루키가 자신감 있어 보여.
+basketball | rookie | noun | 루키 | He's one of the top rookies. | 최고 루키 중 한 명이야.
+basketball | rotate | verb | 로테이션하다 | He rotated over. | 로테이션했어.
+basketball | rotate | verb | 로테이션하다 | The defense rotated well. | 수비가 로테이션했어.
+basketball | rotate | verb | 로테이션하다 | He rotated to the corner. | 코너로 로테이션했어.
+basketball | rotate | verb | 로테이션하다 | Keep rotating. | 계속 로테이션해.
+basketball | rotate | verb | 로테이션하다 | He rotated over from the weak side. | 약한 쪽에서 로테이션했어.
+basketball | rotate | verb | 로테이션하다 | The defense rotated perfectly. | 수비가 완벽하게 로테이션했어.
+basketball | rotate | verb | 로테이션하다 | He rotated to cover the corner. | 코너 막으려고 로테이션했어.
+basketball | rotate | verb | 로테이션하다 | Rotate when the help comes over. | 헬프 수비 오면 로테이션해.
+basketball | rotation | noun | 로테이션 수비 | Defense blew the weak-side rotation. | 수비 로테이션이 완전히 꼬였네.
+basketball | rotation | noun | 로테이션 수비 | Great defensive rotation. | 로테이션 수비 좋았다.
+basketball | rotation | noun | 로테이션 수비 | We missed the rotation. | 로테이션 놓쳤어.
+basketball | rotation | noun | 로테이션 수비 | Rotation was a step late. | 로테이션이 한 박자 늦었네.
+basketball | rotation | noun | 로테이션 | Heat have excellent defensive rotation. | 히트의 수비 로테이션이 뛰어나.
+basketball | rotation | noun | 로테이션 | The rotation was late. | 로테이션이 늦었어.
+basketball | rotation | noun | 로테이션 | Great rotation on defense. | 수비 로테이션 좋았어.
+basketball | rotation | noun | 로테이션 | He stays in the rotation. | 로테이션 멤버야.
+basketball | rotation player | noun | 로테이션 멤버 | Caruso is a rotation player. | 카루소는 로테이션 멤버야.
+basketball | rotation player | noun | 로테이션 멤버 | He's a valuable rotation player. | 가치 있는 로테이션 멤버야.
+basketball | rotation player | noun | 로테이션 멤버 | Every contender needs rotation players. | 강팀엔 로테이션 멤버가 중요해.
+basketball | rotation player | noun | 로테이션 멤버 | He became a rotation player quickly. | 금방 로테이션에 들어왔어.
+basketball | Rudy Gobert | noun | 루디 고베어 | Rudy Gobert erased the shot. | 루디 고베어가 슛을 지워버렸어.
+basketball | Rudy Gobert | noun | 루디 고베어 | Rudy Gobert controlled the paint. | 루디 고베어가 골밑을 장악했어.
+basketball | Rudy Gobert | noun | 루디 고베어 | Rudy Gobert grabbed every rebound. | 루디 고베어가 리바운드를 다 잡았어.
+basketball | Rudy Gobert | noun | 루디 고베어 | Rudy Gobert set a solid screen. | 루디 고베어가 좋은 스크린을 걸었어.
+basketball | run | verb | 속공하다 | They ran after the steal. | 스틸 후 속공했어.
+basketball | run | verb | 속공하다 | The Lakers ran all night. | 레이커스가 계속 속공했어.
+basketball | run | verb | 속공하다 | He loves to run. | 속공하는 걸 좋아해.
+basketball | run | verb | 속공하다 | They ran off every miss. | 상대 실수마다 속공했어.
+basketball | runner | noun | 러너 | Maxey scores with a runner. | 맥시가 러너로 득점했어.
+basketball | runner | noun | 러너 | Nice runner in the lane. | 페인트존 러너 좋았어.
+basketball | runner | noun | 러너 | He finished with a runner. | 러너로 마무리했어.
+basketball | runner | noun | 러너 | The runner dropped in softly. | 러너가 부드럽게 들어갔어.
+basketball | Russell Westbrook | noun | 러셀 웨스트브룩 | Russell Westbrook pushed the tempo. | 러셀 웨스트브룩이 템포를 끌어올렸어.
+basketball | Russell Westbrook | noun | 러셀 웨스트브룩 | Russell Westbrook attacked downhill. | 러셀 웨스트브룩이 직선적으로 돌파했어.
+basketball | Russell Westbrook | noun | 러셀 웨스트브룩 | Russell Westbrook grabbed another rebound. | 러셀 웨스트브룩이 또 리바운드를 잡았어.
+basketball | Russell Westbrook | noun | 러셀 웨스트브룩 | Russell Westbrook recorded a triple-double. | 러셀 웨스트브룩이 트리플더블을 기록했어.
+basketball | salary cap | noun | 샐러리 캡 | Warriors exceed the salary cap. | 워리어스가 샐러리 캡을 넘었어.
+basketball | salary cap | noun | 샐러리 캡 | They're tight against the salary cap. | 샐러리 캡 여유가 거의 없어.
+basketball | salary cap | noun | 샐러리 캡 | The salary cap keeps rising. | 샐러리 캡이 계속 오르고 있어.
+basketball | salary cap | noun | 샐러리 캡 | That deal affects the salary cap. | 그 계약이 샐러리 캡에 영향을 줘.
+basketball | score | verb | 득점하다 | He scored in the paint. | 페인트존에서 득점했어.
+basketball | score | verb | 득점하다 | Tatum scored again. | 테이텀이 또 득점했어.
+basketball | score | verb | 득점하다 | He scored off the cut. | 컷인 후 득점했어.
+basketball | score | verb | 득점하다 | He scored from midrange. | 미드레인지에서 득점했어.
+basketball | score | verb | 득점하다 | He scored through heavy contact at the rim. | 림 근처에서 강한 컨택 속에서도 득점했어.
+basketball | score | verb | 득점하다 | Edwards scored over two defenders in traffic. | 에드워즈가 수비 둘 사이에서 득점했어.
+basketball | score | verb | 득점하다 | He scored on the fastbreak after the steal. | 스틸 이후 속공에서 득점했어.
+basketball | score | verb | 득점하다 | Score whenever they leave you open. | 상대가 오픈 주면 바로 득점해.
+basketball | Scottie Barnes | noun | 스카티 반스 | Scottie Barnes filled every column. | 스카티 반스가 스탯을 골고루 쌓았어.
+basketball | Scottie Barnes | noun | 스카티 반스 | Scottie Barnes pushed the pace. | 스카티 반스가 템포를 끌어올렸어.
+basketball | Scottie Barnes | noun | 스카티 반스 | Scottie Barnes made the extra pass. | 스카티 반스가 추가 패스를 했어.
+basketball | Scottie Barnes | noun | 스카티 반스 | Scottie Barnes guarded all five spots. | 스카티 반스가 전 포지션을 수비했어.
+basketball | Scottie Pippen | noun | 스카티 피펜 | Scottie Pippen picked his pocket. | 스카티 피펜이 공을 뺏었어.
+basketball | Scottie Pippen | noun | 스카티 피펜 | Scottie Pippen pushed the break. | 스카티 피펜이 속공을 전개했어.
+basketball | Scottie Pippen | noun | 스카티 피펜 | Scottie Pippen guarded the best player. | 스카티 피펜이 에이스를 맡았어.
+basketball | Scottie Pippen | noun | 스카티 피펜 | Scottie Pippen did a little of everything. | 스카티 피펜이 다 해줬어.
+basketball | screen | noun | 스크린 | Gobert sets a solid screen. | 고베어가 좋은 스크린을 걸었어.
+basketball | screen | noun | 스크린 | That screen freed him up. | 그 스크린으로 공간이 났어.
+basketball | screen | noun | 스크린 | Set a better screen. | 스크린 더 잘 걸어.
+basketball | screen | noun | 스크린 | Great screen at the top. | 탑에서 스크린 좋았어.
+basketball | screen | verb | 스크린하다 | He screened for Curry. | 커리에게 스크린했어.
+basketball | screen | verb | 스크린하다 | Gobert screened at the top. | 고베어가 정면에서 스크린했어.
+basketball | screen | verb | 스크린하다 | He screened and rolled. | 스크린 후 롤했어.
+basketball | screen | verb | 스크린하다 | Keep screening for him. | 계속 스크린해.
+basketball | screen | verb | 스크린하다 | He screened for the ball handler. | 볼 핸들러에게 스크린했어.
+basketball | screen | verb | 스크린하다 | The center screened at the top. | 센터가 정면에서 스크린했어.
+basketball | screen | verb | 스크린하다 | He screened to free the shooter. | 슈터 살리려고 스크린했어.
+basketball | screen | verb | 스크린하다 | Screen and then roll hard. | 스크린하고 강하게 롤해.
+basketball | screen assist | noun | 스크린 어시스트 | Adams leads in screen assist. | 아담스는 스크린 어시스트가 많아.
+basketball | screen assist | noun | 스크린 어시스트 | That's another screen assist. | 또 스크린 어시스트야.
+basketball | screen assist | noun | 스크린 어시스트 | He creates value with screen assists. | 스크린 어시스트로 기여해.
+basketball | screen assist | noun | 스크린 어시스트 | The screen assist freed the shooter. | 스크린 어시스트로 슈터가 열렸어.
+basketball | screen the screener | noun | STS 전술 | Warriors run screen the screener. | 워리어스 STS 전술 쓴다.
+basketball | screen the screener | noun | STS 전술 | Nice screen the screener action. | STS 전술 잘 돌렸네.
+basketball | screen the screener | noun | STS 전술 | They scored off screen the screener. | STS 전술로 득점했네.
+basketball | screen the screener | noun | STS 전술 | Watch for screen the screener. | STS 전술 조심해.
+basketball | seal | verb | 자리잡다 | He sealed his defender. | 수비수 앞에서 자리잡았어.
+basketball | seal | verb | 자리잡다 | The center sealed deep. | 센터가 깊게 자리잡았어.
+basketball | seal | verb | 자리잡다 | He sealed for the entry pass. | 엔트리 패스 받으려고 자리잡았어.
+basketball | seal | verb | 자리잡다 | He sealed under the rim. | 림 아래에서 자리잡았어.
+basketball | seal | verb | 자리잡다 | He sealed his defender under the rim. | 림 아래에서 수비수 상대로 자리잡았어.
+basketball | seal | verb | 자리잡다 | The center sealed deep in the paint. | 센터가 페인트존 깊게 자리잡았어.
+basketball | seal | verb | 자리잡다 | He sealed early for an easy catch. | 쉽게 받으려고 미리 자리잡았어.
+basketball | seal | verb | 자리잡다 | Seal your defender before the pass. | 패스 오기 전에 자리잡아.
+basketball | second chance points | noun | 세컨찬스 득점 | Knicks lead second chance points. | 닉스가 세컨찬스 득점이 많아.
+basketball | second chance points | noun | 세컨찬스 득점 | They gave up too many second chance points. | 세컨찬스 득점을 너무 내줬어.
+basketball | second chance points | noun | 세컨찬스 득점 | Second chance points hurt them. | 세컨찬스 득점이 아팠어.
+basketball | second chance points | noun | 세컨찬스 득점 | Offensive rebounds created second chance points. | 공격 리바운드가 세컨찬스 득점으로 이어졌어.
+basketball | secure | verb | 리바운드하다 | He secured the rebound with two hands. | 두 손으로 리바운드했어.
+basketball | secure | verb | 리바운드하다 | Gobert secured every defensive rebound. | 고베어가 수비 리바운드를 계속 잡았어.
+basketball | secure | verb | 리바운드하다 | He secured the board in traffic. | 경합 속에서 리바운드했어.
+basketball | secure | verb | 리바운드하다 | Secure every rebound near the rim. | 림 근처 리바운드는 전부 잡아.
+basketball | Shai Gilgeous-Alexander | noun | 샤이 길저스알렉산더 | Shai Gilgeous-Alexander got to the rim. | 샤이 길저스알렉산더가 림까지 들어갔어.
+basketball | Shai Gilgeous-Alexander | noun | 샤이 길저스알렉산더 | Shai Gilgeous-Alexander lived in the mid-range. | 샤이 길저스알렉산더가 미드레인지를 공략했어.
+basketball | Shai Gilgeous-Alexander | noun | 샤이 길저스알렉산더 | Shai Gilgeous-Alexander got to his spots. | 샤이 길저스알렉산더가 원하는 위치를 잡았어.
+basketball | Shai Gilgeous-Alexander | noun | 샤이 길저스알렉산더 | Shai Gilgeous-Alexander kept the defense guessing. | 샤이 길저스알렉산더가 수비를 흔들었어.
+basketball | shake and bake | noun | 크로스오버 개인기 | Crawford with the shake and bake. | 크로포드 크로스오버 개인기 나왔다.
+basketball | shake and bake | noun | 크로스오버 개인기 | That shake and bake was nasty. | 크로스오버 진짜 지렸다.
+basketball | shake and bake | noun | 크로스오버 개인기 | He hit him with a shake and bake. | 크로스오버로 벗겨버렸네.
+basketball | shake and bake | noun | 크로스오버 개인기 | The crowd loved that shake and bake. | 저 크로스오버에 관중들 난리 났네.
+basketball | Shawn Marion | noun | 숀 매리언 | Shawn Marion filled every column. | 숀 매리언이 스탯을 골고루 쌓았어.
+basketball | Shawn Marion | noun | 숀 매리언 | Shawn Marion finished the break. | 숀 매리언이 속공을 마무리했어.
+basketball | Shawn Marion | noun | 숀 매리언 | Shawn Marion came up with the block. | 숀 매리언이 블록을 기록했어.
+basketball | Shawn Marion | noun | 숀 매리언 | Shawn Marion made another hustle play. | 숀 매리언이 또 허슬 플레이를 했어.
+basketball | shoot | verb | 슛하다 | He shot right over the late contest. | 늦은 컨테스트 위로 슛했어.
+basketball | shoot | verb | 슛하다 | Curry shot from well beyond the arc. | 커리가 3점 라인 훨씬 밖에서 슛했어.
+basketball | shoot | verb | 슛하다 | He shot immediately off the catch. | 캐치하자마자 바로 슛했어.
+basketball | shoot | verb | 슛하다 | Shoot when the defense goes under. | 수비가 언더하면 바로 슛해.
+basketball | shooting guard | noun | 슈팅 가드 | Kobe, the ultimate shooting guard. | 코비는 최고의 슈팅 가드야.
+basketball | shooting guard | noun | 슈팅 가드 | He's starting at shooting guard. | 슈팅 가드로 선발 출전해.
+basketball | shooting guard | noun | 슈팅 가드 | Elite scoring shooting guard. | 득점력이 뛰어난 슈팅 가드야.
+basketball | shooting guard | noun | 슈팅 가드 | They moved him to shooting guard. | 슈팅 가드로 포지션을 옮겼어.
+basketball | shot clock | noun | 샷클락 | Shot clock is winding down. | 샷클락이 거의 끝나가.
+basketball | shot clock | noun | 샷클락 | Beat the shot clock. | 샷클락 안에 쏴.
+basketball | shot clock | noun | 샷클락 | The shot clock hit zero. | 샷클락이 끝났어.
+basketball | shot clock | noun | 샷클락 | Only three seconds on the shot clock. | 샷클락 3초 남았어.
+basketball | sideline | noun | 사이드라인 | Coach Pop yells from sideline. | 팝 감독이 사이드라인에서 소리쳐.
+basketball | sideline | noun | 사이드라인 | Save it before the sideline. | 사이드라인 나가기 전에 살려.
+basketball | sideline | noun | 사이드라인 | He stepped on the sideline. | 사이드라인을 밟았어.
+basketball | sideline | noun | 사이드라인 | The bench erupted from the sideline. | 벤치가 사이드라인에서 들썩였어.
+basketball | sixth man | noun | 식스맨 | Crawford wins sixth man again. | 크로포드가 또 식스맨상을 받았어.
+basketball | sixth man | noun | 식스맨 | He's the perfect sixth man. | 딱 식스맨 스타일이야.
+basketball | sixth man | noun | 식스맨 | The sixth man changed the game. | 식스맨이 흐름을 바꿨어.
+basketball | sixth man | noun | 식스맨 | Their sixth man brings instant offense. | 식스맨이 바로 득점을 만들어줘.
+basketball | skip | verb | 스킵패스하다 | He skipped it to the opposite corner. | 반대 코너로 스킵패스했어.
+basketball | skip | verb | 스킵패스하다 | Luka skipped it over the zone. | 루카가 지역방어 위로 스킵패스했어.
+basketball | skip | verb | 스킵패스하다 | He skipped it across the court. | 코트 반대편으로 스킵패스했어.
+basketball | skip | verb | 스킵패스하다 | Skip it when the corner is open. | 코너가 오픈이면 스킵패스해.
+basketball | skyhook | noun | 스카이훅 | Magic Johnson's baby skyhook. | 매직 존슨의 베이비 스카이훅.
+basketball | skyhook | noun | 스카이훅 | Classic skyhook. | 정통 스카이훅이다.
+basketball | skyhook | noun | 스카이훅 | The skyhook is unstoppable. | 스카이훅은 못 막지.
+basketball | skyhook | noun | 스카이훅 | Beautiful skyhook finish. | 스카이훅 마무리 좋았다.
+basketball | slam dunk | noun | 슬램덩크 | Shaq with the slam dunk. | 샤크 슬램덩크.
+basketball | slam dunk | noun | 슬램덩크 | Huge slam dunk. | 슬램덩크 작렬.
+basketball | slam dunk | noun | 슬램덩크 | He finished with a slam dunk. | 슬램덩크로 마무리했네.
+basketball | slam dunk | noun | 슬램덩크 | The crowd loved that slam dunk. | 슬램덩크에 관중들 난리 났네.
+basketball | slash | verb | 돌파하다 | He slashed to the rim. | 림까지 돌파했어.
+basketball | slash | verb | 돌파하다 | Edwards keeps slashing inside. | 에드워즈가 계속 돌파하네.
+basketball | slash | verb | 돌파하다 | He slashed through the lane. | 페인트존으로 돌파했어.
+basketball | slash | verb | 돌파하다 | Keep slashing when they switch. | 스위치 나오면 계속 돌파해.
+basketball | slasher | noun | 슬래셔 | Wade was an elite slasher. | 웨이드는 최고의 슬래셔였어.
+basketball | slasher | noun | 슬래셔 | He's a natural slasher. | 타고난 슬래셔야.
+basketball | slasher | noun | 슬래셔 | The slasher attacked the rim. | 슬래셔가 림을 공략했어.
+basketball | slasher | noun | 슬래셔 | They need another slasher. | 슬래셔가 한 명 더 필요해.
+basketball | slip | verb | 슬립하다 | He slipped the screen. | 스크린을 슬립했어.
+basketball | slip | verb | 슬립하다 | The big slipped early. | 빅맨이 일찍 슬립했어.
+basketball | slip | verb | 슬립하다 | He slipped to the rim. | 림으로 슬립했어.
+basketball | slip | verb | 슬립하다 | He slipped for a layup. | 레이업하려고 슬립했어.
+basketball | slip | verb | 슬립하다 | He slipped the screen for a layup. | 스크린 슬립하고 레이업했어.
+basketball | slip | verb | 슬립하다 | The big slipped before contact. | 빅맨이 접촉 전에 슬립했어.
+basketball | slip | verb | 슬립하다 | He slipped into open space. | 빈 공간으로 슬립했어.
+basketball | slip | verb | 슬립하다 | Slip when they switch early. | 일찍 스위치하면 슬립해.
+basketball | small forward | noun | 스몰 포워드 | LeBron dominates as small forward. | 르브론은 스몰 포워드로 지배했어.
+basketball | small forward | noun | 스몰 포워드 | He's a natural small forward. | 원래 스몰 포워드 스타일이야.
+basketball | small forward | noun | 스몰 포워드 | The small forward led the break. | 스몰 포워드가 속공을 이끌었어.
+basketball | small forward | noun | 스몰 포워드 | They need more size at small forward. | 스몰 포워드 자리가 더 커야 해.
+basketball | spacing | noun | 스페이싱 | Rockets prioritize floor spacing. | 로켓츠는 스페이싱을 중시해.
+basketball | spacing | noun | 스페이싱 | The spacing looks great. | 스페이싱이 좋아 보여.
+basketball | spacing | noun | 스페이싱 | Better spacing opened the lane. | 스페이싱이 좋아서 길이 열렸어.
+basketball | spacing | noun | 스페이싱 | They need more spacing. | 스페이싱이 더 필요해.
+basketball | spin | verb | 스핀무브하다 | He spun into the paint for a layup. | 레이업 위해 페인트존으로 스핀무브했어.
+basketball | spin | verb | 스핀무브하다 | Siakam spun past the help defender. | 시아캄이 헬프 수비 상대로 스핀무브했어.
+basketball | spin | verb | 스핀무브하다 | He spun toward the baseline for space. | 공간 만들려고 베이스라인 쪽으로 스핀무브했어.
+basketball | spin | verb | 스핀무브하다 | Spin when the lane gets crowded. | 수비가 몰리면 스핀무브해.
+basketball | spin move | noun | 스핀무브 | Siakam with the spin move. | 시아캄의 스핀무브야.
+basketball | spin move | noun | 스핀무브 | Quick spin move to the basket. | 빠른 스핀무브로 들어갔어.
+basketball | spin move | noun | 스핀무브 | That spin move was smooth. | 스핀무브가 정말 부드러웠어.
+basketball | spin move | noun | 스핀무브 | He scored off a spin move. | 스핀무브로 득점했어.
+basketball | spot up | verb | 스팟업하다 | He spotted up in the weakside corner. | 약한 쪽 코너에서 스팟업했어.
+basketball | spot up | verb | 스팟업하다 | Klay spotted up behind the arc. | 클레이가 3점 라인 밖에서 스팟업했어.
+basketball | spot up | verb | 스팟업하다 | He spotted up while the star isolated. | 에이스가 아이솔할 때 스팟업했어.
+basketball | spot up | verb | 스팟업하다 | Spot up whenever they help inside. | 상대가 안으로 헬프 오면 스팟업해.
+basketball | stagger screen | noun | 스태거 스크린 | Thompson uses the stagger screen. | 탐슨 스태거 스크린 탄다.
+basketball | stagger screen | noun | 스태거 스크린 | Nice stagger screen setup. | 스태거 스크린 좋았다.
+basketball | stagger screen | noun | 스태거 스크린 | He got open off a stagger screen. | 스태거 스크린으로 오픈 났네.
+basketball | stagger screen | noun | 스태거 스크린 | Run the stagger screen again. | 스태거 스크린 한 번 더 가자.
+basketball | starting lineup | noun | 선발 명단 | Bulls introduce their starting lineup. | 불스의 선발 명단이 발표됐어.
+basketball | starting lineup | noun | 선발 명단 | He's back in the starting lineup. | 선발 명단에 복귀했어.
+basketball | starting lineup | noun | 선발 명단 | The starting lineup changed again. | 선발 명단이 또 바뀌었어.
+basketball | starting lineup | noun | 선발 명단 | That's their best starting lineup. | 그게 최상의 선발 명단이야.
+basketball | stat padder | noun | 스탯 충 | Accused of being stat padder. | 스탯 충이라는 비판을 받았어.
+basketball | stat padder | noun | 스탯 충 | People call him a stat padder. | 스탯 충이라고들 해.
+basketball | stat padder | noun | 스탯 충 | He's tired of the stat padder label. | 스탯 충 이미지에 지쳤어.
+basketball | stat padder | noun | 스탯 충 | The stat padder debate never ends. | 스탯 충 논쟁은 끝이 없어.
+basketball | steal | noun | 스틸 | James with the steal. | 제임스 스틸 성공.
+basketball | steal | noun | 스틸 | That's a clean steal. | 깔끔한 스틸이네.
+basketball | steal | noun | 스틸 | He jumped the pass for a steal. | 패스 끊고 스틸했네.
+basketball | steal | noun | 스틸 | Another steal in transition. | 속공 상황에서 또 스틸이네.
+basketball | steal | noun | 스틸 | Jordan with the crucial steal. | 조던의 결정적인 스틸이야.
+basketball | steal | noun | 스틸 | That's his third steal tonight. | 오늘 벌써 스틸 3개야.
+basketball | steal | noun | 스틸 | Big steal in transition. | 속공 상황에서 큰 스틸이야.
+basketball | steal | noun | 스틸 | That steal led to an easy bucket. | 그 스틸이 쉬운 득점으로 이어졌어.
+basketball | steal of the draft | noun | 스틸픽 | Jokic is steal of the draft. | 요키치는 최고의 스틸픽이야.
+basketball | steal of the draft | noun | 스틸픽 | He might be the steal of the draft. | 스틸픽이 될 수도 있어.
+basketball | steal of the draft | noun | 스틸픽 | That's a classic steal of the draft. | 전형적인 스틸픽이야.
+basketball | steal of the draft | noun | 스틸픽 | The steal of the draft came late. | 스틸픽은 후순위에서 나왔어.
+basketball | step-back | noun | 스텝백 | Harden's deadly step-back. | 하든의 치명적인 스텝백.
+basketball | step-back | noun | 스텝백 | Clean step-back jumper. | 깔끔한 스텝백 점퍼야.
+basketball | step-back | noun | 스텝백 | His step-back is automatic. | 스텝백이 거의 필살기야.
+basketball | step-back | noun | 스텝백 | He created space with a step-back. | 스텝백으로 공간을 만들었어.
+basketball | Stephen Curry | noun | 스테픈 커리 | Stephen Curry pulled up from deep. | 스테픈 커리가 멀리서 바로 쐈어.
+basketball | Stephen Curry | noun | 스테픈 커리 | Stephen Curry got hot in the third. | 스테픈 커리가 3쿼터에 불붙었어.
+basketball | Stephen Curry | noun | 스테픈 커리 | Stephen Curry buried another three. | 스테픈 커리가 또 3점을 꽂았어.
+basketball | Stephen Curry | noun | 스테픈 커리 | Stephen Curry stretched the defense. | 스테픈 커리가 수비를 넓게 벌려놨어.
+basketball | Steve Nash | noun | 스티브 내시 | Steve Nash threaded the needle. | 스티브 내시가 절묘한 패스를 넣었어.
+basketball | Steve Nash | noun | 스티브 내시 | Steve Nash ran the pick-and-roll. | 스티브 내시가 픽앤롤을 운영했어.
+basketball | Steve Nash | noun | 스티브 내시 | Steve Nash found the open shooter. | 스티브 내시가 빈 슈터를 찾았어.
+basketball | Steve Nash | noun | 스티브 내시 | Steve Nash controlled the offense. | 스티브 내시가 공격을 조율했어.
+basketball | stretch four | noun | 스트레치 포 | Love popularized the stretch four. | 러브가 스트레치 포를 대중화했어.
+basketball | stretch four | noun | 스트레치 포 | He's a modern stretch four. | 현대적인 스트레치 포야.
+basketball | stretch four | noun | 스트레치 포 | The stretch four opened the floor. | 스트레치 포가 공간을 넓혔어.
+basketball | stretch four | noun | 스트레치 포 | Every team wants a stretch four. | 스트레치 포는 인기 자원이야.
+basketball | strip | noun | 스틸 | Iguodala with the clean strip. | 이궈달라의 깔끔한 스틸.
+basketball | strip | noun | 스틸 | He got the strip from behind. | 뒤에서 공을 걷어냈어.
+basketball | strip | noun | 스틸 | Great strip at the rim. | 림 근처 스틸 좋았어.
+basketball | strip | noun | 스틸 | The strip led to a fastbreak. | 스틸이 속공으로 이어졌어.
+basketball | strip | verb | 스틸하다 | He stripped the ball clean. | 깔끔하게 스틸했어.
+basketball | strip | verb | 스틸하다 | Holiday stripped him in the post. | 할러데이가 포스트에서 스틸했어.
+basketball | strip | verb | 스틸하다 | He stripped the ball on the drive. | 돌파하는 선수 공을 스틸했어.
+basketball | strip | verb | 스틸하다 | Don't let them strip you. | 공 지키고 스틸 안 당해.
+basketball | strong hand | noun | 주손 | Overplay his left strong hand. | 왼손 주손 쪽 막아.
+basketball | strong hand | noun | 주손 | Force him away from his strong hand. | 주손 못 쓰게 해.
+basketball | strong hand | noun | 주손 | Everything starts with his strong hand. | 주손에서 다 시작되네.
+basketball | strong hand | noun | 주손 | He always finishes with his strong hand. | 마무리는 항상 주손으로 하네.
+basketball | stuff | verb | 블록하다 | He stuffed the layup. | 레이업을 블록했어.
+basketball | stuff | verb | 블록하다 | Wemby stuffed him at the rim. | 웸비가 림 근처에서 블록했어.
+basketball | stuff | verb | 블록하다 | He came over and stuffed it. | 커버 와서 블록했어.
+basketball | stuff | verb | 블록하다 | He stuffed the dunk attempt. | 덩크 시도를 블록했어.
+basketball | substitution | noun | 교체 | Kerr makes a quick substitution. | 커가 빠르게 교체한다.
+basketball | substitution | noun | 교체 | Smart substitution there. | 교체 좋았다.
+basketball | substitution | noun | 교체 | We need a substitution. | 교체가 필요해.
+basketball | substitution | noun | 교체 | That substitution paid off. | 교체 효과 봤네.
+basketball | substitution | noun | 교체 | Kerr makes a substitution. | 커 감독이 교체를 가져가.
+basketball | substitution | noun | 교체 | A quick substitution here. | 여기서 빠른 교체야.
+basketball | substitution | noun | 교체 | The substitution paid off. | 교체가 효과를 봤어.
+basketball | substitution | noun | 교체 | They need another substitution. | 교체가 한 번 더 필요해.
+basketball | suspension | noun | 출장 정지 | Ja faces a long suspension. | 자가 긴 출장 정지를 받았어.
+basketball | suspension | noun | 출장 정지 | The suspension starts immediately. | 출장 정지가 바로 적용돼.
+basketball | suspension | noun | 출장 정지 | He appealed the suspension. | 출장 정지에 이의를 제기했어.
+basketball | suspension | noun | 출장 정지 | The league announced a suspension. | 리그가 출장 정지를 발표했어.
+basketball | swat | verb | 블록하다 | He swatted that into the stands. | 관중석으로 블록했어.
+basketball | swat | verb | 블록하다 | Wemby swatted it away. | 웸비가 블록했어.
+basketball | swat | verb | 블록하다 | He came over to swat it. | 커버 와서 블록했어.
+basketball | swat | verb | 블록하다 | Don't bring that around him or he'll swat it. | 걔 앞에서 그러면 블록해.
+basketball | swing | verb | 스윙패스하다 | He swung the ball to the weak side. | 약한 쪽으로 스윙패스했어.
+basketball | swing | verb | 스윙패스하다 | They swung the ball around the arc. | 3점 라인 따라 스윙패스했어.
+basketball | swing | verb | 스윙패스하다 | He swung it to the open shooter. | 오픈 슈터에게 스윙패스했어.
+basketball | swing | verb | 스윙패스하다 | Swing it before the defense rotates. | 수비 로테이션 오기 전에 스윙패스해.
+basketball | swingman | noun | 스윙맨 | Tracy McGrady, a versatile swingman. | 트레이시 맥그레이디는 다재다능한 스윙맨이야.
+basketball | swingman | noun | 스윙맨 | Every team needs a swingman. | 팀마다 스윙맨이 필요해.
+basketball | swingman | noun | 스윙맨 | He's a reliable swingman. | 믿음직한 스윙맨이야.
+basketball | swingman | noun | 스윙맨 | The swingman guarded four positions. | 스윙맨이 네 포지션을 수비했어.
+basketball | swish | noun | 클린샷 | Allen with the perfect swish. | 앨런 깔끔하게 꽂았네.
+basketball | swish | noun | 클린샷 | Nothing but swish. | 그물만 흔들었네.
+basketball | swish | noun | 클린샷 | That's a pure swish. | 진짜 클린샷이다.
+basketball | swish | noun | 클린샷 | He hit it with a swish. | 클린샷으로 넣었네.
+basketball | swish | noun | 클린샷 | Curry from deep, pure swish. | 커리 딥쓰리 클린샷.
+basketball | swish | noun | 클린샷 | Nothing but net. | 그물만 흔들었네.
+basketball | swish | noun | 클린샷 | Pure swish. | 완전 클린샷이다.
+basketball | swish | noun | 클린샷 | That's a clean make. | 깔끔하게 들어갔네.
+basketball | switch | noun | 스위치 | Celtics switch on all screens. | 셀틱스는 모든 스크린에 스위치해.
+basketball | switch | noun | 스위치 | Good switch there. | 스위치 좋았어.
+basketball | switch | noun | 스위치 | They forced the switch. | 스위치를 유도했어.
+basketball | switch | noun | 스위치 | The switch created a mismatch. | 스위치로 미스매치가 생겼어.
+basketball | switch | verb | 스위치하다 | They switched everything. | 전부 스위치했어.
+basketball | switch | verb | 스위치하다 | Boston switched again. | 보스턴이 또 스위치했어.
+basketball | switch | verb | 스위치하다 | He switched onto the guard. | 가드에게 스위치했어.
+basketball | switch | verb | 스위치하다 | Just switch it. | 그냥 스위치해.
+basketball | switch | verb | 스위치하다 | Boston switched on every screen. | 보스턴이 모든 스크린에 스위치했어.
+basketball | switch | verb | 스위치하다 | He switched onto the point guard. | 포인트가드에게 스위치했어.
+basketball | switch | verb | 스위치하다 | He switched at the top of the key. | 정면에서 스위치했어.
+basketball | switch | verb | 스위치하다 | Switch if they set the screen. | 스크린 오면 스위치해.
+basketball | tap | verb | 팁인하다 | He tapped the rebound back in. | 리바운드를 팁인했어.
+basketball | tap | verb | 팁인하다 | The center tapped it through traffic. | 센터가 경합 속에서 팁인했어.
+basketball | tap | verb | 팁인하다 | He tapped in the missed shot. | 놓친 슛을 팁인했어.
+basketball | tap | verb | 팁인하다 | He tapped it over the rim. | 림 위에서 팁인했어.
+basketball | tear drop | noun | 플로터 | Rose with the tear drop. | 로즈 플로터 넣는다.
+basketball | tear drop | noun | 플로터 | Beautiful tear drop. | 플로터 예술이네.
+basketball | tear drop | noun | 플로터 | He went with the tear drop. | 플로터 선택했네.
+basketball | tear drop | noun | 플로터 | The tear drop fell softly. | 플로터가 부드럽게 들어갔네.
+basketball | teardrop | noun | 티어드롭 | Parker drops a soft teardrop. | 파커 티어드롭 넣는다.
+basketball | teardrop | noun | 티어드롭 | Beautiful teardrop. | 티어드롭 예술이네.
+basketball | teardrop | noun | 티어드롭 | He loves that teardrop. | 티어드롭 잘 쓰네.
+basketball | teardrop | noun | 티어드롭 | The teardrop fell softly. | 티어드롭이 부드럽게 들어갔네.
+basketball | technical | noun | 테크니컬 파울 | Draymond picks up a technical. | 드레이먼드가 테크니컬 받았네.
+basketball | technical | noun | 테크니컬 파울 | That's an easy technical. | 저건 테크니컬이지.
+basketball | technical | noun | 테크니컬 파울 | He got a technical for arguing. | 항의하다가 테크니컬 받았네.
+basketball | technical | noun | 테크니컬 파울 | Another technical on the bench. | 벤치에 또 테크니컬 나왔네.
+basketball | technical foul | noun | 테크니컬 파울 | Wallace gets a technical foul. | 월리스가 테크니컬 파울을 받았어.
+basketball | technical foul | noun | 테크니컬 파울 | The bench got a technical foul. | 벤치에 테크니컬 파울이 나왔어.
+basketball | technical foul | noun | 테크니컬 파울 | That's an automatic technical foul. | 자동으로 테크니컬 파울이야.
+basketball | technical foul | noun | 테크니컬 파울 | He picked up a technical foul arguing. | 항의하다 테크니컬 파울 받았어.
+basketball | three-point line | noun | 3점 라인 | Curry pulls up behind three-point line. | 커리가 3점 라인 밖에서 바로 쐈어.
+basketball | three-point line | noun | 3점 라인 | He stepped behind the three-point line. | 3점 라인 뒤로 물러났어.
+basketball | three-point line | noun | 3점 라인 | Stay attached at the three-point line. | 3점 라인에서 붙어 있어.
+basketball | three-point line | noun | 3점 라인 | They stretched the defense beyond the three-point line. | 3점 라인 밖까지 수비를 벌렸어.
+basketball | three-pointer | noun | 3점슛 | Ray Allen's clutch three-pointer. | 레이 앨런의 클러치 3점슛.
+basketball | three-pointer | noun | 3점슛 | Big three-pointer. | 큰 3점슛이다.
+basketball | three-pointer | noun | 3점슛 | He buried the three-pointer. | 3점슛 꽂았네.
+basketball | three-pointer | noun | 3점슛 | That's his fifth three-pointer. | 벌써 3점 다섯 개째네.
+basketball | tight defense | noun | 타이트 수비 | Bradley plays tight perimeter defense. | 브래들리 타이트 수비 좋다.
+basketball | tight defense | noun | 타이트 수비 | That's tight defense. | 수비 진짜 빡세네.
+basketball | tight defense | noun | 타이트 수비 | He couldn't shake the tight defense. | 타이트 수비를 못 벗겼네.
+basketball | tight defense | noun | 타이트 수비 | Keep playing tight defense. | 계속 타이트하게 붙어.
+basketball | timeout | noun | 타임아웃 | Popovich calls an angry timeout. | 팝 감독이 타임아웃을 요청했어.
+basketball | timeout | noun | 타임아웃 | They have one timeout left. | 타임아웃 하나 남았어.
+basketball | timeout | noun | 타임아웃 | Call a timeout. | 타임아웃 불러.
+basketball | timeout | noun | 타임아웃 | The timeout stopped the run. | 타임아웃이 흐름을 끊었어.
+basketball | tip | verb | 팁인하다 | He tipped the rebound back in. | 리바운드를 팁인했어.
+basketball | tip | verb | 팁인하다 | Adams tipped it in at the buzzer. | 아담스가 버저와 함께 팁인했어.
+basketball | tip | verb | 팁인하다 | He tipped in the missed layup. | 놓친 레이업을 팁인했어.
+basketball | tip | verb | 팁인하다 | He tipped the ball over defenders. | 수비 위로 팁인했어.
+basketball | tip-in | noun | 팁인 | AD wins it with a tip-in. | AD가 팁인으로 끝냈다.
+basketball | tip-in | noun | 팁인 | Nice tip-in. | 팁인 좋았다.
+basketball | tip-in | noun | 팁인 | He got the tip-in to fall. | 팁인 성공했네.
+basketball | tip-in | noun | 팁인 | Perfect timing on the tip-in. | 팁인 타이밍 좋았다.
+basketball | tip-off | noun | 팁오프 | Lakers control the tip-off. | 레이커스가 팁오프를 가져갔어.
+basketball | tip-off | noun | 팁오프 | Tip-off is in five minutes. | 팁오프까지 5분 남았어.
+basketball | tip-off | noun | 팁오프 | He won the tip-off easily. | 팁오프를 쉽게 이겼어.
+basketball | tip-off | noun | 팁오프 | We're ready for tip-off. | 팁오프 준비 끝났어.
+basketball | tip-out | noun | 팁아웃 | Chandler with the clutch tip-out. | 챈들러 클러치 팁아웃.
+basketball | tip-out | noun | 팁아웃 | Huge tip-out there. | 팁아웃 대박이다.
+basketball | tip-out | noun | 팁아웃 | He kept it alive with a tip-out. | 팁아웃으로 살렸네.
+basketball | tip-out | noun | 팁아웃 | Another offensive tip-out. | 또 팁아웃이네.
+basketball | tomahawk | noun | 토마호크 덩크 | LeBron's fierce tomahawk dunk. | 르브론의 강력한 토마호크 덩크.
+basketball | tomahawk | noun | 토마호크 덩크 | He hammered home a tomahawk. | 토마호크를 꽂았어.
+basketball | tomahawk | noun | 토마호크 덩크 | The tomahawk brought the crowd up. | 토마호크에 관중이 들썩였어.
+basketball | tomahawk | noun | 토마호크 덩크 | That's a vicious tomahawk. | 엄청난 토마호크야.
+basketball | Tony Parker | noun | 토니 파커 | Tony Parker got into the paint. | 토니 파커가 페인트존으로 들어갔어.
+basketball | Tony Parker | noun | 토니 파커 | Tony Parker scored with a floater. | 토니 파커가 플로터를 넣었어.
+basketball | Tony Parker | noun | 토니 파커 | Tony Parker beat his man off the dribble. | 토니 파커가 드리블로 제쳤어.
+basketball | Tony Parker | noun | 토니 파커 | Tony Parker pushed the pace. | 토니 파커가 템포를 끌어올렸어.
+basketball | top of the key | noun | 정면 | Doncic at top of the key. | 돈치치가 정면에 있어.
+basketball | top of the key | noun | 정면 | Reset it at the top of the key. | 정면에서 다시 시작해.
+basketball | top of the key | noun | 정면 | He pulled up from the top of the key. | 정면에서 바로 쐈어.
+basketball | top of the key | noun | 정면 | The play starts at the top of the key. | 정면에서 플레이가 시작돼.
+basketball | Tracy McGrady | noun | 트레이시 맥그레이디 | Tracy McGrady heated up fast. | 트레이시 맥그레이디가 금방 터졌어.
+basketball | Tracy McGrady | noun | 트레이시 맥그레이디 | Tracy McGrady hit the pull-up. | 트레이시 맥그레이디가 풀업 점퍼를 넣었어.
+basketball | Tracy McGrady | noun | 트레이시 맥그레이디 | Tracy McGrady took over the quarter. | 트레이시 맥그레이디가 쿼터를 지배했어.
+basketball | Tracy McGrady | noun | 트레이시 맥그레이디 | Tracy McGrady scored from everywhere. | 트레이시 맥그레이디가 어디서든 넣었어.
+basketball | trade | noun | 트레이드 | Blockbuster trade for Kevin Durant. | 케빈 듀란트 대형 트레이드.
+basketball | trade | noun | 트레이드 | That trade changed everything. | 그 트레이드가 모든 걸 바꿨어.
+basketball | trade | noun | 트레이드 | He's on the trade block. | 트레이드 후보에 올랐어.
+basketball | trade | noun | 트레이드 | The trade deadline is close. | 트레이드 마감이 다가왔어.
+basketball | Trae Young | noun | 트레이 영 | Trae Young threw the lob. | 트레이 영이 앨리웁 패스를 올렸어.
+basketball | Trae Young | noun | 트레이 영 | Trae Young hit the floater. | 트레이 영이 플로터를 넣었어.
+basketball | Trae Young | noun | 트레이 영 | Trae Young pulled up from deep. | 트레이 영이 멀리서 바로 쐈어.
+basketball | Trae Young | noun | 트레이 영 | Trae Young ran the pick-and-roll. | 트레이 영이 픽앤롤을 운영했어.
+basketball | transition | noun | 속공 | Fox pushes the fast transition. | 폭스 속공 전개한다.
+basketball | transition | noun | 속공 | Run in transition. | 속공 뛰어.
+basketball | transition | noun | 속공 | They killed us in transition. | 속공에 털렸네.
+basketball | transition | noun | 속공 | Easy points in transition. | 속공으로 쉽게 넣네.
+basketball | transition | noun | 트랜지션 | Giannis is unstoppable in transition. | 야니스는 트랜지션에서 못 막아.
+basketball | transition | noun | 트랜지션 | They scored in transition again. | 또 트랜지션으로 득점했어.
+basketball | transition | noun | 트랜지션 | Get back in transition. | 트랜지션 수비 빨리 들어가.
+basketball | transition | noun | 트랜지션 | Fast transition offense. | 빠른 트랜지션 공격이야.
+basketball | trap | noun | 트랩 | Heat apply the trap. | 히트가 트랩을 걸었어.
+basketball | trap | noun | 트랩 | The trap forced a turnover. | 트랩으로 턴오버를 만들었어.
+basketball | trap | noun | 트랩 | They sent a trap at half court. | 하프라인부터 트랩 들어왔어.
+basketball | trap | noun | 트랩 | Good trap on the sideline. | 사이드라인 트랩 좋았어.
+basketball | trap | verb | 트랩하다 | They trapped the ball handler early. | 초반부터 볼 핸들러를 트랩했어.
+basketball | trap | verb | 트랩하다 | Miami trapped him near half court. | 마이애미가 하프코트 근처에서 트랩했어.
+basketball | trap | verb | 트랩하다 | He trapped the guard on the sideline. | 가드를 사이드라인에서 트랩했어.
+basketball | trap | verb | 트랩하다 | Keep trapping him off the screen. | 스크린 나오면 계속 트랩해.
+basketball | travel | noun | 트래블링 | LeBron called for a travel. | 르브론에게 트래블링이 선언됐어.
+basketball | travel | noun | 트래블링 | That's an obvious travel. | 누가 봐도 트래블링이야.
+basketball | travel | noun | 트래블링 | He got away with a travel. | 트래블링인데 넘어갔네.
+basketball | travel | noun | 트래블링 | Costly travel in crunch time. | 클러치 상황에서 나온 치명적인 트래블링이야.
+basketball | trey | noun | 3점슛 | Klay hits another trey. | 클레이 또 3점 넣었다.
+basketball | trey | noun | 3점슛 | Deep trey. | 먼 거리 3점이다.
+basketball | trey | noun | 3점슛 | He knocked down the trey. | 3점 꽂았네.
+basketball | trey | noun | 3점슛 | Back-to-back treys. | 3점 연속 성공.
+basketball | triple-double | noun | 트리플더블 | Westbrook averages a triple-double. | 웨스트브룩은 트리플더블을 기록했어.
+basketball | triple-double | noun | 트리플더블 | Jokic gets a triple-double. | 요키치가 트리플더블을 달성했어.
+basketball | triple-double | noun | 트리플더블 | He's one assist from a triple-double. | 트리플더블까지 어시스트 하나 남았어.
+basketball | triple-double | noun | 트리플더블 | Another triple-double for Luka. | 루카가 또 트리플더블이야.
+basketball | true shooting | noun | TS지수 | KD's elite true shooting percentage. | KD의 TS가 정말 높아.
+basketball | true shooting | noun | TS지수 | His true shooting is absurd. | TS가 말도 안 돼.
+basketball | true shooting | noun | TS지수 | True shooting tells the story. | TS를 보면 답이 나와.
+basketball | true shooting | noun | TS지수 | He ranks near the top in true shooting. | TS 상위권이야.
+basketball | turnover | noun | 턴오버 | Harden commits a careless turnover. | 하든이 어이없는 턴오버를 범했어.
+basketball | turnover | noun | 턴오버 | That's his fourth turnover tonight. | 오늘 벌써 턴오버 4개야.
+basketball | turnover | noun | 턴오버 | They forced another turnover. | 또 턴오버를 유도했어.
+basketball | turnover | noun | 턴오버 | Too many turnovers in the fourth. | 4쿼터에 턴오버가 너무 많아.
+basketball | two-way contract | noun | 투웨이 계약 | Reaves started on two-way contract. | 리브스는 투웨이 계약으로 시작했어.
+basketball | two-way contract | noun | 투웨이 계약 | He signed a two-way contract. | 투웨이 계약을 맺었어.
+basketball | two-way contract | noun | 투웨이 계약 | The two-way contract paid off. | 투웨이 계약이 성공적이었어.
+basketball | two-way contract | noun | 투웨이 계약 | Many rookies start on a two-way contract. | 루키들이 투웨이 계약으로 시작하곤 해.
+basketball | Tyrese Haliburton | noun | 타이리스 할리버튼 | Tyrese Haliburton pushed the break. | 타이리스 할리버튼이 속공을 전개했어.
+basketball | Tyrese Haliburton | noun | 타이리스 할리버튼 | Tyrese Haliburton found the open man. | 타이리스 할리버튼이 빈 선수를 찾았어.
+basketball | Tyrese Haliburton | noun | 타이리스 할리버튼 | Tyrese Haliburton controlled the offense. | 타이리스 할리버튼이 공격을 조율했어.
+basketball | Tyrese Haliburton | noun | 타이리스 할리버튼 | Tyrese Haliburton delivered another dime. | 타이리스 할리버튼이 또 어시스트를 했어.
+basketball | Tyrese Maxey | noun | 타이리스 맥시 | Tyrese Maxey blew by his defender. | 타이리스 맥시가 수비를 제쳤어.
+basketball | Tyrese Maxey | noun | 타이리스 맥시 | Tyrese Maxey pushed the pace. | 타이리스 맥시가 템포를 끌어올렸어.
+basketball | Tyrese Maxey | noun | 타이리스 맥시 | Tyrese Maxey knocked down the three. | 타이리스 맥시가 3점을 넣었어.
+basketball | Tyrese Maxey | noun | 타이리스 맥시 | Tyrese Maxey sparked the offense. | 타이리스 맥시가 공격에 불을 붙였어.
+basketball | up-and-under | noun | 업앤언더 | McHale's smooth up-and-under. | 맥헤일의 부드러운 업앤언더.
+basketball | up-and-under | noun | 업앤언더 | Nice up-and-under move. | 업앤언더 좋았어.
+basketball | up-and-under | noun | 업앤언더 | He got him with the up-and-under. | 업앤언더에 속았어.
+basketball | up-and-under | noun | 업앤언더 | The up-and-under created space. | 업앤언더로 공간을 만들었어.
+basketball | usage rate | noun | 유시지 | Westbrook's record breaking usage rate. | 웨스트브룩의 기록적인 유시지.
+basketball | usage rate | noun | 유시지 | His usage rate is sky high. | 유시지가 엄청 높아.
+basketball | usage rate | noun | 유시지 | The offense drives up his usage rate. | 공격 비중 때문에 유시지가 높아.
+basketball | usage rate | noun | 유시지 | That's a massive usage rate. | 엄청난 유시지야.
+basketball | V-cut | noun | 브이 컷 | Klay gets open via V-cut. | 클레이가 브이 컷으로 공간을 만들었어.
+basketball | V-cut | noun | 브이 컷 | Use a V-cut to get open. | 브이 컷으로 공간 만들어.
+basketball | V-cut | noun | 브이 컷 | Nice V-cut before the catch. | 받기 전에 브이 컷 좋았어.
+basketball | V-cut | noun | 브이 컷 | The V-cut created separation. | 브이 컷으로 수비를 떼어냈어.
+basketball | veteran | noun | 베테랑 | Iguodala acts as a veteran. | 이궈달라는 베테랑 역할을 해.
+basketball | veteran | noun | 베테랑 | The veteran stayed calm. | 베테랑답게 침착했어.
+basketball | veteran | noun | 베테랑 | They signed a veteran presence. | 베테랑을 영입했어.
+basketball | veteran | noun | 베테랑 | You can trust the veteran. | 베테랑은 믿을 수 있어.
+basketball | Victor Wembanyama | noun | 빅터 웸반야마 | Victor Wembanyama blocked it from behind. | 빅터 웸반야마가 뒤에서 블록했어.
+basketball | Victor Wembanyama | noun | 빅터 웸반야마 | Victor Wembanyama altered the shot. | 빅터 웸반야마가 슛을 방해했어.
+basketball | Victor Wembanyama | noun | 빅터 웸반야마 | Victor Wembanyama knocked down the three. | 빅터 웸반야마가 3점을 넣었어.
+basketball | Victor Wembanyama | noun | 빅터 웸반야마 | Victor Wembanyama covered so much ground. | 빅터 웸반야마가 엄청 넓게 커버했어.
+basketball | Vince Carter | noun | 빈스 카터 | Vince Carter threw down a windmill. | 빈스 카터가 윈드밀 덩크를 꽂았어.
+basketball | Vince Carter | noun | 빈스 카터 | Vince Carter attacked the rim hard. | 빈스 카터가 강하게 림을 공략했어.
+basketball | Vince Carter | noun | 빈스 카터 | Vince Carter brought the crowd to its feet. | 빈스 카터가 관중을 열광시켰어.
+basketball | Vince Carter | noun | 빈스 카터 | Vince Carter finished above the rim. | 빈스 카터가 림 위에서 마무리했어.
+basketball | waiver | noun | 웨이버 | Player claimed off the waiver. | 웨이버에서 영입됐어.
+basketball | waiver | noun | 웨이버 | He cleared waivers. | 웨이버를 통과했어.
+basketball | waiver | noun | 웨이버 | The team placed him on waivers. | 웨이버 공시했어.
+basketball | waiver | noun | 웨이버 | Nobody claimed him off waivers. | 아무도 영입하지 않았어.
+basketball | windmill | noun | 윈드밀 덩크 | Carter does a windmill dunk. | 카터의 윈드밀 덩크.
+basketball | windmill | noun | 윈드밀 덩크 | He threw down a windmill. | 윈드밀 덩크를 꽂았어.
+basketball | windmill | noun | 윈드밀 덩크 | The crowd loved the windmill. | 윈드밀에 관중이 열광했어.
+basketball | windmill | noun | 윈드밀 덩크 | That's a clean windmill. | 깔끔한 윈드밀이야.
+basketball | wing | noun | 윙 | Tatum spots up on the wing. | 테이텀이 윙에서 대기해.
+basketball | wing | noun | 윙 | Swing it to the wing. | 윙으로 돌려.
+basketball | wing | noun | 윙 | He attacked from the wing. | 윙에서 돌파했어.
+basketball | wing | noun | 윙 | Open shooter on the wing. | 윙에 슈터가 비었어.
+basketball | yam | verb | 덩크하다 | He yammed it home. | 덩크했어.
+basketball | yam | verb | 덩크하다 | Zion yammed on everybody. | 자이언이 덩크했어.
+basketball | yam | verb | 덩크하다 | He caught the lob and yammed it. | 앨리웁 받아서 덩크했어.
+basketball | yam | verb | 덩크하다 | He yammed it over the center. | 센터 위로 덩크했어.
+basketball | Yao Ming | noun | 야오밍 | Yao Ming sealed his defender deep. | 야오밍이 깊게 자리 잡았어.
+basketball | Yao Ming | noun | 야오밍 | Yao Ming scored over the top. | 야오밍이 높이로 득점했어.
+basketball | Yao Ming | noun | 야오밍 | Yao Ming controlled the paint. | 야오밍이 골밑을 장악했어.
+basketball | Yao Ming | noun | 야오밍 | Yao Ming grabbed the offensive rebound. | 야오밍이 공격 리바운드를 잡았어.
+basketball | Zion Williamson | noun | 자이언 윌리엄슨 | Zion Williamson bulldozed his way inside. | 자이언 윌리엄슨이 힘으로 밀고 들어갔어.
+basketball | Zion Williamson | noun | 자이언 윌리엄슨 | Zion Williamson finished through contact. | 자이언 윌리엄슨이 몸싸움을 이겨내고 넣었어.
+basketball | Zion Williamson | noun | 자이언 윌리엄슨 | Zion Williamson attacked the paint. | 자이언 윌리엄슨이 페인트존을 공략했어.
+basketball | Zion Williamson | noun | 자이언 윌리엄슨 | Zion Williamson got whatever he wanted. | 자이언 윌리엄슨이 하고 싶은 대로 했어.
+basketball | zone defense | noun | 지역 방어 | Heat use a zone defense. | 히트가 지역 방어를 사용해.
+basketball | zone defense | noun | 지역 방어 | They're sitting in zone defense. | 계속 지역 방어를 쓰네.
+basketball | zone defense | noun | 지역 방어 | The zone defense worked well. | 지역 방어가 잘 통했어.
+basketball | zone defense | noun | 지역 방어 | Attack the zone defense. | 지역 방어를 공략해.

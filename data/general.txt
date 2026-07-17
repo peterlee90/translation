@@ -1,0 +1,42 @@
+general | bridge the gap | verb | 격차를 좁히다 | We need to figure out a way to bridge the gap between the older and younger generations. | 우리는 기성세대와 젊은 세대 사이의 격차를 좁힐 방법을 찾아야 해.
+general | bridge the gap | verb | 간극을 메우다 | The new update is designed to bridge the gap between casual and hardcore players. | 이번 새 업데이트는 라이트 유저와 하드코어 유저 사이의 간극을 메우기 위해 디자인됐어.
+general | bridge the gap | verb | 차이를 좁히다 | Good communication is the best way to bridge the gap in any long-distance relationship. | 롱디 연애에서 차이를 좁히는 가장 좋은 방법은 원활한 소통이야.
+general | bridge the gap | verb | 격차를 좁히다 | The new mentor program really helped bridge the gap between junior developers and senior engineers. | 새로운 멘토 프로그램은 주니어 개발자와 시니어 엔지니어 사이의 격차를 좁히는 데 정말 큰 도움이 됐어.
+general | drop the ball | verb | 삽질하다 | I completely dropped the ball on the presentation and forgot to bring the USB. | 나 발표 때 완전히 삽질해서 USB 가져오는 걸 깜빡했어.
+general | drop the ball | verb | 망치다 | The company really dropped the ball with their latest smartphone release. | 그 회사는 이번 최신 스마트폰 출시를 진짜 거하게 망쳤어.
+general | drop the ball | verb | 실수하다 | Don't drop the ball on this project, the CEO is watching us closely. | 이번 프로젝트에서 실수하지 마, 대표님이 우리 엄청 예의주시하고 계셔.
+general | drop the ball | verb | 거하게 말아먹다 | He completely dropped the ball when the projector broke right in the middle of his pitch. | 걔 피칭 중간에 프로젝터 고장 났을 때 대처 못하고 거하게 말아먹었어.
+general | flex | verb | 가오잡다 | He bought a fake Rolex just to flex on his ex-girlfriend on Instagram. | 걘 인스타에서 전 여친한테 가오잡으려고 짭 롤렉스를 샀어.
+general | flex | verb | 돈지랄하다 | There's no need to flex your designer clothes, nobody actually cares. | 네 명품 옷 돈지랄할 필요 없어, 솔직히 아무도 신경 안 쓰거든.
+general | flex | verb | 자랑하다 | She's always trying to flex how much money she makes at her new job. | 걘 항상 새 직장에서 돈 얼마나 버는지 자랑하려고 안달이야.
+general | flex | verb | 뽐내다 | He tried to flex his new presentation skills in front of the boss but completely ruined it. | 걔 사장님 앞에서 자기 새 발표 스킬 좀 뽐내보려고 하다가 완전히 망쳤어.
+general | ghost | verb | 잠수 타다 | We went on three dates and then she completely ghosted me out of nowhere. | 우리 세 번이나 데이트했는데, 걔가 갑자기 뜬금없이 잠수 탔어.
+general | ghost | verb | 읽씹하다 | Did you just ghost him after he asked you out to dinner? | 걔가 저녁 먹자고 데이트 신청했는데 너 그냥 읽씹한 거야?
+general | ghost | verb | 잠수 타다 | I hate when people ghost you instead of just saying they are not interested. | 관심 없다고 그냥 말하면 될 걸 잠수 타는 사람들 진짜 극혐이야.
+general | ghost | verb | 차단하다 | The date was so weird and gave me a bad vibe, so I decided to just ghost him. | 데이트가 너무 이상하고 쎄한 느낌을 줘서, 그냥 걔 차단하기로 했어.
+general | no cap | noun | 진심으로 | That new burger joint downtown is the best spot in the city, no cap. | 시내에 새로 생긴 햄버거집이 이 도시에서 최고야, 진심으로.
+general | no cap | noun | 농담 거르고 | I was so tired I slept for 14 hours straight, no cap. | 나 너무 피곤해서 14시간 내리 잤어, 농담 거르고.
+general | no cap | noun | 진짜로 | You're actually the funniest person I know, no cap. | 넌 진짜 내가 아는 사람 중에 제일 웃긴 애야, 진짜로.
+general | read the room | verb | 눈치 챙기다 | You can't make a joke about getting fired right now, dude seriously read the room. | 지금 해고당한 걸로 농담하면 안 되지, 인마 진짜 눈치 좀 챙겨라.
+general | read the room | verb | 분위기 파악하다 | He completely failed to read the room and kept talking while everyone was crying. | 걘 분위기 파악 완벽하게 실패하고 다들 울고 있는데 혼자 계속 떠들더라.
+general | read the room | verb | 눈치채다 | I realized everyone was annoyed, so I decided to read the room and just stay quiet. | 다들 짜증 난 거 같아서, 난 눈치채고 그냥 조용히 있기로 했어.
+general | read the room | verb | 분위기 읽다 | You need to read the room and take responsibility instead of blaming others. | 남 탓할 게 아니라 분위기 좀 읽고 네가 책임져야지.
+general | red flag | noun | 위험 신호 | If someone talks trash about all their exes on the first date, that's a massive red flag. | 첫 데이트에서 전 애인들 욕만 하는 사람이면, 그건 엄청난 위험 신호야.
+general | red flag | noun | 쎄한 사람 | The way he treats the waiters at the restaurant makes him a walking red flag. | 식당에서 웨이터들 대하는 태도만 봐도 걘 진짜 쎄한 사람이야.
+general | red flag | noun | 쎄한 느낌 | I ignored all the red flags because she was really pretty, and now I regret it. | 걔가 너무 예뻐서 쎄한 느낌들을 다 무시했는데, 지금은 후회돼.
+general | red flag | noun | 정떨어지는 행동 | He was talking about his crypto investments the whole date, which was a huge red flag. | 걔 데이트 내내 자기 코인 투자 얘기만 하던데, 그거 진짜 정떨어지는 행동이었어.
+general | rizz | noun | 꼬시는 능력 | How did he even get her number? His rizz is actually insane. | 걔가 어떻게 그 여자애 번호를 딴 거야? 걔 꼬시는 능력 진짜 미쳤어.
+general | rizz | noun | 매력 | You can't just stare at her from across the room, you gotta go over there and show some rizz. | 방 건너편에서 쳐다보고만 있으면 안 되지, 가서 네 매력을 좀 어필해.
+general | rizz | noun | 폼 미친 매력 | He didn't even say a word, he just hit her with that unspoken rizz. | 걘 한 마디도 안 했는데, 그냥 폼 미친 매력으로 꼬셨어.
+general | rizz | noun | 플러팅 기술 | Bro managed to get her Instagram with zero effort, his rizz is legendary no cap. | 쟤 아무 노력도 안 하고 걔 인스타 따냈어, 쟤 플러팅 기술은 전설이야 농담 안 하고.
+general | salty | modifier | 삐진 | Why are you so salty about losing a simple board game? | 그냥 보드게임 한 판 진 거 가지고 왜 그렇게 삐진 거야?
+general | salty | modifier | 빡친 | Are you salty that I went to the party without inviting you? | 나 혼자 널 파티에 안 부르고 가서 빡친 거야?
+general | salty | modifier | 예민한 | There's no reason to get salty over a harmless joke. | 악의 없는 농담에 그렇게 예민하게 굴 필요는 없잖아.
+general | salty | modifier | 발작하는 | You're getting way too salty over a random Reddit comment. | 너 고작 레딧 댓글 하나 가지고 너무 발작하는 거 아니야.
+general | throw under the bus | verb | 독박 씌우다 | My coworker totally threw me under the bus during the meeting to save himself. | 내 직장 동료가 회의 중에 자기 혼자 살겠다고 나한테 완전히 독박 씌웠어.
+general | throw under the bus | verb | 배신하다 | I can't believe you would throw your best friend under the bus like that. | 네가 베프를 그런 식으로 배신하다니 진짜 믿을 수가 없다.
+general | throw under the bus | verb | 남 탓하다 | When the boss got angry about the delayed project, the manager threw his team under the bus. | 프로젝트 지연돼서 사장님이 화내니까, 매니저가 자기 팀원들 남 탓하면서 팔아먹었어.
+general | throw under the bus | verb | 책임 전가하다 | Instead of taking responsibility for the failure, the manager just threw the interns under the bus. | 매니저는 실패에 대해 책임지는 대신 그냥 인턴들에게 책임을 전가했어.
+general | touch grass | verb | 현생살다 | You've been arguing on Twitter for six hours, you seriously need to touch grass. | 너 트위터에서 6시간째 키배 뜨고 있잖아, 진짜 현생 좀 살아라.
+general | touch grass | verb | 바깥바람 좀 쐬다 | Bro, log off the game and go touch grass, you look so pale. | 야, 게임 좀 끄고 바깥바람 좀 쐬고 와, 너 얼굴이 너무 창백해.
+general | touch grass | verb | 현생살다 | Anyone who gets this angry over a stupid internet meme desperately needs to touch grass. | 고작 멍청한 인터넷 밈 하나에 이렇게 화내는 사람들은 진짜 시급하게 현생살아야 해.
