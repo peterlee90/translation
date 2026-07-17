@@ -87,13 +87,15 @@ def build_phrasal_regex(term, pos):
     return rf"(?:\b(?:{get_verb_pattern(first)}){gap}\s+{re.escape(last)}\b|\b{re.escape(first)}{gap}\s+(?:{get_verb_pattern(last)})\b)"
 
 def init_vector_db():
-    if qdrant.collection_exists(collection_name=COLLECTION_NAME):
-        qdrant.delete_collection(collection_name=COLLECTION_NAME)
+    # qdrant -> shared.qdrant
+    if shared.qdrant.collection_exists(collection_name=COLLECTION_NAME):
+        shared.qdrant.delete_collection(collection_name=COLLECTION_NAME)
         
-    qdrant.recreate_collection(
+    # qdrant -> shared.qdrant, embed_model -> shared.embed_model
+    shared.qdrant.recreate_collection(
         collection_name=COLLECTION_NAME,
         vectors_config=VectorParams(
-            size=embed_model.get_sentence_embedding_dimension(),
+            size=shared.embed_model.get_sentence_embedding_dimension(),
             distance=Distance.COSINE
         ),
     )
