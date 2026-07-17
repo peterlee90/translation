@@ -613,7 +613,7 @@ league | chemtech soul | noun | 화공용 영혼 | We just got chemtech soul. | 
 league | chemtech soul | noun | 화공용 영혼 | Chemtech soul is annoying. | 화공용 영혼 진짜 짜증나네.
 league | chemtech soul | noun | 화공용 영혼 | Don't give up chemtech soul. | 화공용 영혼 주지 마.
 league | cho'gath | noun | 초가스 | cho'gath has over six thousand hp | 초가스 피통 6000 넘어
-league | cho'gath | noun | 공룡 | a massive cho'gath just ate our adc alive | 덩치 개큰 공룡이 우리 원딜 걍 산채로 씹어먹었음
+league | cho'gath | noun | 초가스 | a massive cho'gath just ate our adc alive | 덩치 개큰 공룡이 우리 원딜 걍 산채로 씹어먹었음
 league | choke | verb | 뇌절하다 | we choked hard at elder | 우리 장로 용에서 심하게 뇌절했어
 league | choke artist | noun | 새가슴 | Our mid is such a choke artist. | 우리 미드 완전 새가슴이야.
 league | choke artist | noun | 새가슴 | Stop being a choke artist. | 새가슴 짓 좀 그만해.
@@ -3776,7 +3776,7 @@ league | utility build | noun | 유틸 템트리 | Utility build fits our comp. 
 league | varus | noun | 바루스 | varus hit his piercing arrow from maximum range | 바루스가 최대 사거리에서 꿰뚫는 화살 맞췄어
 league | varus | noun | 포킹 바루스 | lethality varus chunking me from off screen | 극방관 포킹 바루스가 화면 밖에서 내 피 걸레짝 만드네
 league | vayne | noun | 베인 | vayne melted the tanks with silver bolts | 베인이 은화살로 탱커들 다 녹였어
-league | vayne | noun | 베인충 | vayne tumbling forward into a malphite ult | 베인충 앞구르기 하다가 말파 궁 쳐맞네
+league | vayne | noun | 베인 | vayne tumbling forward into a malphite ult | 베인충 앞구르기 하다가 말파 궁 쳐맞네
 league | veigar | noun | 베이가 | veigar trapped them inside the event horizon | 베이가가 사건의 지평선 안에 쟤네 가뒀어
 league | veigar | noun | 베이가 | veigar pressing r to delete the adc | 베이가 궁 딸깍으로 원딜 지워버리네
 league | vel'koz | noun | 벨코즈 | vel'koz dealt massive true damage with lifeform disintegration ray | 벨코즈가 궁으로 엄청난 고정 피해 넣었어
