@@ -9,7 +9,9 @@ from symspellpy import SymSpell, Verbosity
 # NLTK 표준 영단어 사전 및 가벼운 품사 태거 로드
 nltk.download('words', quiet=True)
 nltk.download('punkt', quiet=True)
+nltk.download('punkt_tab', quiet=True) # 추가
 nltk.download('averaged_perceptron_tagger', quiet=True)
+nltk.download('averaged_perceptron_tagger_eng', quiet=True) # 💡 핵심 추가
 from nltk.corpus import words
 ENGLISH_DICT = set(words.words())
 
