@@ -6,10 +6,13 @@ import jellyfish
 import phonetics
 from qdrant_client.models import Distance, VectorParams, PointStruct, Filter, FieldCondition, MatchAny
 from symspellpy import SymSpell, Verbosity
-
 # 💡 공통 객체 임포트 (중복 생성 방지)
 from shared import embed_model, qdrant
-
+# 최상단 import 영역 추가
+import nltk
+nltk.download('words', quiet=True)
+from nltk.corpus import words
+ENGLISH_DICT = set(words.words())
 nlp = spacy.load("en_core_web_sm") 
 COLLECTION_NAME = "league_stt_logical" 
 
@@ -117,7 +120,7 @@ def correct_text(stt_text):
     for chunk in chunks:
         text = chunk['text'] 
         clean_chunk = re.sub(r'[^\w\s]', '', text).strip().lower()
-        if not clean_chunk or clean_chunk in IGNORE_TOKENS: continue
+        if not clean_chunk or clean_chunk in IGNORE_TOKENS or clean_chunk in ENGLISH_DICT: continue
         
         merged_chunk = clean_chunk.replace(" ", "")
         chunk_len = len(merged_chunk)
