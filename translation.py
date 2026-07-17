@@ -31,12 +31,11 @@ COLLECTION_NAME = "hybrid_dictionary"
 
 SYSTEM_PROMPT = textwrap.dedent("""\
     # Role
-    EN-KR Banmal Translator.
+    EN-KR Banmal Translator & Post-Editor.
     # Rules
     - Tone: STRICTLY Banmal (반말).
-    - Preserve existing KR words.
-    - Translate EN parts to natural KR.
-    - [CRITICAL] Strictly apply [Glossary] definitions from User Message.
+    - [CRITICAL] Use [초벌 번역] as a structural baseline to PREVENT any omission (e.g., "I think").
+    - [CRITICAL] Replace awkward ML translation with natural Korean and apply [사전] strictly.
 """)
 
 def init_exact_matches():
@@ -227,16 +226,15 @@ def retrieve_hybrid(user_input, top_k=4):
 
     return sorted(resolved_matches, key=lambda x: x['score'], reverse=True)[:top_k]
 
-def get_user_prompt(sentence, resolved_matches):
-    base_prompt = f"원문: {sentence.strip()}\n번역:"
+def get_user_prompt(sentence, draft_text, resolved_matches):
+    base_prompt = f"원문: {sentence.strip()}\n초벌 번역: {draft_text.strip()}\n최종 번역(반말):"
     if not resolved_matches: return base_prompt
     dict_lines = [f"- {m['term']}: {m['meaning']}" for m in resolved_matches]
-    dict_str = "\n".join(dict_lines)
     return textwrap.dedent(f"""\
         [사전]
-        {dict_str}
+        {"\n".join(dict_lines)}
+        
         {base_prompt}""")
-
 async def generate_translation_stream(user_input: str, matched_dict: list):
     print(f"\n🗣️ [번역기 입력]: {user_input}")
     yield f"data: [CORRECTED]{user_input}\n\n"
