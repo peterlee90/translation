@@ -1,33 +1,21 @@
 import os
 import re
-import spacy
 import difflib
 import jellyfish
 import phonetics
 import nltk
-from qdrant_client.models import Distance, VectorParams, PointStruct, Filter, FieldCondition, MatchAny
 from symspellpy import SymSpell, Verbosity
 
-# NLTK 표준 영단어 사전 로드
+# NLTK 표준 영단어 사전 및 가벼운 품사 태거 로드
 nltk.download('words', quiet=True)
+nltk.download('punkt', quiet=True)
+nltk.download('averaged_perceptron_tagger', quiet=True)
 from nltk.corpus import words
 ENGLISH_DICT = set(words.words())
 
-# 💡 공통 객체 임포트 (중복 생성 방지)
-from shared import embed_model, qdrant
-
-nlp = spacy.load("en_core_web_sm") 
-COLLECTION_NAME = "league_stt_logical" 
-
-if not qdrant.collection_exists(collection_name=COLLECTION_NAME):
-    qdrant.create_collection(
-        collection_name=COLLECTION_NAME,
-        vectors_config=VectorParams(size=384, distance=Distance.COSINE), 
-    )
-
 sym_spell = SymSpell(max_dictionary_edit_distance=4, prefix_length=7)
 ALL_TERMS = set()
-ALL_TERMS_META = {}
+TERM_DB = {} # 💡 번역 모듈로 전달할 메타데이터 인메모리 DB
 
 IGNORE_TOKENS = { 
     "a", "an", "the", "this", "that", "these", "those",
@@ -56,23 +44,32 @@ IGNORE_TOKENS = {
     "pardon", "welcome", "congrats", "cheers", "mate", "buddy", "pal", "op"
 }
 
-def final_rag_chunker(text):
-    doc = nlp(text)
+# 💡 Spacy 대체: 통계 기반 NLTK 초고속 명사구 추출기
+def fast_noun_chunker(text):
+    tokens = text.split()
+    tagged = nltk.pos_tag(tokens)
     chunks = []
-    current_tokens = []
-    def save_chunk(): 
-        if current_tokens:
-            if any(t.pos_ in ["NOUN", "PROPN"] for t in current_tokens):
-                chunks.append({"text": " ".join([t.text for t in current_tokens])})
-    for token in doc:
-        if token.text.lower() in IGNORE_TOKENS: 
+    current_chunk = []
+    
+    for word, pos in tagged:
+        clean_w = re.sub(r'[^\w\s]', '', word).lower()
+        if not clean_w or clean_w in IGNORE_TOKENS: 
+            if current_chunk:
+                chunks.append({"text": " ".join(current_chunk)})
+                current_chunk = []
             continue 
-        if token.pos_ in ["ADJ", "NOUN", "PROPN"]:
-            current_tokens.append(token)
+            
+        # NN(명사), JJ(형용사), FW(외래어), NNP(고유명사) 추출
+        if pos.startswith('NN') or pos.startswith('JJ') or pos.startswith('FW'):
+            current_chunk.append(word)
         else:
-            save_chunk() 
-            current_tokens = []
-    save_chunk() 
+            if current_chunk:
+                chunks.append({"text": " ".join(current_chunk)})
+                current_chunk = []
+                
+    if current_chunk:
+        chunks.append({"text": " ".join(current_chunk)})
+        
     return chunks
 
 def init_corrector():
@@ -83,7 +80,6 @@ def init_corrector():
         print(f"⚠️ [교정 모듈]: {file_path} 파일이 없습니다.")
         return False
         
-    points = []
     with open(file_path, "r", encoding="utf-8") as f:
         for idx, line in enumerate(f):
             if line.startswith("#") or not line.strip(): continue 
@@ -96,14 +92,12 @@ def init_corrector():
             merged_term = term.replace(" ", "")
             sym_spell.create_dictionary_entry(merged_term, 100) 
             
-            p_hash, s_hash = phonetics.dmetaphone(merged_term)
-            ALL_TERMS_META[term] = [h for h in (p_hash, s_hash) if h]
+            # 💡 벡터 삽입 제거, 인메모리 딕셔너리로 저장 (번역기 RAG 직행용)
+            TERM_DB[term] = {
+                "domain": parts[0], "term": parts[1].strip(), "pos": parts[2], "meaning": parts[3]
+            }
             
-            vector = embed_model.encode(term).tolist()
-            points.append(PointStruct(id=idx, vector=vector, payload={"term": term}))
-            
-    qdrant.upsert(collection_name=COLLECTION_NAME, points=points)
-    print("✅ [교정 모듈]: 지식베이스 로드 완료.")
+    print("✅ [교정 모듈]: 초고속 인메모리 DB 로드 완료.")
     return True
 
 def count_syllables(word):
@@ -111,8 +105,9 @@ def count_syllables(word):
 
 def correct_text(stt_text):
     print(f"\n{'='*50}\n[원본 문장] {stt_text}\n{'-'*50}")
-    chunks = final_rag_chunker(stt_text)
+    chunks = fast_noun_chunker(stt_text)
     modified_text = stt_text
+    matched_dict = [] # 💡 번역기 전달용
     
     def bi_jaro_winkler(s1, s2):
         if not s1 or not s2: return 0.0
@@ -124,7 +119,7 @@ def correct_text(stt_text):
         text = chunk['text'] 
         clean_chunk = re.sub(r'[^\w\s]', '', text).strip().lower()
         
-        # 💡 영어 사전에 있거나 무시 단어면 스킵 (속도 최적화)
+        # 💡 영어 사전에 있거나 무시 단어면 스킵
         if not clean_chunk or clean_chunk in IGNORE_TOKENS or clean_chunk in ENGLISH_DICT: 
             continue
         
@@ -156,11 +151,6 @@ def correct_text(stt_text):
         for term in ALL_TERMS:
             term_words = term.split()
             
-            # 💡 단어 개수 체크 삭제 (cho'gath vs cho gath 방어 해제)
-            if not any(t.pos_ in ["NOUN", "PROPN"] for t in nlp(term)):
-                continue
-
-            # 💡 특수기호 제거 후 공백 제거
             t_clean = re.sub(r'[^\w\s]', '', term).lower().replace(" ", "")
             if abs(count_syllables(merged_chunk) - count_syllables(t_clean)) > 1:
                 continue
@@ -193,26 +183,17 @@ def correct_text(stt_text):
         print(f"   ▶ 발음 매칭 후보: {pho_candidates if pho_candidates else '없음'}")
 
         if not search_terms: 
-            print("   ❌ [기각]: 1, 2단계에서 일치하는 RAG 후보를 전혀 찾지 못함.")
+            print("   ❌ [기각]: 1, 2단계 매칭 실패")
             continue
 
-        v_chunk = embed_model.encode(clean_chunk).tolist()
-        res = qdrant.query_points(
-            collection_name=COLLECTION_NAME, query=v_chunk,
-            query_filter=Filter(must=[FieldCondition(key="term", match=MatchAny(any=list(search_terms)))]),
-            limit=max(1, len(search_terms)) 
-        ).points
-
-        fetched_terms = {hit.payload['term'] for hit in res}
-        candidate_pool = list(fetched_terms.union(set(sym_candidates)))
+        # 💡 [핵심] Qdrant 벡터 연산 완전 제거, 즉시 메모리 비교
+        candidate_pool = list(search_terms.union(set(sym_candidates)))
         candidate_scores = []
 
         for target in candidate_pool:
-            # 💡 특수기호 제거 후 공백 제거
             target_clean = re.sub(r'[^\w\s]', '', target).lower().replace(" ", "")
             target_words = target.split()
             
-            # 💡 단어 개수 체크 삭제
             if abs(count_syllables(merged_chunk) - count_syllables(target_clean)) > 1:
                 continue
             if merged_chunk == target_clean:
@@ -273,7 +254,12 @@ def correct_text(stt_text):
             if best_score >= final_threshold:
                 modified_text = re.sub(rf'\b{re.escape(text)}\b', best_candidate, modified_text, flags=re.IGNORECASE)
                 print(f"   🟢 [최종 확정]: '{text}' ➔ '{best_candidate}'")
+                
+                # 💡 찾은 단어 메타데이터 추가
+                if best_candidate in TERM_DB:
+                    if TERM_DB[best_candidate] not in matched_dict:
+                        matched_dict.append(TERM_DB[best_candidate])
             else:
                 print(f"   ❌ [최종 기각]: 최고점 {best_score:.2f} < 기준점 {final_threshold}")         
     print(f"✨ [결과 문장]: {modified_text}")
-    return modified_text
+    return modified_text, matched_dict
