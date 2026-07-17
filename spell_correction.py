@@ -46,7 +46,6 @@ IGNORE_TOKENS = {
     "pardon", "welcome", "congrats", "cheers", "mate", "buddy", "pal", "op"
 }
 
-# 💡 Spacy 대체: 통계 기반 NLTK 초고속 명사구 추출기
 def fast_noun_chunker(text):
     tokens = text.split()
     tagged = nltk.pos_tag(tokens)
@@ -54,8 +53,11 @@ def fast_noun_chunker(text):
     current_chunk = []
     
     for word, pos in tagged:
-        clean_w = re.sub(r'[^\w\s]', '', word).lower()
-        if not clean_w or clean_w in IGNORE_TOKENS: 
+        # 💡 원본 대소문자는 살리되 특수기호만 제거
+        clean_w = re.sub(r'[^\w\s]', '', word)
+        clean_lower = clean_w.lower()
+        
+        if not clean_lower or clean_lower in IGNORE_TOKENS: 
             if current_chunk:
                 chunks.append({"text": " ".join(current_chunk)})
                 current_chunk = []
@@ -63,7 +65,7 @@ def fast_noun_chunker(text):
             
         # NN(명사), JJ(형용사), FW(외래어), NNP(고유명사) 추출
         if pos.startswith('NN') or pos.startswith('JJ') or pos.startswith('FW'):
-            current_chunk.append(word)
+            current_chunk.append(clean_w) # 💡 특수기호가 제거된 단어 추가
         else:
             if current_chunk:
                 chunks.append({"text": " ".join(current_chunk)})
