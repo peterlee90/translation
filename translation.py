@@ -235,7 +235,7 @@ def get_user_prompt(sentence, draft_text, resolved_matches):
         {"\n".join(dict_lines)}
         
         {base_prompt}""")
-async def generate_translation_stream(user_input: str, matched_dict: list):
+async def generate_translation_stream(user_input: str, draft_text: str, matched_dict: list):
     print(f"\n🗣️ [번역기 입력]: {user_input}")
     yield f"data: [CORRECTED]{user_input}\n\n"
 
@@ -260,7 +260,7 @@ async def generate_translation_stream(user_input: str, matched_dict: list):
         messages.append({"role": "user", "content": turn["user"]})
         messages.append({"role": "assistant", "content": turn["assistant"]})
     
-    user_prompt_content = get_user_prompt(user_input, resolved_matches)
+    user_prompt_content = get_user_prompt(user_input, draft_text, matched_dict)
     messages.append({"role": "user", "content": user_prompt_content})
 
     raw_prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True, enable_thinking=False)
