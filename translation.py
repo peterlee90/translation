@@ -17,7 +17,6 @@ LAST_ACTIVE_DOMAIN = "league"
 IRREGULAR_VERBS = {}
 INVERTED_INDEX = defaultdict(set)
 TERM_REGEX_CACHE = {}
-EXACT_MATCH_DICT = {}
 
 LLM_CLIENT = AsyncOpenAI(
     api_key="EMPTY", 
