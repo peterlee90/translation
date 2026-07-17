@@ -111,7 +111,7 @@ def correct_text(stt_text):
 
     # 💡 1단계: 하드 매칭 확인 (사전 검사)
     normalized = re.sub(r'[^a-z0-9\s]', '', stt_text.lower()).strip()
-    if normalized in EXACT_MATCH_DICT:
+    if normalized in shared.EXACT_MATCH_DICT:
         return stt_text, [] # 교정 로직 타지 않음
     
     print(f"\n{'='*50}\n[원본 문장] {stt_text}\n{'-'*50}")
