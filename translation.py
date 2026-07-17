@@ -87,11 +87,10 @@ def build_phrasal_regex(term, pos):
     return rf"(?:\b(?:{get_verb_pattern(first)}){gap}\s+{re.escape(last)}\b|\b{re.escape(first)}{gap}\s+(?:{get_verb_pattern(last)})\b)"
 
 def init_vector_db():
-    # qdrant -> shared.qdrant
+    # 💡 shared 객체들만 'shared.' 접두사 사용
     if shared.qdrant.collection_exists(collection_name=COLLECTION_NAME):
         shared.qdrant.delete_collection(collection_name=COLLECTION_NAME)
         
-    # qdrant -> shared.qdrant, embed_model -> shared.embed_model
     shared.qdrant.recreate_collection(
         collection_name=COLLECTION_NAME,
         vectors_config=VectorParams(
@@ -104,6 +103,7 @@ def init_vector_db():
     DATA_DIR = os.path.join(BASE_DIR, "data")
     verbs_path = os.path.join(DATA_DIR, "verbs.txt")
 
+    # 💡 IRREGULAR_VERBS 등은 translation.py 내부 변수이므로 shared. 불필요
     if os.path.exists(verbs_path):
         with open(verbs_path, "r", encoding="utf-8") as f:
             for line in f:
@@ -126,7 +126,7 @@ def init_vector_db():
         if os.path.exists(file_path):
             with open(file_path, "r", encoding="utf-8") as f:
                 for line in f:
-                    parts = [p.strip() for p in line.split("|")]                 
+                    parts = [p.strip() for p in line.split("|")]                  
                     if len(parts) >= 6:
                         loaded_data.append((parts[0], parts[1].lower(), parts[2], parts[3], parts[4], parts[5]))
                     elif len(parts) == 5: 
@@ -154,13 +154,15 @@ def init_vector_db():
         })
         
     if texts_to_embed:
-        vectors = embed_model.encode(texts_to_embed, batch_size=32).tolist() 
+        # 💡 shared.embed_model 사용
+        vectors = shared.embed_model.encode(texts_to_embed, batch_size=32).tolist() 
         for i, (vector, payload) in enumerate(zip(vectors, payloads)):
             points.append(PointStruct(id=point_id + i, vector=vector, payload=payload))
         point_id += len(vectors)
     
     if points:
-        qdrant.upsert(collection_name=COLLECTION_NAME, points=points)
+        # 💡 shared.qdrant 사용
+        shared.qdrant.upsert(collection_name=COLLECTION_NAME, points=points)
 
 def retrieve_hybrid(user_input, top_k=4):
     global LAST_ACTIVE_DOMAIN
