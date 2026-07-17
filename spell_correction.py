@@ -139,6 +139,11 @@ def correct_text(stt_text):
                     sym_candidates.extend(matches)
                     for m in matches: search_terms.add(m)
         print(f"   ▶ SymSpell 후보: {list(set(sym_candidates)) if sym_candidates else '없음'}")
+        
+        # 💡 [추가] SymSpell 후보가 아예 없으면 연산 스킵
+        if not sym_candidates:
+            print("   ❌ [기각]: SymSpell 후보 없음 ➔ 조기 종료")
+            continue
                         
         c_hashes_merged = [h for h in phonetics.dmetaphone(merged_chunk) if h]
         pho_candidates = []
