@@ -31,12 +31,12 @@ class TextRequest(BaseModel):
 
 @app.post("/translate/stream")
 async def translate_stream(payload: TextRequest):
-    # 1. 텍스트 교정 (전처리)
-    corrected_text = correct_text(payload.text)
+    # 텍스트 교정 및 매칭된 사전 데이터(Dict) 추출
+    corrected_text, matched_dict = correct_text(payload.text)
     
-    # 2. 교정된 텍스트로 번역 스트림 생성
+    # 교정된 텍스트와 사전을 번역기로 전달
     return StreamingResponse(
-        generate_translation_stream(corrected_text), 
+        generate_translation_stream(corrected_text, matched_dict), 
         media_type="text/event-stream"
     )
 
