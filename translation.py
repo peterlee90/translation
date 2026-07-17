@@ -38,14 +38,22 @@ SYSTEM_PROMPT = textwrap.dedent("""\
 """)
 
 def init_exact_matches():
-    global EXACT_MATCH_DICT
     json_path = os.path.join(os.path.dirname(__file__), "data", "quick.json")
     if os.path.exists(json_path):
         with open(json_path, "r", encoding="utf-8") as f:
-            EXACT_MATCH_DICT = json.load(f)
-        print(f"⚡ [1단계 하드매칭 캐시]: {len(EXACT_MATCH_DICT)}개 로드 완료.")
+            data = json.load(f)
+            
+            # 리스트 형태면 dict로 변환, 이미 dict면 키를 소문자로 정규화하여 저장
+            if isinstance(data, list):
+                shared.EXACT_MATCH_DICT = {item['term'].lower(): item['meaning'] for item in data}
+            else:
+                shared.EXACT_MATCH_DICT = {k.lower(): v for k, v in data.items()}
+                
+        print(f"⚡ [1단계 하드매칭 캐시]: {len(shared.EXACT_MATCH_DICT)}개 로드 완료.")
     else:
         print("⚠️ quick.json 파일이 없어 하드매칭이 비활성화됩니다.")
+
+
 
 def get_verb_forms(verb):
     forms = {verb}
