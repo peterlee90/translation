@@ -31,14 +31,13 @@ class TranslationRequest(BaseModel): # 요청 데이터 규격
 
 @app.post("/translate/stream") # API 엔드 포인트
 async def translate_stream(payload: TranslationRequest):
-    # 교정된 고유명사, 용어집
+    # 교정된 고유명사, 하드코딩 단어장
     corrected_text, matched_dict = correct_text(payload.text) # 교정
     
-    # 교정된 텍스트와 사전을 번역기로 전달
     return StreamingResponse(
-        generate_translation_stream(corrected_text, payload.draft_text, matched_dict), 
+        generate_translation_stream(corrected_text, payload.draft_text, matched_dict), # 교정된 텍스트와 하드코딩 단어장을 번역기로 전달 
         media_type="text/event-stream"
     )
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8080)
+    uvicorn.run(app, host="0.0.0.0", port=8080) # 8080 포트로 서버 구동
