@@ -14,9 +14,9 @@ import shared
 CONVO_HISTORY = deque(maxlen=3)
 LAST_ACTIVE_DOMAIN = "league"
 
-IRREGULAR_VERBS = {} # 불규칙 동사
+IRREGULAR_VERBS = {} 
 INVERTED_INDEX = defaultdict(set)
-TERM_REGEX_CACHE = {} # 정규화 공식
+TERM_REGEX_CACHE = {} 
 
 LLM_CLIENT = AsyncOpenAI(
     api_key="EMPTY", 
@@ -28,7 +28,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 COLLECTION_NAME = "hybrid_dictionary"
 
-# 시스템 프롬프팅
+# 요청하신 강력한 시스템 프롬프팅 롤백 유지
 SYSTEM_PROMPT = textwrap.dedent("""\
     # Role
     EN-KR Banmal Translator & Post-Editor.
@@ -38,13 +38,12 @@ SYSTEM_PROMPT = textwrap.dedent("""\
     - [CRITICAL] Replace awkward ML translation with natural Korean and apply [사전] strictly.
 """)
 
-def init_exact_matches(): # 하드캐싱
+def init_exact_matches():
     json_path = os.path.join(os.path.dirname(__file__), "data", "quick.json")
     if os.path.exists(json_path):
-        with open(json_path, "r", encoding="utf-8") as f: # 파일 읽기
+        with open(json_path, "r", encoding="utf-8") as f:
             data = json.load(f)
             
-            # 리스트 형태면 dict로 변환, 이미 dict면 키를 소문자로 정규화하여 저장
             if isinstance(data, list):
                 shared.EXACT_MATCH_DICT = {item['term'].lower(): item['meaning'] for item in data}
             else:
@@ -53,8 +52,6 @@ def init_exact_matches(): # 하드캐싱
         print(f"⚡ [1단계 하드매칭 캐시]: {len(shared.EXACT_MATCH_DICT)}개 로드 완료.")
     else:
         print("⚠️ quick.json 파일이 없어 하드매칭이 비활성화됩니다.")
-
-
 
 def get_verb_forms(verb):
     forms = {verb}
@@ -88,7 +85,6 @@ def build_phrasal_regex(term, pos):
     return rf"(?:\b(?:{get_verb_pattern(first)}){gap}\s+{re.escape(last)}\b|\b{re.escape(first)}{gap}\s+(?:{get_verb_pattern(last)})\b)"
 
 def init_vector_db():
-    # 💡 shared 객체들만 'shared.' 접두사 사용
     if shared.qdrant.collection_exists(collection_name=COLLECTION_NAME):
         shared.qdrant.delete_collection(collection_name=COLLECTION_NAME)
         
@@ -104,7 +100,6 @@ def init_vector_db():
     DATA_DIR = os.path.join(BASE_DIR, "data")
     verbs_path = os.path.join(DATA_DIR, "verbs.txt")
 
-    # 💡 IRREGULAR_VERBS 등은 translation.py 내부 변수이므로 shared. 불필요
     if os.path.exists(verbs_path):
         with open(verbs_path, "r", encoding="utf-8") as f:
             for line in f:
@@ -155,14 +150,12 @@ def init_vector_db():
         })
         
     if texts_to_embed:
-        # 💡 shared.embed_model 사용
         vectors = shared.embed_model.encode(texts_to_embed, batch_size=32).tolist() 
         for i, (vector, payload) in enumerate(zip(vectors, payloads)):
             points.append(PointStruct(id=point_id + i, vector=vector, payload=payload))
         point_id += len(vectors)
     
     if points:
-        # 💡 shared.qdrant 사용
         shared.qdrant.upsert(collection_name=COLLECTION_NAME, points=points)
 
 def retrieve_hybrid(user_input, top_k=4):
@@ -191,10 +184,10 @@ def retrieve_hybrid(user_input, top_k=4):
     if not present_terms:
         return []
 
-    query_vector = embed_model.encode(user_input).tolist()
+    query_vector = shared.embed_model.encode(user_input).tolist()
     term_filter = Filter(must=[FieldCondition(key="term", match=MatchAny(any=list(present_terms)))])
     
-    search_result = qdrant.query_points(
+    search_result = shared.qdrant.query_points(
         collection_name=COLLECTION_NAME, query=query_vector, query_filter=term_filter, limit=100 
     )
 
@@ -238,27 +231,17 @@ def retrieve_hybrid(user_input, top_k=4):
 
     return sorted(resolved_matches, key=lambda x: x['score'], reverse=True)[:top_k]
 
-def get_user_prompt(user_input, draft_text, resolved_matches, history):
+# 동적 라우팅 반영
+def get_user_prompt(user_input, draft_text, resolved_matches):
     word_count = len(user_input.split())
     
-    # 1. 짧은 대화형(관용구)인지 판단 (예: 5단어 이하)
-    is_conversational = word_count <= 5 
-    
-    # 2. 히스토리 포맷팅
-    context_str = ""
-    if history:
-        history_lines = [f"User: {h['user']}\nBot: {h['assistant']}" for h in history]
-        context_str = "[이전 대화 맥락]\n" + "\n".join(history_lines) + "\n\n"
-
-    # 3. 프롬프트 동적 분기
-    if is_conversational:
-        # 대화형: 초벌 번역 제거, 100% 문맥 기반 의역 유도
-        base_prompt = f"{context_str}위 대화 흐름에 맞춰 다음 문장을 자연스러운 한국어 반말로 번역해:\n원문: {user_input.strip()}\n최종 번역:"
+    # 5단어 이하면 초벌 번역 아예 제외 (문맥 기반 유도)
+    if word_count <= 5:
+        base_prompt = f"원문: {user_input.strip()}\n최종 번역(반말):"
     else:
-        # 서술형: 초벌 번역을 구조 뼈대로 강제 투입 (문장성분 누락 방지)
-        base_prompt = f"{context_str}원문: {user_input.strip()}\n초벌 번역(문장 구조 참고용): {draft_text.strip()}\n최종 번역(반말):"
+        # 6단어 이상이면 초벌 번역 포함 (시스템 프롬프트의 [초벌 번역] 키워드 매칭)
+        base_prompt = f"원문: {user_input.strip()}\n[초벌 번역]: {draft_text.strip()}\n최종 번역(반말):"
         
-    # 4. 사전 데이터 병합
     if not resolved_matches: 
         return base_prompt
         
@@ -268,6 +251,7 @@ def get_user_prompt(user_input, draft_text, resolved_matches, history):
         {"\n".join(dict_lines)}
         
         {base_prompt}""")
+
 async def generate_translation_stream(user_input: str, draft_text: str, matched_dict: list):
     print(f"\n🗣️ [번역기 입력]: {user_input}")
     yield f"data: [CORRECTED]{user_input}\n\n"
@@ -280,7 +264,6 @@ async def generate_translation_stream(user_input: str, draft_text: str, matched_
     normalized_input = normalized_input.replace("don't", "do not")
     normalized_input = re.sub(r'[^a-z0-9\s]', '', normalized_input).strip()
     
-    # 💡 shared.EXACT_MATCH_DICT로 수정
     if normalized_input in shared.EXACT_MATCH_DICT:
         match_val = shared.EXACT_MATCH_DICT[normalized_input]
         print(f"⚡ [1단계 하드매칭 성공]: LLM 우회 -> {match_val}")
@@ -288,14 +271,14 @@ async def generate_translation_stream(user_input: str, draft_text: str, matched_
         yield "data: [DONE]\n\n"
         return
 
-    resolved_matches = matched_dict
-    
     messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    
+    # 히스토리 주입 (role 분리)
     for turn in CONVO_HISTORY:
         messages.append({"role": "user", "content": turn["user"]})
         messages.append({"role": "assistant", "content": turn["assistant"]})
     
-    user_prompt_content = get_user_prompt(user_input, draft_text, matched_dict, CONVO_HISTORY)
+    user_prompt_content = get_user_prompt(user_input, draft_text, matched_dict)
     messages.append({"role": "user", "content": user_prompt_content})
 
     raw_prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True, enable_thinking=False)
@@ -313,6 +296,11 @@ async def generate_translation_stream(user_input: str, draft_text: str, matched_
             yield f"data: {text_chunk}\n\n"
             
     yield "data: [DONE]\n\n"
+    
+    # 히스토리에는 user_input 원문만 저장하여 다음 턴 프롬프트 오염 방지
+    final_translation = "".join(full_translation_chunks).strip()
+    CONVO_HISTORY.append({"user": user_input, "assistant": final_translation})
+    print(f"✅ [번역 완료]: {final_translation}\n" + "-"*40)
     
     final_translation = "".join(full_translation_chunks).strip()
     CONVO_HISTORY.append({"user": user_input, "assistant": final_translation})
