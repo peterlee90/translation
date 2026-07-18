@@ -238,9 +238,30 @@ def retrieve_hybrid(user_input, top_k=4):
 
     return sorted(resolved_matches, key=lambda x: x['score'], reverse=True)[:top_k]
 
-def get_user_prompt(sentence, draft_text, resolved_matches):
-    base_prompt = f"원문: {sentence.strip()}\n초벌 번역: {draft_text.strip()}\n최종 번역(반말):"
-    if not resolved_matches: return base_prompt
+def get_user_prompt(user_input, draft_text, resolved_matches, history):
+    word_count = len(user_input.split())
+    
+    # 1. 짧은 대화형(관용구)인지 판단 (예: 5단어 이하)
+    is_conversational = word_count <= 5 
+    
+    # 2. 히스토리 포맷팅
+    context_str = ""
+    if history:
+        history_lines = [f"User: {h['user']}\nBot: {h['assistant']}" for h in history]
+        context_str = "[이전 대화 맥락]\n" + "\n".join(history_lines) + "\n\n"
+
+    # 3. 프롬프트 동적 분기
+    if is_conversational:
+        # 대화형: 초벌 번역 제거, 100% 문맥 기반 의역 유도
+        base_prompt = f"{context_str}위 대화 흐름에 맞춰 다음 문장을 자연스러운 한국어 반말로 번역해:\n원문: {user_input.strip()}\n최종 번역:"
+    else:
+        # 서술형: 초벌 번역을 구조 뼈대로 강제 투입 (문장성분 누락 방지)
+        base_prompt = f"{context_str}원문: {user_input.strip()}\n초벌 번역(문장 구조 참고용): {draft_text.strip()}\n최종 번역(반말):"
+        
+    # 4. 사전 데이터 병합
+    if not resolved_matches: 
+        return base_prompt
+        
     dict_lines = [f"- {m['term']}: {m['meaning']}" for m in resolved_matches]
     return textwrap.dedent(f"""\
         [사전]
