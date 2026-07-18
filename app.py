@@ -1,15 +1,15 @@
-import sys
-from fastapi import FastAPI
-from fastapi.responses import StreamingResponse
+import sys # 파이썬 실행 환경 관리자
+from fastapi import FastAPI # 번역 결과 서빙 계층
+from fastapi.responses import StreamingResponse # 실시간 송출
 from pydantic import BaseModel
-import uvicorn
+import uvicorn # ASGI 웹 서버
 from contextlib import asynccontextmanager
 
-# 분리된 커스텀 모듈 임포트
+# 비즈니스 로직 -> 번역, 교정
 from translation import init_vector_db, init_exact_matches, generate_translation_stream
 from spell_correction import init_corrector, correct_text
 
-# 인코딩 에러 및 강제 종료 차단
+# ASCII 한글 로그 or 이모지 출력 ignore
 if sys.stdin is not None:
     sys.stdin.reconfigure(encoding='utf-8', errors='ignore')
 if sys.stdout is not None:
@@ -21,19 +21,18 @@ async def lifespan(app: FastAPI):
     init_vector_db() 
     init_exact_matches()
     init_corrector()
-    print("🚀 서버 부팅 및 모델 적재 완료.")
     yield
 
 app = FastAPI(lifespan=lifespan)
 
-class TranslationRequest(BaseModel):
-    text: str
-    draft_text: str = ""  # 💡 구글 초벌 번역 수신용
+class TranslationRequest(BaseModel): # 요청 데이터 규격
+    text: str             # 영어 문장
+    draft_text: str = ""  # 구글 1차 번역
 
-@app.post("/translate/stream")
-async def translate_stream(payload: TranslationRequest):  # 💡 수정됨
-    # 텍스트 교정 및 매칭된 사전 데이터(Dict) 추출
-    corrected_text, matched_dict = correct_text(payload.text)
+@app.post("/translate/stream") # API 엔드 포인트
+async def translate_stream(payload: TranslationRequest):
+    # 교정된 고유명사, 용어집
+    corrected_text, matched_dict = correct_text(payload.text) # 교정
     
     # 교정된 텍스트와 사전을 번역기로 전달
     return StreamingResponse(
