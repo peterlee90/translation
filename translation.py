@@ -14,9 +14,9 @@ import shared
 CONVO_HISTORY = deque(maxlen=3)
 LAST_ACTIVE_DOMAIN = "league"
 
-IRREGULAR_VERBS = {}
+IRREGULAR_VERBS = {} # 불규칙 동사
 INVERTED_INDEX = defaultdict(set)
-TERM_REGEX_CACHE = {}
+TERM_REGEX_CACHE = {} # 정규화 공식
 
 LLM_CLIENT = AsyncOpenAI(
     api_key="EMPTY", 
@@ -28,6 +28,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 COLLECTION_NAME = "hybrid_dictionary"
 
+# 시스템 프롬프팅
 SYSTEM_PROMPT = textwrap.dedent("""\
     # Role
     EN-KR Banmal Translator & Post-Editor.
@@ -37,10 +38,10 @@ SYSTEM_PROMPT = textwrap.dedent("""\
     - [CRITICAL] Replace awkward ML translation with natural Korean and apply [사전] strictly.
 """)
 
-def init_exact_matches():
+def init_exact_matches(): # 하드캐싱
     json_path = os.path.join(os.path.dirname(__file__), "data", "quick.json")
     if os.path.exists(json_path):
-        with open(json_path, "r", encoding="utf-8") as f:
+        with open(json_path, "r", encoding="utf-8") as f: # 파일 읽기
             data = json.load(f)
             
             # 리스트 형태면 dict로 변환, 이미 dict면 키를 소문자로 정규화하여 저장
